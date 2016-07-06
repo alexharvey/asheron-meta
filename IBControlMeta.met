@@ -1229,7 +1229,7 @@ n
 i
 2
 s
-/mt fellow create Group Effort
+/mt fellow create The Source
 s
 CreateFellowAndRecruit
 i
@@ -1248,7 +1248,7 @@ i
 i
 2
 s
-/mt fellow recruit Char Name1
+/mt fellow recruit Elske
 s
 CreateFellowAndRecruit
 i
@@ -1267,7 +1267,7 @@ i
 i
 4
 s
-/mt fellow recruit Char Name2
+/mt fellow recruit Beryl
 s
 CreateFellowAndRecruit
 i
@@ -1286,7 +1286,7 @@ i
 i
 6
 s
-/mt fellow recruit Char Name3
+/mt fellow recruit Hazel
 s
 CreateFellowAndRecruit
 i
@@ -1305,7 +1305,7 @@ i
 i
 8
 s
-/mt fellow recruit Char Name4
+/mt fellow recruit Ashokan
 s
 CreateFellowAndRecruit
 i

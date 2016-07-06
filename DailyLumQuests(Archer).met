@@ -11,23 +11,13 @@ n
 n
 n
 n
-10
-i
-1
-i
-2
-i
-0
-s
-/vt settings load --The Bow Fighter_Harvestgain_meta
-s
-Default
+9
 i
 17
 i
 2
 i
--711393280
+-199753728
 s
 /vt meta load HermitDW(Archer)
 s
@@ -72,7 +62,7 @@ i
 i
 -2138046446
 s
-/vt meta load SocietyTasks(Archer)
+/vt meta load SocietyTasks
 s
 Default
 i

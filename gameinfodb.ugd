@@ -1,0 +1,27423 @@
+14
+AmmunitionOptions
+8
+AmmoName
+LauncherType
+WieldReq
+Element
+Quality
+Special
+WieldReq2Skill
+WieldReq2Value
+y
+n
+n
+n
+n
+n
+n
+n
+120
+s
+Barbed Quarrel
+i
+6
+i
+0
+i
+0
+i
+4
+i
+0
+i
+0
+i
+0
+s
+Greater Barbed Quarrel
+i
+6
+i
+0
+i
+0
+i
+9
+i
+0
+i
+0
+i
+0
+s
+Deadly Barbed Quarrel
+i
+6
+i
+230
+i
+0
+i
+22
+i
+0
+i
+0
+i
+0
+s
+Blunt Quarrel
+i
+6
+i
+0
+i
+1
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Blunt Quarrel
+i
+6
+i
+0
+i
+1
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Blunt Quarrel
+i
+6
+i
+230
+i
+1
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Armor Piercing Quarrel
+i
+6
+i
+0
+i
+0
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Armor Piercing Quarrel
+i
+6
+i
+0
+i
+0
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Armor Piercing Quarrel
+i
+6
+i
+230
+i
+0
+i
+23
+i
+0
+i
+0
+i
+0
+s
+Frog Crotch Quarrel
+i
+6
+i
+0
+i
+2
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Frog Crotch Quarrel
+i
+6
+i
+0
+i
+2
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Frog Crotch Quarrel
+i
+6
+i
+230
+i
+2
+i
+23
+i
+0
+i
+0
+i
+0
+s
+Fire Quarrel
+i
+6
+i
+0
+i
+6
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Fire Quarrel
+i
+6
+i
+0
+i
+6
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Fire Quarrel
+i
+6
+i
+230
+i
+6
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Lightning Quarrel
+i
+6
+i
+0
+i
+4
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Lightning Quarrel
+i
+6
+i
+0
+i
+4
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Lightning Quarrel
+i
+6
+i
+230
+i
+4
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Acid Quarrel
+i
+6
+i
+0
+i
+3
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Acid Quarrel
+i
+6
+i
+0
+i
+3
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Acid Quarrel
+i
+6
+i
+230
+i
+3
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Frost Quarrel
+i
+6
+i
+0
+i
+5
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Frost Quarrel
+i
+6
+i
+0
+i
+5
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Frost Quarrel
+i
+6
+i
+230
+i
+5
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Barbed Atlatl Dart
+i
+7
+i
+0
+i
+0
+i
+4
+i
+0
+i
+0
+i
+0
+s
+Greater Barbed Atlatl Dart
+i
+7
+i
+0
+i
+0
+i
+9
+i
+0
+i
+0
+i
+0
+s
+Deadly Barbed Atlatl Dart
+i
+7
+i
+230
+i
+0
+i
+22
+i
+0
+i
+0
+i
+0
+s
+Blunt Atlatl Dart
+i
+7
+i
+0
+i
+1
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Blunt Atlatl Dart
+i
+7
+i
+0
+i
+1
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Blunt Atlatl Dart
+i
+7
+i
+230
+i
+1
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Armor Piercing Atlatl Dart
+i
+7
+i
+0
+i
+0
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Armor Piercing Atlatl Dart
+i
+7
+i
+0
+i
+0
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Armor Piercing Atlatl Dart
+i
+7
+i
+230
+i
+0
+i
+23
+i
+0
+i
+0
+i
+0
+s
+Frog Crotch Atlatl Dart
+i
+7
+i
+0
+i
+2
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Frog Crotch Atlatl Dart
+i
+7
+i
+0
+i
+2
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Frog Crotch Atlatl Dart
+i
+7
+i
+230
+i
+2
+i
+23
+i
+0
+i
+0
+i
+0
+s
+Fire Atlatl Dart
+i
+7
+i
+0
+i
+6
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Fire Atlatl Dart
+i
+7
+i
+0
+i
+6
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Fire Atlatl Dart
+i
+7
+i
+230
+i
+6
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Lightning Atlatl Dart
+i
+7
+i
+0
+i
+4
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Lightning Atlatl Dart
+i
+7
+i
+0
+i
+4
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Lightning Atlatl Dart
+i
+7
+i
+230
+i
+4
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Acid Atlatl Dart
+i
+7
+i
+0
+i
+3
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Acid Atlatl Dart
+i
+7
+i
+0
+i
+3
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Acid Atlatl Dart
+i
+7
+i
+230
+i
+3
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Frost Atlatl Dart
+i
+7
+i
+0
+i
+5
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Frost Atlatl Dart
+i
+7
+i
+0
+i
+5
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Frost Atlatl Dart
+i
+7
+i
+230
+i
+5
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Barbed Arrow
+i
+5
+i
+0
+i
+0
+i
+4
+i
+0
+i
+0
+i
+0
+s
+Greater Barbed Arrow
+i
+5
+i
+0
+i
+0
+i
+9
+i
+0
+i
+0
+i
+0
+s
+Deadly Barbed Arrow
+i
+5
+i
+230
+i
+0
+i
+22
+i
+0
+i
+0
+i
+0
+s
+Blunt Arrow
+i
+5
+i
+0
+i
+1
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Blunt Arrow
+i
+5
+i
+0
+i
+1
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Blunt Arrow
+i
+5
+i
+230
+i
+1
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Armor Piercing Arrow
+i
+5
+i
+0
+i
+0
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Armor Piercing Arrow
+i
+5
+i
+0
+i
+0
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Armor Piercing Arrow
+i
+5
+i
+230
+i
+0
+i
+23
+i
+0
+i
+0
+i
+0
+s
+Frog Crotch Arrow
+i
+5
+i
+0
+i
+2
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Frog Crotch Arrow
+i
+5
+i
+0
+i
+2
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Frog Crotch Arrow
+i
+5
+i
+230
+i
+2
+i
+23
+i
+0
+i
+0
+i
+0
+s
+Fire Arrow
+i
+5
+i
+0
+i
+6
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Fire Arrow
+i
+5
+i
+0
+i
+6
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Fire Arrow
+i
+5
+i
+230
+i
+6
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Lightning Arrow
+i
+5
+i
+0
+i
+4
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Lightning Arrow
+i
+5
+i
+0
+i
+4
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Lightning Arrow
+i
+5
+i
+230
+i
+4
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Acid Arrow
+i
+5
+i
+0
+i
+3
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Acid Arrow
+i
+5
+i
+0
+i
+3
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Acid Arrow
+i
+5
+i
+230
+i
+3
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Frost Arrow
+i
+5
+i
+0
+i
+5
+i
+5
+i
+0
+i
+0
+i
+0
+s
+Greater Frost Arrow
+i
+5
+i
+0
+i
+5
+i
+10
+i
+0
+i
+0
+i
+0
+s
+Deadly Frost Arrow
+i
+5
+i
+230
+i
+5
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Deadly Arrow
+i
+5
+i
+230
+i
+0
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Deadly Quarrel
+i
+6
+i
+230
+i
+0
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Deadly Atlatl Dart
+i
+7
+i
+230
+i
+0
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Deadly Broadhead Arrow
+i
+5
+i
+230
+i
+2
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Deadly Broadhead Quarrel
+i
+6
+i
+230
+i
+2
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Deadly Broadhead Atlatl Dart
+i
+7
+i
+230
+i
+2
+i
+20
+i
+0
+i
+0
+i
+0
+s
+Greater Broadhead Atlatl Dart
+i
+7
+i
+0
+i
+2
+i
+8
+i
+0
+i
+0
+i
+0
+s
+Greater Broadhead Arrow
+i
+5
+i
+0
+i
+2
+i
+8
+i
+0
+i
+0
+i
+0
+s
+Greater Broadhead Quarrel
+i
+6
+i
+0
+i
+2
+i
+8
+i
+0
+i
+0
+i
+0
+s
+Arrow
+i
+5
+i
+0
+i
+0
+i
+3
+i
+0
+i
+0
+i
+0
+s
+Atlatl Dart
+i
+7
+i
+0
+i
+0
+i
+3
+i
+0
+i
+0
+i
+0
+s
+Quarrel
+i
+6
+i
+0
+i
+0
+i
+3
+i
+0
+i
+0
+i
+0
+s
+Broadhead Arrow
+i
+5
+i
+0
+i
+2
+i
+3
+i
+0
+i
+0
+i
+0
+s
+Broadhead Quarrel
+i
+6
+i
+0
+i
+2
+i
+3
+i
+0
+i
+0
+i
+0
+s
+Broadhead Atlatl Dart
+i
+7
+i
+0
+i
+2
+i
+3
+i
+0
+i
+0
+i
+0
+s
+Raider Lightning Bolt
+i
+6
+i
+270
+i
+4
+i
+30
+i
+1
+i
+0
+i
+0
+s
+Raider Lightning Atlatl Dart
+i
+7
+i
+270
+i
+4
+i
+30
+i
+1
+i
+0
+i
+0
+s
+Raider Lightning Arrow
+i
+5
+i
+270
+i
+4
+i
+30
+i
+1
+i
+0
+i
+0
+s
+Spectral Chill Arrow
+i
+5
+i
+270
+i
+5
+i
+30
+i
+2
+i
+0
+i
+0
+s
+Spectral Chill Bolt
+i
+6
+i
+270
+i
+5
+i
+30
+i
+2
+i
+0
+i
+0
+s
+Spectral Chill Atlatl Dart
+i
+7
+i
+270
+i
+5
+i
+30
+i
+2
+i
+0
+i
+0
+s
+Olthoi Acid Arrow
+i
+5
+i
+270
+i
+3
+i
+30
+i
+2
+i
+0
+i
+0
+s
+Olthoi Acid Bolt
+i
+6
+i
+270
+i
+3
+i
+30
+i
+2
+i
+0
+i
+0
+s
+Olthoi Acid Atlatl Dart
+i
+7
+i
+270
+i
+3
+i
+30
+i
+2
+i
+0
+i
+0
+s
+Greater Deadly Blunt Arrow
+i
+5
+i
+270
+i
+1
+i
+30
+i
+0
+i
+0
+i
+0
+s
+Greater Deadly Blunt Quarrel
+i
+6
+i
+270
+i
+1
+i
+30
+i
+0
+i
+0
+i
+0
+s
+Greater Deadly Blunt Atlatl Dart
+i
+7
+i
+270
+i
+1
+i
+30
+i
+0
+i
+0
+i
+0
+s
+Gear Blade Slashing Arrow
+i
+5
+i
+270
+i
+2
+i
+30
+i
+2
+i
+0
+i
+0
+s
+Gear Blade Slashing Bolt
+i
+6
+i
+270
+i
+2
+i
+30
+i
+2
+i
+0
+i
+0
+s
+Gear Blade Slashing Atlatl Dart
+i
+7
+i
+270
+i
+2
+i
+30
+i
+2
+i
+0
+i
+0
+s
+Burning Sands Atlatl Dart
+i
+7
+i
+270
+i
+6
+i
+30
+i
+2
+i
+0
+i
+0
+s
+Burning Sands Bolt
+i
+6
+i
+270
+i
+6
+i
+30
+i
+2
+i
+0
+i
+0
+s
+Burning Sands Arrow
+i
+5
+i
+270
+i
+6
+i
+30
+i
+2
+i
+0
+i
+0
+s
+Greater Deadly Armor Piercing Atlatl Dart
+i
+7
+i
+270
+i
+0
+i
+33
+i
+0
+i
+0
+i
+0
+s
+Greater Deadly Armor Piercing Arrow
+i
+5
+i
+270
+i
+0
+i
+33
+i
+0
+i
+0
+i
+0
+s
+Greater Deadly Armor Piercing Quarrel
+i
+6
+i
+270
+i
+0
+i
+33
+i
+0
+i
+0
+i
+0
+s
+Greater Deadly Frog Crotch Atlatl Dart
+i
+7
+i
+270
+i
+2
+i
+33
+i
+0
+i
+0
+i
+0
+s
+Greater Deadly Frog Crotch Quarrel
+i
+6
+i
+270
+i
+2
+i
+33
+i
+0
+i
+0
+i
+0
+s
+Greater Deadly Frog Crotch Arrow
+i
+5
+i
+270
+i
+2
+i
+33
+i
+0
+i
+0
+i
+0
+s
+Deadly Prismatic Atlatl Dart
+i
+7
+i
+300
+i
+100
+i
+31
+i
+0
+i
+37
+i
+375
+s
+Deadly Prismatic Quarrel
+i
+6
+i
+300
+i
+100
+i
+31
+i
+0
+i
+37
+i
+375
+s
+Deadly Prismatic Arrow
+i
+5
+i
+300
+i
+100
+i
+31
+i
+0
+i
+37
+i
+375
+s
+Greater Prismatic Atlatl Dart
+i
+7
+i
+290
+i
+100
+i
+26
+i
+0
+i
+37
+i
+350
+s
+Greater Prismatic Quarrel
+i
+6
+i
+290
+i
+100
+i
+26
+i
+0
+i
+37
+i
+350
+s
+Greater Prismatic Arrow
+i
+5
+i
+290
+i
+100
+i
+26
+i
+0
+i
+37
+i
+350
+s
+Prismatic Atlatl Dart
+i
+7
+i
+250
+i
+100
+i
+21
+i
+0
+i
+37
+i
+250
+s
+Prismatic Quarrel
+i
+6
+i
+250
+i
+100
+i
+21
+i
+0
+i
+37
+i
+250
+s
+Prismatic Arrow
+i
+5
+i
+250
+i
+100
+i
+21
+i
+0
+i
+37
+i
+250
+CooldownIDs
+2
+Itemname
+CooldownID
+y
+n
+20
+s
+Asheron's Benediction
+i
+-32766
+s
+Asheron's Lesser Benediction
+i
+-32766
+s
+Blackmoor's Favor
+i
+-32765
+s
+Copper Medal of Vigor
+i
+-32761
+s
+Silver Medal of Vigor
+i
+-32761
+s
+Gold Medal of Vigor
+i
+-32761
+s
+Pyreal Medal of Vigor
+i
+-32761
+s
+Platinum Medal of Vigor
+i
+-32761
+s
+Copper Medal of Intellect
+i
+-32760
+s
+Silver Medal of Intellect
+i
+-32760
+s
+Gold Medal of Intellect
+i
+-32760
+s
+Pyreal Medal of Intellect
+i
+-32760
+s
+Platinum Medal of Intellect
+i
+-32760
+s
+Platinum Horn of Leadership
+i
+-32762
+s
+Pyreal Horn of Leadership
+i
+-32762
+s
+Gold Horn of Leadership
+i
+-32762
+s
+Silver Horn of Leadership
+i
+-32762
+s
+Bronze Horn of Leadership
+i
+-32762
+s
+Enhanced Health Elixir
+i
+-32764
+s
+Enhanced Mana Elixir
+i
+-32763
+CraftInteractions
+9
+UseItem1
+UseItem2
+ResultItem
+ResultCount
+SuccessMsg
+FailMsg
+ReqSkill
+ReqDiff
+ID
+n
+n
+n
+n
+n
+n
+n
+n
+y
+757
+s
+Wrapped Bundle of Barbed Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Barbed Arrow
+i
+250
+s
+You make a big bundle of barbed arrows.
+s
+You fail to make any barbed arrows.
+i
+37
+i
+55
+i
+1
+s
+Wrapped Bundle of Greater Barbed Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Greater Barbed Arrow
+i
+250
+s
+You make a big bundle of greater barbed arrows.
+s
+You fail to make any greater barbed arrows.
+i
+37
+i
+209
+i
+2
+s
+Wrapped Bundle of Deadly Barbed Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Deadly Barbed Arrow
+i
+250
+s
+You make a big bundle of deadly barbed arrows.
+s
+You fail to make any deadly barbed arrows.
+i
+37
+i
+220
+i
+3
+s
+Wrapped Bundle of Barbed Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Barbed Quarrel
+i
+250
+s
+You make a big bundle of barbed quarrels.
+s
+You fail to make any barbed quarrels.
+i
+37
+i
+55
+i
+4
+s
+Wrapped Bundle of Greater Barbed Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Greater Barbed Quarrel
+i
+250
+s
+You make a big bundle of greater barbed quarrels.
+s
+You fail to make any greater barbed quarrels.
+i
+37
+i
+209
+i
+5
+s
+Wrapped Bundle of Deadly Barbed Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Deadly Barbed Quarrel
+i
+250
+s
+You make a big bundle of deadly barbed quarrels.
+s
+You fail to make any deadly barbed quarrels.
+i
+37
+i
+220
+i
+6
+s
+Wrapped Bundle of Barbed Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Barbed Atlatl Dart
+i
+250
+s
+You make a big bundle of barbed atlatl darts.
+s
+You fail to make any barbed atlatl darts.
+i
+37
+i
+55
+i
+7
+s
+Wrapped Bundle of Greater Barbed Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Greater Barbed Atlatl Dart
+i
+250
+s
+You make a big bundle of greater barbed atlatl darts.
+s
+You fail to make any greater barbed atlatl darts.
+i
+37
+i
+209
+i
+8
+s
+Wrapped Bundle of Deadly Barbed Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Deadly Barbed Atlatl Dart
+i
+250
+s
+You make a big bundle of deadly barbed atlatl darts.
+s
+You fail to make any deadly barbed atlatl darts.
+i
+37
+i
+220
+i
+9
+s
+Wrapped Bundle of Blunt Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Blunt Arrow
+i
+250
+s
+You make a big bundle of blunt arrows.
+s
+You fail to make any blunt arrows.
+i
+37
+i
+0
+i
+10
+s
+Wrapped Bundle of Greater Blunt Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Greater Blunt Arrow
+i
+250
+s
+You make a big bundle of greater blunt arrows.
+s
+You fail to make any greater blunt arrows.
+i
+37
+i
+0
+i
+11
+s
+Wrapped Bundle of Deadly Blunt Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Deadly Blunt Arrow
+i
+250
+s
+You make a big bundle of deadly blunt arrows.
+s
+You fail to make any deadly blunt arrows.
+i
+37
+i
+198
+i
+12
+s
+Wrapped Bundle of Blunt Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Blunt Quarrel
+i
+250
+s
+You make a big bundle of blunt quarrels.
+s
+You fail to make any blunt quarrels.
+i
+37
+i
+0
+i
+13
+s
+Wrapped Bundle of Greater Blunt Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Greater Blunt Quarrel
+i
+250
+s
+You make a big bundle of greater blunt quarrels.
+s
+You fail to make any greater blunt quarrels.
+i
+37
+i
+0
+i
+14
+s
+Wrapped Bundle of Deadly Blunt Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Deadly Blunt Quarrel
+i
+250
+s
+You make a big bundle of deadly blunt quarrels.
+s
+You fail to make any deadly blunt quarrels.
+i
+37
+i
+198
+i
+15
+s
+Wrapped Bundle of Blunt Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Blunt Atlatl Dart
+i
+250
+s
+You make a big bundle of blunt atlatl darts.
+s
+You fail to make any blunt atlatl darts.
+i
+37
+i
+0
+i
+16
+s
+Wrapped Bundle of Greater Blunt Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Greater Blunt Atlatl Dart
+i
+250
+s
+You make a big bundle of greater blunt atlatl darts.
+s
+You fail to make any greater blunt atlatl darts.
+i
+37
+i
+0
+i
+17
+s
+Wrapped Bundle of Deadly Blunt Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Deadly Blunt Atlatl Dart
+i
+250
+s
+You make a big bundle of deadly blunt atlatl darts.
+s
+You fail to make any deadly blunt atlatl darts.
+i
+37
+i
+198
+i
+18
+s
+Wrapped Bundle of Armor Piercing Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Armor Piercing Arrow
+i
+250
+s
+You make a big bundle of armor-piercing arrows.
+s
+You fail to make any armor-piercing arrows.
+i
+37
+i
+0
+i
+19
+s
+Wrapped Bundle of Greater Armor Piercing Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Greater Armor Piercing Arrow
+i
+250
+s
+You make a big bundle of greater armor-piercing arrows.
+s
+You fail to make any greater armor-piercing arrows.
+i
+37
+i
+0
+i
+20
+s
+Wrapped Bundle of Deadly Armor Piercing Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Deadly Armor Piercing Arrow
+i
+250
+s
+You make a big bundle of deadly armor-piercing arrows.
+s
+You fail to make any deadly armor-piercing arrows.
+i
+37
+i
+220
+i
+21
+s
+Wrapped Bundle of Armor Piercing Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Armor Piercing Quarrel
+i
+250
+s
+You make a big bundle of armor-piercing quarrels.
+s
+You fail to make any armor-piercing quarrels.
+i
+37
+i
+0
+i
+22
+s
+Wrapped Bundle of Greater Armor Piercing Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Greater Armor Piercing Quarrel
+i
+250
+s
+You make a big bundle of greater armor-piercing quarrels.
+s
+You fail to make any greater armor-piercing quarrels.
+i
+37
+i
+0
+i
+23
+s
+Wrapped Bundle of Deadly Armor Piercing Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Deadly Armor Piercing Quarrel
+i
+250
+s
+You make a big bundle of deadly armor-piercing quarrels.
+s
+You fail to make any deadly armor-piercing quarrels.
+i
+37
+i
+220
+i
+24
+s
+Wrapped Bundle of Armor Piercing Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Armor Piercing Atlatl Dart
+i
+250
+s
+You make a big bundle of armor-piercing atlatl darts.
+s
+You fail to make any armor-piercing atlatl darts.
+i
+37
+i
+0
+i
+25
+s
+Wrapped Bundle of Greater Armor Piercing Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Greater Armor Piercing Atlatl Dart
+i
+250
+s
+You make a big bundle of greater armor-piercing atlatl darts.
+s
+You fail to make any greater armor-piercing atlatl darts.
+i
+37
+i
+0
+i
+26
+s
+Wrapped Bundle of Deadly Armor Piercing Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Deadly Armor Piercing Atlatl Dart
+i
+250
+s
+You make a big bundle of deadly armor-piercing atlatl darts.
+s
+You fail to make any deadly armor-piercing atlatl darts.
+i
+37
+i
+220
+i
+27
+s
+Wrapped Bundle of Frog Crotch Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Frog Crotch Arrow
+i
+250
+s
+You make a big bundle of frog crotch arrows.
+s
+You fail to make any frog crotch arrows.
+i
+37
+i
+0
+i
+28
+s
+Wrapped Bundle of Greater Frog Crotch Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Greater Frog Crotch Arrow
+i
+250
+s
+You make a big bundle of greater frog crotch arrows.
+s
+You fail to make any greater frog crotch arrows.
+i
+37
+i
+0
+i
+29
+s
+Wrapped Bundle of Deadly Frog Crotch Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Deadly Frog Crotch Arrow
+i
+250
+s
+You make a big bundle of deadly frog crotch arrows.
+s
+You fail to make any deadly frog crotch arrows.
+i
+37
+i
+220
+i
+30
+s
+Wrapped Bundle of Frog Crotch Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Frog Crotch Quarrel
+i
+250
+s
+You make a big bundle of frog crotch quarrels.
+s
+You fail to make any frog crotch quarrels.
+i
+37
+i
+0
+i
+31
+s
+Wrapped Bundle of Greater Frog Crotch Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Greater Frog Crotch Quarrel
+i
+250
+s
+You make a big bundle of greater frog crotch quarrels.
+s
+You fail to make any greater frog crotch quarrels.
+i
+37
+i
+0
+i
+32
+s
+Wrapped Bundle of Deadly Frog Crotch Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Deadly Frog Crotch Quarrel
+i
+250
+s
+You make a big bundle of deadly frog crotch quarrels.
+s
+You fail to make any deadly frog crotch quarrels.
+i
+37
+i
+220
+i
+33
+s
+Wrapped Bundle of Frog Crotch Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Frog Crotch Atlatl Dart
+i
+250
+s
+You make a big bundle of frog crotch atlatl darts.
+s
+You fail to make any frog crotch atlatl darts.
+i
+37
+i
+0
+i
+34
+s
+Wrapped Bundle of Greater Frog Crotch Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Greater Frog Crotch Atlatl Dart
+i
+250
+s
+You make a big bundle of greater frog crotch atlatl darts.
+s
+You fail to make any greater frog crotch atlatl darts.
+i
+37
+i
+0
+i
+35
+s
+Wrapped Bundle of Deadly Frog Crotch Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Deadly Frog Crotch Atlatl Dart
+i
+250
+s
+You make a big bundle of deadly frog crotch atlatl darts.
+s
+You fail to make any deadly frog crotch atlatl darts.
+i
+37
+i
+220
+i
+36
+s
+Wrapped Bundle of Fire Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Fire Arrow
+i
+250
+s
+You make a big bundle of fire arrows.
+s
+You fail to make any fire arrows.
+i
+37
+i
+0
+i
+37
+s
+Wrapped Bundle of Greater Fire Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Greater Fire Arrow
+i
+250
+s
+You make a big bundle of greater fire arrows.
+s
+You fail to make any greater fire arrows.
+i
+37
+i
+0
+i
+38
+s
+Wrapped Bundle of Deadly Fire Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Deadly Fire Arrow
+i
+250
+s
+You make a big bundle of deadly fire arrows.
+s
+You fail to make any deadly fire arrows.
+i
+37
+i
+275
+i
+39
+s
+Wrapped Bundle of Fire Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Fire Quarrel
+i
+250
+s
+You make a big bundle of fire quarrels.
+s
+You fail to make any fire quarrels.
+i
+37
+i
+0
+i
+40
+s
+Wrapped Bundle of Greater Fire Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Greater Fire Quarrel
+i
+250
+s
+You make a big bundle of greater fire quarrels.
+s
+You fail to make any greater fire quarrels.
+i
+37
+i
+0
+i
+41
+s
+Wrapped Bundle of Deadly Fire Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Deadly Fire Quarrel
+i
+250
+s
+You make a big bundle of deadly fire quarrels.
+s
+You fail to make any deadly fire quarrels.
+i
+37
+i
+275
+i
+42
+s
+Wrapped Bundle of Fire Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Fire Atlatl Dart
+i
+250
+s
+You make a big bundle of fire atlatl darts.
+s
+You fail to make any fire atlatl darts.
+i
+37
+i
+0
+i
+43
+s
+Wrapped Bundle of Greater Fire Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Greater Fire Atlatl Dart
+i
+250
+s
+You make a big bundle of greater fire atlatl darts.
+s
+You fail to make any greater fire atlatl darts.
+i
+37
+i
+0
+i
+44
+s
+Wrapped Bundle of Deadly Fire Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Deadly Fire Atlatl Dart
+i
+250
+s
+You make a big bundle of deadly fire atlatl darts.
+s
+You fail to make any deadly fire atlatl darts.
+i
+37
+i
+275
+i
+45
+s
+Wrapped Bundle of Lightning Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Lightning Arrow
+i
+250
+s
+You make a big bundle of lightning arrows.
+s
+You fail to make any lightning arrows.
+i
+37
+i
+0
+i
+46
+s
+Wrapped Bundle of Greater Lightning Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Greater Lightning Arrow
+i
+250
+s
+You make a big bundle of greater lightning arrows.
+s
+You fail to make any greater lightning arrows.
+i
+37
+i
+0
+i
+47
+s
+Wrapped Bundle of Deadly Lightning Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Deadly Lightning Arrow
+i
+250
+s
+You make a big bundle of deadly lightning arrows.
+s
+You fail to make any deadly lightning arrows.
+i
+37
+i
+275
+i
+48
+s
+Wrapped Bundle of Lightning Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Lightning Quarrel
+i
+250
+s
+You make a big bundle of lightning quarrels.
+s
+You fail to make any lightning quarrels.
+i
+37
+i
+0
+i
+49
+s
+Wrapped Bundle of Greater Lightning Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Greater Lightning Quarrel
+i
+250
+s
+You make a big bundle of greater lightning quarrels.
+s
+You fail to make any greater lightning quarrels.
+i
+37
+i
+0
+i
+50
+s
+Wrapped Bundle of Deadly Lightning Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Deadly Lightning Quarrel
+i
+250
+s
+You make a big bundle of deadly lightning quarrels.
+s
+You fail to make any deadly lightning quarrels.
+i
+37
+i
+275
+i
+51
+s
+Wrapped Bundle of Lightning Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Lightning Atlatl Dart
+i
+250
+s
+You make a big bundle of lightning atlatl darts.
+s
+You fail to make any lightning atlatl darts.
+i
+37
+i
+0
+i
+52
+s
+Wrapped Bundle of Greater Lightning Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Greater Lightning Atlatl Dart
+i
+250
+s
+You make a big bundle of greater lightning atlatl darts.
+s
+You fail to make any greater lightning atlatl darts.
+i
+37
+i
+0
+i
+53
+s
+Wrapped Bundle of Deadly Lightning Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Deadly Lightning Atlatl Dart
+i
+250
+s
+You make a big bundle of deadly lightning atlatl darts.
+s
+You fail to make any deadly lightning atlatl darts.
+i
+37
+i
+275
+i
+54
+s
+Wrapped Bundle of Acid Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Acid Arrow
+i
+250
+s
+You make a big bundle of acid arrows.
+s
+You fail to make any acid arrows.
+i
+37
+i
+0
+i
+55
+s
+Wrapped Bundle of Greater Acid Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Greater Acid Arrow
+i
+250
+s
+You make a big bundle of greater acid arrows.
+s
+You fail to make any greater acid arrows.
+i
+37
+i
+0
+i
+56
+s
+Wrapped Bundle of Deadly Acid Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Deadly Acid Arrow
+i
+250
+s
+You make a big bundle of deadly acid arrows.
+s
+You fail to make any deadly acid arrows.
+i
+37
+i
+275
+i
+57
+s
+Wrapped Bundle of Acid Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Acid Quarrel
+i
+250
+s
+You make a big bundle of acid quarrels.
+s
+You fail to make any acid quarrels.
+i
+37
+i
+0
+i
+58
+s
+Wrapped Bundle of Greater Acid Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Greater Acid Quarrel
+i
+250
+s
+You make a big bundle of greater acid quarrels.
+s
+You fail to make any greater acid quarrels.
+i
+37
+i
+0
+i
+59
+s
+Wrapped Bundle of Deadly Acid Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Deadly Acid Quarrel
+i
+250
+s
+You make a big bundle of deadly acid quarrels.
+s
+You fail to make any deadly acid quarrels.
+i
+37
+i
+275
+i
+60
+s
+Wrapped Bundle of Acid Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Acid Atlatl Dart
+i
+250
+s
+You make a big bundle of acid atlatl darts.
+s
+You fail to make any acid atlatl darts.
+i
+37
+i
+0
+i
+61
+s
+Wrapped Bundle of Greater Acid Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Greater Acid Atlatl Dart
+i
+250
+s
+You make a big bundle of greater acid atlatl darts.
+s
+You fail to make any greater acid atlatl darts.
+i
+37
+i
+0
+i
+62
+s
+Wrapped Bundle of Deadly Acid Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Deadly Acid Atlatl Dart
+i
+250
+s
+You make a big bundle of deadly acid atlatl darts.
+s
+You fail to make any deadly acid atlatl darts.
+i
+37
+i
+275
+i
+63
+s
+Wrapped Bundle of Frost Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Frost Arrow
+i
+250
+s
+You make a big bundle of frost arrows.
+s
+You fail to make any frost arrows.
+i
+37
+i
+0
+i
+64
+s
+Wrapped Bundle of Greater Frost Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Greater Frost Arrow
+i
+250
+s
+You make a big bundle of greater frost arrows.
+s
+You fail to make any greater frost arrows.
+i
+37
+i
+0
+i
+65
+s
+Wrapped Bundle of Deadly Frost Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Deadly Frost Arrow
+i
+250
+s
+You make a big bundle of deadly frost arrows.
+s
+You fail to make any deadly frost arrows.
+i
+37
+i
+275
+i
+66
+s
+Wrapped Bundle of Frost Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Frost Quarrel
+i
+250
+s
+You make a big bundle of frost quarrels.
+s
+You fail to make any frost quarrels.
+i
+37
+i
+0
+i
+67
+s
+Wrapped Bundle of Greater Frost Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Greater Frost Quarrel
+i
+250
+s
+You make a big bundle of greater frost quarrels.
+s
+You fail to make any greater frost quarrels.
+i
+37
+i
+0
+i
+68
+s
+Wrapped Bundle of Deadly Frost Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Deadly Frost Quarrel
+i
+250
+s
+You make a big bundle of deadly frost quarrels.
+s
+You fail to make any deadly frost quarrels.
+i
+37
+i
+275
+i
+69
+s
+Wrapped Bundle of Frost Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Frost Atlatl Dart
+i
+250
+s
+You make a big bundle of frost atlatl darts.
+s
+You fail to make any frost atlatl darts.
+i
+37
+i
+0
+i
+70
+s
+Wrapped Bundle of Greater Frost Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Greater Frost Atlatl Dart
+i
+250
+s
+You make a big bundle of greater frost atlatl darts.
+s
+You fail to make any greater frost atlatl darts.
+i
+37
+i
+0
+i
+71
+s
+Wrapped Bundle of Deadly Frost Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Deadly Frost Atlatl Dart
+i
+250
+s
+You make a big bundle of deadly frost atlatl darts.
+s
+You fail to make any deadly frost atlatl darts.
+i
+37
+i
+275
+i
+72
+s
+Bundle of Barbed Arrowheads
+s
+Bundle of Arrowshafts
+s
+Barbed Arrow
+i
+10
+s
+You make a bundle of barbed arrows.
+s
+You fail to make any barbed arrows.
+i
+37
+i
+0
+i
+73
+s
+Bundle of Greater Barbed Arrowheads
+s
+Bundle of Arrowshafts
+s
+Greater Barbed Arrow
+i
+10
+s
+You make a bundle of greater barbed arrows.
+s
+You fail to make any greater barbed arrows.
+i
+37
+i
+0
+i
+74
+s
+Bundle of Deadly Barbed Arrowheads
+s
+Bundle of Arrowshafts
+s
+Deadly Barbed Arrow
+i
+10
+s
+You make a bundle of deadly barbed arrows.
+s
+You fail to make any deadly barbed arrows.
+i
+37
+i
+0
+i
+75
+s
+Bundle of Barbed Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Barbed Quarrel
+i
+10
+s
+You make a bundle of barbed quarrels.
+s
+You fail to make any barbed quarrels.
+i
+37
+i
+0
+i
+76
+s
+Bundle of Greater Barbed Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Greater Barbed Quarrel
+i
+10
+s
+You make a bundle of greater barbed quarrels.
+s
+You fail to make any greater barbed quarrels.
+i
+37
+i
+0
+i
+77
+s
+Bundle of Deadly Barbed Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Deadly Barbed Quarrel
+i
+10
+s
+You make a bundle of deadly barbed quarrels.
+s
+You fail to make any deadly barbed quarrels.
+i
+37
+i
+0
+i
+78
+s
+Bundle of Barbed Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Barbed Atlatl Dart
+i
+10
+s
+You make a bundle of barbed atlatl darts.
+s
+You fail to make any barbed atlatl darts.
+i
+37
+i
+0
+i
+79
+s
+Bundle of Greater Barbed Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Greater Barbed Atlatl Dart
+i
+10
+s
+You make a bundle of greater barbed atlatl darts.
+s
+You fail to make any greater barbed atlatl darts.
+i
+37
+i
+0
+i
+80
+s
+Bundle of Deadly Barbed Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Deadly Barbed Atlatl Dart
+i
+10
+s
+You make a bundle of deadly barbed atlatl darts.
+s
+You fail to make any deadly barbed atlatl darts.
+i
+37
+i
+0
+i
+81
+s
+Bundle of Blunt Arrowheads
+s
+Bundle of Arrowshafts
+s
+Blunt Arrow
+i
+10
+s
+You make a bundle of blunt arrows.
+s
+You fail to make any blunt arrows.
+i
+37
+i
+0
+i
+82
+s
+Bundle of Greater Blunt Arrowheads
+s
+Bundle of Arrowshafts
+s
+Greater Blunt Arrow
+i
+10
+s
+You make a bundle of greater blunt arrows.
+s
+You fail to make any greater blunt arrows.
+i
+37
+i
+0
+i
+83
+s
+Bundle of Deadly Blunt Arrowheads
+s
+Bundle of Arrowshafts
+s
+Deadly Blunt Arrow
+i
+10
+s
+You make a bundle of deadly blunt arrows.
+s
+You fail to make any deadly blunt arrows.
+i
+37
+i
+0
+i
+84
+s
+Bundle of Blunt Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Blunt Quarrel
+i
+10
+s
+You make a bundle of blunt quarrels.
+s
+You fail to make any blunt quarrels.
+i
+37
+i
+0
+i
+85
+s
+Bundle of Greater Blunt Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Greater Blunt Quarrel
+i
+10
+s
+You make a bundle of greater blunt quarrels.
+s
+You fail to make any greater blunt quarrels.
+i
+37
+i
+0
+i
+86
+s
+Bundle of Deadly Blunt Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Deadly Blunt Quarrel
+i
+10
+s
+You make a bundle of deadly blunt quarrels.
+s
+You fail to make any deadly blunt quarrels.
+i
+37
+i
+0
+i
+87
+s
+Bundle of Blunt Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Blunt Atlatl Dart
+i
+10
+s
+You make a bundle of blunt atlatl darts.
+s
+You fail to make any blunt atlatl darts.
+i
+37
+i
+0
+i
+88
+s
+Bundle of Greater Blunt Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Greater Blunt Atlatl Dart
+i
+10
+s
+You make a bundle of greater blunt atlatl darts.
+s
+You fail to make any greater blunt atlatl darts.
+i
+37
+i
+0
+i
+89
+s
+Bundle of Deadly Blunt Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Deadly Blunt Atlatl Dart
+i
+10
+s
+You make a bundle of deadly blunt atlatl darts.
+s
+You fail to make any deadly blunt atlatl darts.
+i
+37
+i
+0
+i
+90
+s
+Bundle of Armor Piercing Arrowheads
+s
+Bundle of Arrowshafts
+s
+Armor Piercing Arrow
+i
+10
+s
+You make a bundle of armor-piercing arrows.
+s
+You fail to make any armor-piercing arrows.
+i
+37
+i
+0
+i
+91
+s
+Bundle of Greater Armor Piercing Arrowheads
+s
+Bundle of Arrowshafts
+s
+Greater Armor Piercing Arrow
+i
+10
+s
+You make a bundle of greater armor-piercing arrows.
+s
+You fail to make any greater armor-piercing arrows.
+i
+37
+i
+0
+i
+92
+s
+Bundle of Deadly Armor Piercing Arrowheads
+s
+Bundle of Arrowshafts
+s
+Deadly Armor Piercing Arrow
+i
+10
+s
+You make a bundle of deadly armor-piercing arrows.
+s
+You fail to make any deadly armor-piercing arrows.
+i
+37
+i
+0
+i
+93
+s
+Bundle of Armor Piercing Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Armor Piercing Quarrel
+i
+10
+s
+You make a bundle of armor-piercing quarrels.
+s
+You fail to make any armor-piercing quarrels.
+i
+37
+i
+0
+i
+94
+s
+Bundle of Greater Armor Piercing Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Greater Armor Piercing Quarrel
+i
+10
+s
+You make a bundle of greater armor-piercing quarrels.
+s
+You fail to make any greater armor-piercing quarrels.
+i
+37
+i
+0
+i
+95
+s
+Bundle of Deadly Armor Piercing Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Deadly Armor Piercing Quarrel
+i
+10
+s
+You make a bundle of deadly armor-piercing quarrels.
+s
+You fail to make any deadly armor-piercing quarrels.
+i
+37
+i
+0
+i
+96
+s
+Bundle of Armor Piercing Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Armor Piercing Atlatl Dart
+i
+10
+s
+You make a bundle of armor-piercing atlatl darts.
+s
+You fail to make any armor-piercing atlatl darts.
+i
+37
+i
+0
+i
+97
+s
+Bundle of Greater Armor Piercing Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Greater Armor Piercing Atlatl Dart
+i
+10
+s
+You make a bundle of greater armor-piercing atlatl darts.
+s
+You fail to make any greater armor-piercing atlatl darts.
+i
+37
+i
+0
+i
+98
+s
+Bundle of Deadly Armor Piercing Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Deadly Armor Piercing Atlatl Dart
+i
+10
+s
+You make a bundle of deadly armor-piercing atlatl darts.
+s
+You fail to make any deadly armor-piercing atlatl darts.
+i
+37
+i
+0
+i
+99
+s
+Bundle of Frog Crotch Arrowheads
+s
+Bundle of Arrowshafts
+s
+Frog Crotch Arrow
+i
+10
+s
+You make a bundle of frog crotch arrows.
+s
+You fail to make any frog crotch arrows.
+i
+37
+i
+0
+i
+100
+s
+Bundle of Greater Frog Crotch Arrowheads
+s
+Bundle of Arrowshafts
+s
+Greater Frog Crotch Arrow
+i
+10
+s
+You make a bundle of greater frog crotch arrows.
+s
+You fail to make any greater frog crotch arrows.
+i
+37
+i
+0
+i
+101
+s
+Bundle of Deadly Frog Crotch Arrowheads
+s
+Bundle of Arrowshafts
+s
+Deadly Frog Crotch Arrow
+i
+10
+s
+You make a bundle of deadly frog crotch arrows.
+s
+You fail to make any deadly frog crotch arrows.
+i
+37
+i
+0
+i
+102
+s
+Bundle of Frog Crotch Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Frog Crotch Quarrel
+i
+10
+s
+You make a bundle of frog crotch quarrels.
+s
+You fail to make any frog crotch quarrels.
+i
+37
+i
+0
+i
+103
+s
+Bundle of Greater Frog Crotch Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Greater Frog Crotch Quarrel
+i
+10
+s
+You make a bundle of greater frog crotch quarrels.
+s
+You fail to make any greater frog crotch quarrels.
+i
+37
+i
+0
+i
+104
+s
+Bundle of Deadly Frog Crotch Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Deadly Frog Crotch Quarrel
+i
+10
+s
+You make a bundle of deadly frog crotch quarrels.
+s
+You fail to make any deadly frog crotch quarrels.
+i
+37
+i
+0
+i
+105
+s
+Bundle of Frog Crotch Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Frog Crotch Atlatl Dart
+i
+10
+s
+You make a bundle of frog crotch atlatl darts.
+s
+You fail to make any frog crotch atlatl darts.
+i
+37
+i
+0
+i
+106
+s
+Bundle of Greater Frog Crotch Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Greater Frog Crotch Atlatl Dart
+i
+10
+s
+You make a bundle of greater frog crotch atlatl darts.
+s
+You fail to make any greater frog crotch atlatl darts.
+i
+37
+i
+0
+i
+107
+s
+Bundle of Deadly Frog Crotch Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Deadly Frog Crotch Atlatl Dart
+i
+10
+s
+You make a bundle of deadly frog crotch atlatl darts.
+s
+You fail to make any deadly frog crotch atlatl darts.
+i
+37
+i
+0
+i
+108
+s
+Bundle of Fire Arrowheads
+s
+Bundle of Arrowshafts
+s
+Fire Arrow
+i
+10
+s
+You make a bundle of fire arrows.
+s
+You fail to make any fire arrows.
+i
+37
+i
+0
+i
+109
+s
+Bundle of Greater Fire Arrowheads
+s
+Bundle of Arrowshafts
+s
+Greater Fire Arrow
+i
+10
+s
+You make a bundle of greater fire arrows.
+s
+You fail to make any greater fire arrows.
+i
+37
+i
+0
+i
+110
+s
+Bundle of Deadly Fire Arrowheads
+s
+Bundle of Arrowshafts
+s
+Deadly Fire Arrow
+i
+10
+s
+You make a bundle of deadly fire arrows.
+s
+You fail to make any deadly fire arrows.
+i
+37
+i
+0
+i
+111
+s
+Bundle of Fire Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Fire Quarrel
+i
+10
+s
+You make a bundle of fire quarrels.
+s
+You fail to make any fire quarrels.
+i
+37
+i
+0
+i
+112
+s
+Bundle of Greater Fire Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Greater Fire Quarrel
+i
+10
+s
+You make a bundle of greater fire quarrels.
+s
+You fail to make any greater fire quarrels.
+i
+37
+i
+0
+i
+113
+s
+Bundle of Deadly Fire Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Deadly Fire Quarrel
+i
+10
+s
+You make a bundle of deadly fire quarrels.
+s
+You fail to make any deadly fire quarrels.
+i
+37
+i
+0
+i
+114
+s
+Bundle of Fire Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Fire Atlatl Dart
+i
+10
+s
+You make a bundle of fire atlatl darts.
+s
+You fail to make any fire atlatl darts.
+i
+37
+i
+0
+i
+115
+s
+Bundle of Greater Fire Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Greater Fire Atlatl Dart
+i
+10
+s
+You make a bundle of greater fire atlatl darts.
+s
+You fail to make any greater fire atlatl darts.
+i
+37
+i
+0
+i
+116
+s
+Bundle of Deadly Fire Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Deadly Fire Atlatl Dart
+i
+10
+s
+You make a bundle of deadly fire atlatl darts.
+s
+You fail to make any deadly fire atlatl darts.
+i
+37
+i
+0
+i
+117
+s
+Bundle of Lightning Arrowheads
+s
+Bundle of Arrowshafts
+s
+Lightning Arrow
+i
+10
+s
+You make a bundle of lightning arrows.
+s
+You fail to make any lightning arrows.
+i
+37
+i
+0
+i
+118
+s
+Bundle of Greater Lightning Arrowheads
+s
+Bundle of Arrowshafts
+s
+Greater Lightning Arrow
+i
+10
+s
+You make a bundle of greater lightning arrows.
+s
+You fail to make any greater lightning arrows.
+i
+37
+i
+0
+i
+119
+s
+Bundle of Deadly Lightning Arrowheads
+s
+Bundle of Arrowshafts
+s
+Deadly Lightning Arrow
+i
+10
+s
+You make a bundle of deadly lightning arrows.
+s
+You fail to make any deadly lightning arrows.
+i
+37
+i
+0
+i
+120
+s
+Bundle of Lightning Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Lightning Quarrel
+i
+10
+s
+You make a bundle of lightning quarrels.
+s
+You fail to make any lightning quarrels.
+i
+37
+i
+0
+i
+121
+s
+Bundle of Greater Lightning Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Greater Lightning Quarrel
+i
+10
+s
+You make a bundle of greater lightning quarrels.
+s
+You fail to make any greater lightning quarrels.
+i
+37
+i
+0
+i
+122
+s
+Bundle of Deadly Lightning Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Deadly Lightning Quarrel
+i
+10
+s
+You make a bundle of deadly lightning quarrels.
+s
+You fail to make any deadly lightning quarrels.
+i
+37
+i
+0
+i
+123
+s
+Bundle of Lightning Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Lightning Atlatl Dart
+i
+10
+s
+You make a bundle of lightning atlatl darts.
+s
+You fail to make any lightning atlatl darts.
+i
+37
+i
+0
+i
+124
+s
+Bundle of Greater Lightning Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Greater Lightning Atlatl Dart
+i
+10
+s
+You make a bundle of greater lightning atlatl darts.
+s
+You fail to make any greater lightning atlatl darts.
+i
+37
+i
+0
+i
+125
+s
+Bundle of Deadly Lightning Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Deadly Lightning Atlatl Dart
+i
+10
+s
+You make a bundle of deadly lightning atlatl darts.
+s
+You fail to make any deadly lightning atlatl darts.
+i
+37
+i
+0
+i
+126
+s
+Bundle of Acid Arrowheads
+s
+Bundle of Arrowshafts
+s
+Acid Arrow
+i
+10
+s
+You make a bundle of acid arrows.
+s
+You fail to make any acid arrows.
+i
+37
+i
+0
+i
+127
+s
+Bundle of Greater Acid Arrowheads
+s
+Bundle of Arrowshafts
+s
+Greater Acid Arrow
+i
+10
+s
+You make a bundle of greater acid arrows.
+s
+You fail to make any greater acid arrows.
+i
+37
+i
+0
+i
+128
+s
+Bundle of Deadly Acid Arrowheads
+s
+Bundle of Arrowshafts
+s
+Deadly Acid Arrow
+i
+10
+s
+You make a bundle of deadly acid arrows.
+s
+You fail to make any deadly acid arrows.
+i
+37
+i
+0
+i
+129
+s
+Bundle of Acid Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Acid Quarrel
+i
+10
+s
+You make a bundle of acid quarrels.
+s
+You fail to make any acid quarrels.
+i
+37
+i
+0
+i
+130
+s
+Bundle of Greater Acid Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Greater Acid Quarrel
+i
+10
+s
+You make a bundle of greater acid quarrels.
+s
+You fail to make any greater acid quarrels.
+i
+37
+i
+0
+i
+131
+s
+Bundle of Deadly Acid Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Deadly Acid Quarrel
+i
+10
+s
+You make a bundle of deadly acid quarrels.
+s
+You fail to make any deadly acid quarrels.
+i
+37
+i
+0
+i
+132
+s
+Bundle of Acid Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Acid Atlatl Dart
+i
+10
+s
+You make a bundle of acid atlatl darts.
+s
+You fail to make any acid atlatl darts.
+i
+37
+i
+0
+i
+133
+s
+Bundle of Greater Acid Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Greater Acid Atlatl Dart
+i
+10
+s
+You make a bundle of greater acid atlatl darts.
+s
+You fail to make any greater acid atlatl darts.
+i
+37
+i
+0
+i
+134
+s
+Bundle of Deadly Acid Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Deadly Acid Atlatl Dart
+i
+10
+s
+You make a bundle of deadly acid atlatl darts.
+s
+You fail to make any deadly acid atlatl darts.
+i
+37
+i
+0
+i
+135
+s
+Bundle of Frost Arrowheads
+s
+Bundle of Arrowshafts
+s
+Frost Arrow
+i
+10
+s
+You make a bundle of frost arrows.
+s
+You fail to make any frost arrows.
+i
+37
+i
+0
+i
+136
+s
+Bundle of Greater Frost Arrowheads
+s
+Bundle of Arrowshafts
+s
+Greater Frost Arrow
+i
+10
+s
+You make a bundle of greater frost arrows.
+s
+You fail to make any greater frost arrows.
+i
+37
+i
+0
+i
+137
+s
+Bundle of Deadly Frost Arrowheads
+s
+Bundle of Arrowshafts
+s
+Deadly Frost Arrow
+i
+10
+s
+You make a bundle of deadly frost arrows.
+s
+You fail to make any deadly frost arrows.
+i
+37
+i
+0
+i
+138
+s
+Bundle of Frost Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Frost Quarrel
+i
+10
+s
+You make a bundle of frost quarrels.
+s
+You fail to make any frost quarrels.
+i
+37
+i
+0
+i
+139
+s
+Bundle of Greater Frost Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Greater Frost Quarrel
+i
+10
+s
+You make a bundle of greater frost quarrels.
+s
+You fail to make any greater frost quarrels.
+i
+37
+i
+0
+i
+140
+s
+Bundle of Deadly Frost Arrowheads
+s
+Bundle of Quarrelshafts
+s
+Deadly Frost Quarrel
+i
+10
+s
+You make a bundle of deadly frost quarrels.
+s
+You fail to make any deadly frost quarrels.
+i
+37
+i
+0
+i
+141
+s
+Bundle of Frost Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Frost Atlatl Dart
+i
+10
+s
+You make a bundle of frost atlatl darts.
+s
+You fail to make any frost atlatl darts.
+i
+37
+i
+0
+i
+142
+s
+Bundle of Greater Frost Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Greater Frost Atlatl Dart
+i
+10
+s
+You make a bundle of greater frost atlatl darts.
+s
+You fail to make any greater frost atlatl darts.
+i
+37
+i
+0
+i
+143
+s
+Bundle of Deadly Frost Arrowheads
+s
+Bundle of Atlatl Dart shafts
+s
+Deadly Frost Atlatl Dart
+i
+10
+s
+You make a bundle of deadly frost atlatl darts.
+s
+You fail to make any deadly frost atlatl darts.
+i
+37
+i
+0
+i
+144
+s
+Cooking Pot
+s
+Simple Dried Rations
+s
+Simple Field Rations
+i
+25
+s
+You make the dried rations into field rations.
+s
+
+i
+39
+i
+0
+i
+145
+s
+Cooking Pot
+s
+Elaborate Dried Rations
+s
+Elaborate Field Rations
+i
+25
+s
+You make the dried rations into field rations.
+s
+
+i
+39
+i
+0
+i
+146
+s
+Cooking Pot
+s
+Simple Dried Health Rations
+s
+Simple Field Health Rations
+i
+25
+s
+You make the dried rations into field rations.
+s
+
+i
+39
+i
+0
+i
+147
+s
+Cooking Pot
+s
+Elaborate Dried Health Rations
+s
+Elaborate Field Health Rations
+i
+25
+s
+You make the dried rations into field rations.
+s
+
+i
+39
+i
+0
+i
+148
+s
+Cooking Pot
+s
+Simple Dried Mana Rations
+s
+Simple Field Mana Rations
+i
+25
+s
+You make the dried rations into field rations.
+s
+
+i
+39
+i
+0
+i
+149
+s
+Cooking Pot
+s
+Elaborate Dried Mana Rations
+s
+Elaborate Field Mana Rations
+i
+25
+s
+You make the dried rations into field rations.
+s
+
+i
+39
+i
+0
+i
+150
+s
+Mortar and Pestle
+s
+Hot Pepper
+s
+Hot Sauce
+i
+1
+s
+You make hot sauce.
+s
+
+i
+39
+i
+0
+i
+151
+s
+Hot Sauce
+s
+Simple Dried Rations
+s
+Simple Dried Health Rations
+i
+1
+s
+Well, you've certainly spiced up those dried rations!
+s
+
+i
+39
+i
+0
+i
+152
+s
+Hot Sauce
+s
+Elaborate Dried Rations
+s
+Elaborate Dried Health Rations
+i
+1
+s
+Well, you've certainly spiced up those dried rations!
+s
+
+i
+39
+i
+0
+i
+153
+s
+Cinnamon
+s
+Simple Dried Rations
+s
+Simple Dried Mana Rations
+i
+1
+s
+Well, you've certainly spiced up those dried rations!
+s
+
+i
+39
+i
+0
+i
+154
+s
+Cinnamon
+s
+Elaborate Dried Rations
+s
+Elaborate Dried Mana Rations
+i
+1
+s
+Well, you've certainly spiced up those dried rations!
+s
+
+i
+39
+i
+0
+i
+155
+s
+Treated Mandrake
+s
+Treated Hyssop
+s
+Combined Hyssop and Mandrake
+i
+1
+s
+You crumble the dried and treated leaves together.
+s
+
+i
+21
+i
+0
+i
+156
+s
+Soft Bandages
+s
+Combined Hyssop and Mandrake
+s
+Plentiful Healing Kit
+i
+1
+s
+You pack the bandages with the herbs. The odor is pungent and heady. The kit appears to be bulkier than any others you have seen.
+s
+
+i
+21
+i
+0
+i
+157
+s
+Health Infusion
+s
+Potion of Healing
+s
+Trade Health Elixir
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+158
+s
+Concentrated Bloodhunter Oil
+s
+Wrapped Bundle of Greater Frog Crotch Arrowheads
+s
+Wrapped Bundle of Deadly Frog Crotch Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+159
+s
+Concentrated Bloodhunter Oil
+s
+Wrapped Bundle of Greater Armor Piercing Arrowheads
+s
+Wrapped Bundle of Deadly Armor Piercing Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+160
+s
+Concentrated Bloodhunter Oil
+s
+Wrapped Bundle of Greater Blunt Arrowheads
+s
+Wrapped Bundle of Deadly Blunt Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+161
+s
+Concentrated Bloodhunter Oil
+s
+Wrapped Bundle of Greater Fire Arrowheads
+s
+Wrapped Bundle of Deadly Fire Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+162
+s
+Concentrated Bloodhunter Oil
+s
+Wrapped Bundle of Greater Frost Arrowheads
+s
+Wrapped Bundle of Deadly Frost Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+163
+s
+Concentrated Bloodhunter Oil
+s
+Wrapped Bundle of Greater Acid Arrowheads
+s
+Wrapped Bundle of Deadly Acid Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+164
+s
+Concentrated Bloodhunter Oil
+s
+Wrapped Bundle of Greater Lightning Arrowheads
+s
+Wrapped Bundle of Deadly Lightning Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+165
+s
+Concentrated Bloodseeker Oil
+s
+Wrapped Bundle of Frog Crotch Arrowheads
+s
+Wrapped Bundle of Greater Frog Crotch Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+166
+s
+Concentrated Bloodseeker Oil
+s
+Wrapped Bundle of Armor Piercing Arrowheads
+s
+Wrapped Bundle of Greater Armor Piercing Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+167
+s
+Concentrated Bloodseeker Oil
+s
+Wrapped Bundle of Blunt Arrowheads
+s
+Wrapped Bundle of Greater Blunt Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+168
+s
+Concentrated Bloodseeker Oil
+s
+Wrapped Bundle of Fire Arrowheads
+s
+Wrapped Bundle of Greater Fire Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+169
+s
+Concentrated Bloodseeker Oil
+s
+Wrapped Bundle of Frost Arrowheads
+s
+Wrapped Bundle of Greater Frost Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+170
+s
+Concentrated Bloodseeker Oil
+s
+Wrapped Bundle of Acid Arrowheads
+s
+Wrapped Bundle of Greater Acid Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+171
+s
+Concentrated Bloodseeker Oil
+s
+Wrapped Bundle of Lightning Arrowheads
+s
+Wrapped Bundle of Greater Lightning Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+172
+s
+Empty Stopped Keg
+s
+Duke Raoul's Distillation Brew
+s
+Keg of Duke Raoul's Distillation
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+173
+s
+Empty Stopped Keg
+s
+Apothecary Zongo's Stout Brew
+s
+Keg of Apothecary Zongo's Stout
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+174
+s
+Empty Stopped Keg
+s
+Hunter's Stock Amber Brew
+s
+Keg of Hunter's Stock Amber
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+175
+s
+Empty Bottles
+s
+Keg of Apothecary Zongo's Stout
+s
+Apothecary Zongo's Stout
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+176
+s
+Empty Bottles
+s
+Keg of Duke Raoul's Distillation
+s
+Duke Raoul's Distillation
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+177
+s
+Empty Bottles
+s
+Keg of Bobo's Stout
+s
+Bobo's Stout
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+178
+s
+Empty Bottles
+s
+Keg of Tusker Spit Ale
+s
+Tusker Spit Ale
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+179
+s
+Empty Bottles
+s
+Keg of Amber Ape
+s
+Amber Ape
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+180
+s
+Empty Bottles
+s
+Keg of Hunter's Stock Amber
+s
+Hunter's Stock Amber
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+181
+s
+Neutral Balm
+s
+Strong Chorizite Oil
+s
+Strong Dispel Potion
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+182
+s
+Neutral Balm
+s
+Concentrated Chorizite Oil
+s
+Concentrated Dispel Potion
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+183
+s
+Neutral Balm
+s
+Condensed Chorizite Oil
+s
+Condensed Dispel Potion
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+184
+s
+Empty Stopped Keg
+s
+Tusker Spit Brew
+s
+Keg of Tusker Spit Ale
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+185
+s
+Empty Stopped Keg
+s
+Amber Ape Brew
+s
+Keg of Amber Ape
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+186
+s
+Empty Stopped Keg
+s
+Bobo's Stout Brew
+s
+Keg of Bobo's Stout
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+187
+s
+Victual Oil
+s
+Healing Famous Pizza
+s
+Hearty Healing Famous Pizza
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+188
+s
+Victual Oil
+s
+Healing Cake
+s
+Hearty Healing Cake
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+189
+s
+Victual Oil
+s
+Healing Carrot Cake
+s
+Hearty Healing Carrot Cake
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+190
+s
+Victual Oil
+s
+Healing Pizza
+s
+Hearty Healing Pizza
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+191
+s
+Victual Oil
+s
+Healing Applesauce
+s
+Hearty Healing Applesauce
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+192
+s
+Victual Oil
+s
+Healing Spiced Applesauce
+s
+Hearty Healing Spiced Applesauce
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+193
+s
+Victual Oil
+s
+Healing Meat Pie
+s
+Hearty Healing Meat Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+194
+s
+Victual Oil
+s
+Healing Fish Pie
+s
+Hearty Healing Fish Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+195
+s
+Victual Oil
+s
+Healing Chicken Pie
+s
+Hearty Healing Chicken Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+196
+s
+Victual Oil
+s
+Healing Rabbit Pie
+s
+Hearty Healing Rabbit Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+197
+s
+Victual Oil
+s
+Healing Mushroom Pie
+s
+Hearty Healing Mushroom Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+198
+s
+Victual Oil
+s
+Healing Apple Pie
+s
+Hearty Healing Apple Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+199
+s
+Victual Oil
+s
+Healing Spiced Apple Pie
+s
+Hearty Healing Spiced Apple Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+200
+s
+Victual Oil
+s
+Healing Beef Stew
+s
+Hearty Healing Beef Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+201
+s
+Victual Oil
+s
+Healing Fish Stew
+s
+Hearty Healing Fish Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+202
+s
+Victual Oil
+s
+Healing Chicken Stew
+s
+Hearty Healing Chicken Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+203
+s
+Victual Oil
+s
+Healing Rabbit Stew
+s
+Hearty Healing Rabbit Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+204
+s
+Victual Oil
+s
+Healing Mushroom Stew
+s
+Hearty Healing Mushroom Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+205
+s
+Victual Oil
+s
+Healing Carrot Soup
+s
+Hearty Healing Carrot Soup
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+206
+s
+Victual Oil
+s
+Healing Beef Noodle
+s
+Hearty Healing Beef Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+207
+s
+Victual Oil
+s
+Healing Fish Noodle
+s
+Hearty Healing Fish Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+208
+s
+Victual Oil
+s
+Healing Chicken Noodle
+s
+Hearty Healing Chicken Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+209
+s
+Victual Oil
+s
+Healing Rabbit Noodle
+s
+Hearty Healing Rabbit Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+210
+s
+Victual Oil
+s
+Healing Mushroom Noodle
+s
+Hearty Healing Mushroom Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+211
+s
+Victual Oil
+s
+Healing Ice Cream
+s
+Hearty Healing Icecream
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+212
+s
+Victual Oil
+s
+Healing Green Tea Ice Cream
+s
+Hearty Healing Green Tea Ice Cream
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+213
+s
+Victual Oil
+s
+Healing Holtburger
+s
+Hearty Healing Holtburger
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+214
+s
+Victual Oil
+s
+Healing Hot Kimchi
+s
+Hearty Healing Hot Kimchi
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+215
+s
+Victual Oil
+s
+Mana Hot Kimchi
+s
+Hearty Mana Hot Kimchi
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+216
+s
+Victual Oil
+s
+Mana Famous Pizza
+s
+Hearty Mana Famous Pizza
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+217
+s
+Victual Oil
+s
+Mana Green Tea Ice Cream
+s
+Hearty Mana Green Tea Ice Cream
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+218
+s
+Victual Oil
+s
+Mana Cake
+s
+Hearty Mana Cake
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+219
+s
+Victual Oil
+s
+Mana Carrot Cake
+s
+Hearty Mana Carrot Cake
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+220
+s
+Victual Oil
+s
+Mana Pizza
+s
+Hearty Mana Pizza
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+221
+s
+Victual Oil
+s
+Mana Applesauce
+s
+Hearty Mana Applesauce
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+222
+s
+Victual Oil
+s
+Mana Spiced Applesauce
+s
+Hearty Mana Spiced Applesauce
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+223
+s
+Victual Oil
+s
+Mana Meat Pie
+s
+Hearty Mana Meat Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+224
+s
+Victual Oil
+s
+Mana Fish Pie
+s
+Hearty Mana Fish Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+225
+s
+Victual Oil
+s
+Mana Chicken Pie
+s
+Hearty Mana Chicken Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+226
+s
+Victual Oil
+s
+Mana Rabbit Pie
+s
+Hearty Mana Rabbit Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+227
+s
+Victual Oil
+s
+Mana Mushroom Pie
+s
+Hearty Mana Mushroom Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+228
+s
+Victual Oil
+s
+Mana Apple Pie
+s
+Hearty Mana Apple Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+229
+s
+Victual Oil
+s
+Mana Spiced Apple Pie
+s
+Hearty Mana Spiced Apple Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+230
+s
+Victual Oil
+s
+Mana Beef Stew
+s
+Hearty Mana Beef Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+231
+s
+Victual Oil
+s
+Mana Fish Stew
+s
+Hearty Mana Fish Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+232
+s
+Victual Oil
+s
+Mana Chicken Stew
+s
+Hearty Mana Chicken Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+233
+s
+Victual Oil
+s
+Mana Rabbit Stew
+s
+Hearty Mana Rabbit Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+234
+s
+Victual Oil
+s
+Mana Mushroom Stew
+s
+Hearty Mana Mushroom Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+235
+s
+Victual Oil
+s
+Mana Carrot Soup
+s
+Hearty Mana Carrot Soup
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+236
+s
+Victual Oil
+s
+Mana Beef Noodle
+s
+Hearty Mana Beef Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+237
+s
+Victual Oil
+s
+Mana Fish Noodle
+s
+Hearty Mana Fish Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+238
+s
+Victual Oil
+s
+Mana Chicken Noodle
+s
+Hearty Mana Chicken Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+239
+s
+Victual Oil
+s
+Mana Rabbit Noodle
+s
+Hearty Mana Rabbit Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+240
+s
+Victual Oil
+s
+Mana Mushroom Noodle
+s
+Hearty Mana Mushroom Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+241
+s
+Victual Oil
+s
+Mana Ice Cream
+s
+Hearty Mana Icecream
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+242
+s
+Victual Oil
+s
+Mana Holtburger
+s
+Hearty Mana Holtburger
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+243
+s
+Baking Pan
+s
+Olthoi Chocolate Cake Batter
+s
+Chocolate Olthoi Cake
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+244
+s
+Frying Pan
+s
+Olthoi Egg
+s
+Fried Olthoi Egg
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+245
+s
+Cooking Pot
+s
+Olthoi Egg
+s
+Hard Boiled Olthoi Egg
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+246
+s
+Baking Pan
+s
+Olthoi Cake Batter
+s
+Olthoi Cake
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+247
+s
+Baking Pan
+s
+Olthoi Carrot Cake Batter
+s
+Olthoi Carrot Cake
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+248
+s
+Olthoi Pumpkin Pie Filling
+s
+Dough
+s
+Olthoi Pumpkin Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+249
+s
+Olthoi Batter
+s
+Bread
+s
+Olthoi Toast
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+250
+s
+Brine
+s
+Olthoi Egg
+s
+Pickled Olthoi Egg
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+251
+s
+Frying Pan
+s
+Marinated Olthoi Egg
+s
+Vesayen Style Fried Olthoi Egg
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+252
+s
+Hot Sauce
+s
+Olthoi Egg
+s
+Marinated Olthoi Egg
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+253
+s
+Treated Stibnite and Frankincense Crucible
+s
+Powdered Onyx
+s
+Gem of Greater Protection
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+254
+s
+Treated Quicksilver and Frankincense Crucible
+s
+Powdered Hematite
+s
+Gem of Greater Piercing Protection
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+255
+s
+Treated Verdigris and Frankincense Crucible
+s
+Powdered Turquoise
+s
+Gem of Greater Bludgeon Protection
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+256
+s
+Treated Cadmia and Frankincense Crucible
+s
+Powdered Moonstone
+s
+Gem of Greater Blade Protection
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+257
+s
+Treated Brimstone and Frankincense Crucible
+s
+Powdered Malachite
+s
+Gem of Greater Acid Protection
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+258
+s
+Treated Colcothar and Frankincense Crucible
+s
+Powdered Quartz
+s
+Gem of Greater Cold Protection
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+259
+s
+Treated Turpeth and Frankincense Crucible
+s
+Powdered Carnelian
+s
+Gem of Greater Fire Protection
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+260
+s
+Treated Cobalt and Frankincense Crucible
+s
+Powdered Agate
+s
+Gem of Greater Lightning Protection
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+261
+s
+Treated Vitriol and Frankincense Crucible
+s
+Powdered Bloodstone
+s
+Gem of Greater Regeneration
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+262
+s
+Treated Cinnabar and Frankincense Crucible
+s
+Powdered Amber
+s
+Gem of Greater Rejuvenation
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+263
+s
+Treated Gypsum and Frankincense Crucible
+s
+Powdered Lapis Lazuli
+s
+Gem of Greater Mana Renewal
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+264
+s
+Concentrated Health Infusion
+s
+Concentrated Aqua Incanta
+s
+Concentrated Health Oil
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+265
+s
+Concentrated Mana Infusion
+s
+Concentrated Aqua Incanta
+s
+Concentrated Mana Oil
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+266
+s
+Concentrated Victual Infusion
+s
+Concentrated Aqua Incanta
+s
+Concentrated Victual Oil
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+267
+s
+Eye Dropper
+s
+Concentrated Health Oil
+s
+Health Oil
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+268
+s
+Eye Dropper
+s
+Concentrated Mana Oil
+s
+Mana Oil
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+269
+s
+Eye Dropper
+s
+Concentrated Victual Oil
+s
+Victual Oil
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+270
+s
+Concentrated Bloodseeker Infusion
+s
+Concentrated Aqua Incanta
+s
+Concentrated Bloodseeker Oil
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+271
+s
+Concentrated Bloodhunter Infusion
+s
+Concentrated Aqua Incanta
+s
+Concentrated Bloodhunter Oil
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+272
+s
+Concentrated Fire Infusion
+s
+Concentrated Aqua Incanta
+s
+Concentrated Fire Oil
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+273
+s
+Concentrated Frost Infusion
+s
+Concentrated Aqua Incanta
+s
+Concentrated Frost Oil
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+274
+s
+Concentrated Acid Infusion
+s
+Concentrated Aqua Incanta
+s
+Concentrated Acid Oil
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+275
+s
+Concentrated Lightning Infusion
+s
+Concentrated Aqua Incanta
+s
+Concentrated Lightning Oil
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+276
+s
+Bloodhunter Infusion
+s
+Aqua Incanta
+s
+Bloodhunter Oil
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+277
+s
+Bloodseeker Infusion
+s
+Aqua Incanta
+s
+Bloodseeker Oil
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+278
+s
+Lightning Infusion
+s
+Aqua Incanta
+s
+Lightning Oil
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+279
+s
+Fire Infusion
+s
+Aqua Incanta
+s
+Fire Oil
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+280
+s
+Acid Infusion
+s
+Aqua Incanta
+s
+Acid Oil
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+281
+s
+Frost Infusion
+s
+Aqua Incanta
+s
+Frost Oil
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+282
+s
+Wrapped Bundle of Deadly Acid Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Deadly Acid Arrow
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+283
+s
+Wrapped Bundle of Deadly Blunt Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Deadly Blunt Arrow
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+284
+s
+Bundle of Deadly Arrowheads
+s
+Bundle of Arrowshafts
+s
+Deadly Arrow
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+285
+s
+Wrapped Bundle of Greater Blunt Arrowheads
+s
+Bundle of Arrowshafts
+s
+Greater Blunt Arrow
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+286
+s
+Wrapped Bundle of Greater Frog Crotch Arrowheads
+s
+Bundle of Arrowshafts
+s
+Greater Frog Crotch Arrow
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+287
+s
+Baking Pan
+s
+Dough
+s
+Bread
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+288
+s
+Carving Knife
+s
+Cabbage
+s
+Coleslaw
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+289
+s
+Frying Pan
+s
+Dough
+s
+Flat Bread
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+290
+s
+Frying Pan
+s
+Brimstone-cap Mushroom
+s
+Fried Mushroom
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+291
+s
+Brine
+s
+Egg
+s
+Pickled Egg
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+292
+s
+Brine
+s
+Fish Filet
+s
+Pickled Fish
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+293
+s
+Rich Carrot Stock
+s
+Cheese
+s
+Carol's Carrot Soup
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+294
+s
+Cubed Carrot Cake
+s
+Milk
+s
+Carrot Cake Soup
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+295
+s
+Cooking Pot
+s
+Spiced Pumpkin
+s
+Pumpkin Soup
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+296
+s
+Uncooked Rice
+s
+Grapes
+s
+Stuffed Grape Leaf
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+297
+s
+Baking Pan
+s
+Cheese Filled Mushroom
+s
+Stuffed Mushroom
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+298
+s
+Uncooked Rice
+s
+Fish Filet
+s
+Sushi
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+299
+s
+Rat Tail
+s
+Ground Rabbit
+s
+Rabbit Sausage
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+300
+s
+Rat Tail
+s
+Ground Meat
+s
+Sausage
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+301
+s
+Hot Sauce
+s
+Sausage
+s
+Spicy Sausage
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+302
+s
+Metal Press
+s
+Apple
+s
+Apple Juice
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+303
+s
+Bitter Milk
+s
+Honey
+s
+Chocolate Milk
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+304
+s
+Crushed Ice
+s
+Milk
+s
+Cold Milk
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+305
+s
+Egg
+s
+Spiced Milk
+s
+Eggnog
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+306
+s
+Sweetened Hot Milk
+s
+Cocoa Powder
+s
+Hot Chocolate
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+307
+s
+Crushed Ice
+s
+Mocha
+s
+Iced Mocha
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+308
+s
+Mocha Base
+s
+Milk
+s
+Mocha
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+309
+s
+Peppermint Stick
+s
+Hot Chocolate
+s
+Peppermint Hot Chocolate
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+310
+s
+Crushed Ice
+s
+Rich Mocha
+s
+Rich Iced Mocha
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+311
+s
+Cinnamon
+s
+Mocha
+s
+Rich Mocha
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+312
+s
+Slice of Bread
+s
+Cheese
+s
+Cheese Sandwich
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+313
+s
+Slice of Bread
+s
+Chicken
+s
+Chicken Sandwich
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+314
+s
+Ravener Gut
+s
+Ground Meat
+s
+Drudge Gut Sausage
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+315
+s
+Slice of Bread
+s
+Egg
+s
+Egg Sandwich
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+316
+s
+Slice of Bread
+s
+Fish
+s
+Fish Sandwich
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+317
+s
+Frying Pan
+s
+Cheese Sandwich
+s
+Grilled Cheese Sandwich
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+318
+s
+Ground Meat
+s
+Bread
+s
+Holtburger
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+319
+s
+Dough
+s
+Apple
+s
+Apple Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+320
+s
+Heavy Grinder
+s
+Apple
+s
+Applesauce
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+321
+s
+Baking Pan
+s
+Cake Batter
+s
+Cake
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+322
+s
+Monougat
+s
+Apple
+s
+Candied Apple
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+323
+s
+Baking Pan
+s
+Carrot Cake Batter
+s
+Carrot Cake
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+324
+s
+Baking Pan
+s
+Chocolate Cake Batter
+s
+Chocolate Cake
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+325
+s
+Baking Pan
+s
+Chocolate Cookie Dough
+s
+Chocolate Cookie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+326
+s
+Chocolate Liquor
+s
+Ice Cream
+s
+Chocolate Ice Cream
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+327
+s
+Baking Pan
+s
+Cookie Dough
+s
+Cookie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+328
+s
+Cocoa Mixture
+s
+Honey
+s
+Bar Dark Chocolate
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+329
+s
+Monougat
+s
+Bar Dark Chocolate
+s
+Dark Chocolate Candy Bar
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+330
+s
+Baking Pan
+s
+Fruitcake Batter
+s
+Fruitcake
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+331
+s
+Baking Pan
+s
+Ginger Dough
+s
+Ginger Bread
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+332
+s
+Frozen Green Tea
+s
+Honey
+s
+Green Tea Ice Cream
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+333
+s
+Frozen Cream
+s
+Honey
+s
+Ice Cream
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+334
+s
+Milky Cocoa Mixture
+s
+Honey
+s
+Bar Milk Chocolate
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+335
+s
+Monougat
+s
+Bar Milk Chocolate
+s
+Milk Chocolate Candy Bar
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+336
+s
+Baking Pan
+s
+Peppermint Chocolate Cookie Dough
+s
+Peppermint Chocolate Cookie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+337
+s
+Baking Pan
+s
+Peppermint Cookie Dough
+s
+Peppermint Cookie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+338
+s
+Peppermint Stick
+s
+Ice Cream
+s
+Peppermint Ice Cream
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+339
+s
+Monougat
+s
+Peppermint Stick
+s
+Peppermint Monougat Chew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+340
+s
+Pumpkin Pie Filling
+s
+Dough
+s
+Pumpkin Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+341
+s
+Dough
+s
+Spiced Apple Filling
+s
+Spiced Apple Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+342
+s
+Cinnamon
+s
+Applesauce
+s
+Spiced Applesauce
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+343
+s
+Raw Noodles
+s
+Cheese
+s
+Cragstone Farms Mac and Cheese
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+344
+s
+Raw Egg Noodles
+s
+Ground Beef
+s
+Cragstonanoff
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+345
+s
+Rice Dough
+s
+Chicken
+s
+Chicken Dumpling
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+346
+s
+Rice Dough
+s
+Fish
+s
+Fish Dumpling
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+347
+s
+Frying Pan
+s
+Chicken Piece
+s
+Fried Chicken
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+348
+s
+Frying Pan
+s
+Egg
+s
+Fried Egg
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+349
+s
+Frying Pan
+s
+Fish Filet
+s
+Fried Fish
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+350
+s
+Frying Pan
+s
+Rabbit Piece
+s
+Fried Rabbit
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+351
+s
+Frying Pan
+s
+Steak
+s
+Fried Steak
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+352
+s
+Skewer
+s
+Steak
+s
+Beef Kebob
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+353
+s
+Skewer
+s
+Chicken Piece
+s
+Chicken Kebob
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+354
+s
+Skewer
+s
+Fish Filet
+s
+Fish Kebob
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+355
+s
+Skewer
+s
+Brimstone-cap Mushroom
+s
+Mushroom Kebob
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+356
+s
+Skewer
+s
+Rabbit Piece
+s
+Rabbit Kebob
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+357
+s
+Brine
+s
+Cabbage
+s
+Kimchi
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+358
+s
+Hot Sauce
+s
+Kimchi
+s
+Hot Kimchi
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+359
+s
+Fire Oil
+s
+Hot Kimchi
+s
+Flaming Kimchi
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+360
+s
+Raw Noodles
+s
+Steak
+s
+Beef Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+361
+s
+Raw Noodles
+s
+Chicken Piece
+s
+Chicken Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+362
+s
+Raw Noodles
+s
+Fish Filet
+s
+Fish Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+363
+s
+Raw Noodles
+s
+Brimstone-cap Mushroom
+s
+Mushroom Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+364
+s
+Raw Noodles
+s
+Rabbit Piece
+s
+Rabbit Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+365
+s
+Dough
+s
+Chicken Piece
+s
+Chicken Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+366
+s
+Dough
+s
+Fish Filet
+s
+Fish Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+367
+s
+Dough
+s
+Steak
+s
+Meat Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+368
+s
+Dough
+s
+Brimstone-cap Mushroom
+s
+Mushroom Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+369
+s
+Dough
+s
+Rabbit Piece
+s
+Rabbit Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+370
+s
+Cooking Pot
+s
+Uncooked Rice
+s
+Bowl of Rice
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+371
+s
+Uncooked Rice
+s
+Steak
+s
+Beef Rice
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+372
+s
+Uncooked Rice
+s
+Chicken Piece
+s
+Chicken Rice
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+373
+s
+Uncooked Rice
+s
+Brimstone-cap Mushroom
+s
+Mushroom Rice
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+374
+s
+Uncooked Rice
+s
+Rabbit Piece
+s
+Rabbit Rice
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+375
+s
+Cooking Pot
+s
+Steak
+s
+Beef Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+376
+s
+Cooking Pot
+s
+Chicken Piece
+s
+Chicken Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+377
+s
+Cooking Pot
+s
+Fish Filet
+s
+Fish Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+378
+s
+Cooking Pot
+s
+Brimstone-cap Mushroom
+s
+Mushroom Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+379
+s
+Cooking Pot
+s
+Rabbit Piece
+s
+Rabbit Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+380
+s
+Batter
+s
+Bread
+s
+Viamont Toast
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+381
+s
+Oregano
+s
+Pizza
+s
+Famous Pizza
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+382
+s
+Dough
+s
+Cheese
+s
+Pizza
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+383
+s
+Health Oil
+s
+Cake
+s
+Healing Cake
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+384
+s
+Health Oil
+s
+Carrot Cake
+s
+Healing Carrot Cake
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+385
+s
+Health Oil
+s
+Pizza
+s
+Healing Pizza
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+386
+s
+Health Oil
+s
+Famous Pizza
+s
+Healing Famous Pizza
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+387
+s
+Health Oil
+s
+Applesauce
+s
+Healing Applesauce
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+388
+s
+Health Oil
+s
+Spiced Applesauce
+s
+Healing Spiced Applesauce
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+389
+s
+Health Oil
+s
+Meat Pie
+s
+Healing Meat Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+390
+s
+Health Oil
+s
+Fish Pie
+s
+Healing Fish Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+391
+s
+Health Oil
+s
+Chicken Pie
+s
+Healing Chicken Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+392
+s
+Health Oil
+s
+Rabbit Pie
+s
+Healing Rabbit Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+393
+s
+Health Oil
+s
+Mushroom Pie
+s
+Healing Mushroom Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+394
+s
+Health Oil
+s
+Apple Pie
+s
+Healing Apple Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+395
+s
+Health Oil
+s
+Spiced Apple Pie
+s
+Healing Spiced Apple Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+396
+s
+Health Oil
+s
+Beef Stew
+s
+Healing Beef Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+397
+s
+Health Oil
+s
+Fish Stew
+s
+Healing Fish Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+398
+s
+Health Oil
+s
+Chicken Stew
+s
+Healing Chicken Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+399
+s
+Health Oil
+s
+Rabbit Stew
+s
+Healing Rabbit Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+400
+s
+Health Oil
+s
+Mushroom Stew
+s
+Healing Mushroom Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+401
+s
+Health Oil
+s
+Carrot Soup
+s
+Healing Carrot Soup
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+402
+s
+Health Oil
+s
+Beef Noodle
+s
+Healing Beef Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+403
+s
+Health Oil
+s
+Fish Noodle
+s
+Healing Fish Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+404
+s
+Health Oil
+s
+Chicken Noodle
+s
+Healing Chicken Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+405
+s
+Health Oil
+s
+Rabbit Noodle
+s
+Healing Rabbit Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+406
+s
+Health Oil
+s
+Mushroom Noodle
+s
+Healing Mushroom Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+407
+s
+Health Oil
+s
+Ice Cream
+s
+Healing Icecream
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+408
+s
+Health Oil
+s
+Green Tea Ice Cream
+s
+Healing Green Tea Ice Cream
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+409
+s
+Health Oil
+s
+Holtburger
+s
+Healing Holtburger
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+410
+s
+Health Oil
+s
+Hot Kimchi
+s
+Healing Hot Kimchi
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+411
+s
+Victual Oil
+s
+Cake
+s
+Hearty Cake
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+412
+s
+Victual Oil
+s
+Carrot Cake
+s
+Hearty Carrot Cake
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+413
+s
+Victual Oil
+s
+Pizza
+s
+Hearty Pizza
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+414
+s
+Victual Oil
+s
+Famous Pizza
+s
+Hearty Famous Pizza
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+415
+s
+Victual Oil
+s
+Applesauce
+s
+Hearty Applesauce
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+416
+s
+Victual Oil
+s
+Spiced Applesauce
+s
+Hearty Spiced Applesauce
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+417
+s
+Victual Oil
+s
+Meat Pie
+s
+Hearty Meat Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+418
+s
+Victual Oil
+s
+Fish Pie
+s
+Hearty Fish Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+419
+s
+Victual Oil
+s
+Chicken Pie
+s
+Hearty Chicken Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+420
+s
+Victual Oil
+s
+Rabbit Pie
+s
+Hearty Rabbit Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+421
+s
+Victual Oil
+s
+Mushroom Pie
+s
+Hearty Mushroom Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+422
+s
+Victual Oil
+s
+Apple Pie
+s
+Hearty Apple Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+423
+s
+Victual Oil
+s
+Spiced Apple Pie
+s
+Hearty Spiced Apple Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+424
+s
+Victual Oil
+s
+Beef Stew
+s
+Hearty Beef Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+425
+s
+Victual Oil
+s
+Fish Stew
+s
+Hearty Fish Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+426
+s
+Victual Oil
+s
+Chicken Stew
+s
+Hearty Chicken Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+427
+s
+Victual Oil
+s
+Rabbit Stew
+s
+Hearty Rabbit Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+428
+s
+Victual Oil
+s
+Mushroom Stew
+s
+Hearty Mushroom Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+429
+s
+Victual Oil
+s
+Carrot Soup
+s
+Hearty Carrot Soup
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+430
+s
+Victual Oil
+s
+Beef Noodle
+s
+Hearty Beef Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+431
+s
+Victual Oil
+s
+Fish Noodle
+s
+Hearty Fish Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+432
+s
+Victual Oil
+s
+Chicken Noodle
+s
+Hearty Chicken Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+433
+s
+Victual Oil
+s
+Rabbit Noodle
+s
+Hearty Rabbit Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+434
+s
+Victual Oil
+s
+Mushroom Noodle
+s
+Hearty Mushroom Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+435
+s
+Victual Oil
+s
+Ice Cream
+s
+Hearty Icecream
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+436
+s
+Victual Oil
+s
+Green Tea Ice Cream
+s
+Hearty Green Tea Ice Cream
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+437
+s
+Victual Oil
+s
+Holtburger
+s
+Hearty Holtburger
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+438
+s
+Victual Oil
+s
+Hot Kimchi
+s
+Hearty Hot Kimchi
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+439
+s
+Mana Oil
+s
+Cake
+s
+Mana Cake
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+440
+s
+Mana Oil
+s
+Carrot Cake
+s
+Mana Carrot Cake
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+441
+s
+Mana Oil
+s
+Pizza
+s
+Mana Pizza
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+442
+s
+Mana Oil
+s
+Famous Pizza
+s
+Mana Famous Pizza
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+443
+s
+Mana Oil
+s
+Applesauce
+s
+Mana Applesauce
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+444
+s
+Mana Oil
+s
+Spiced Applesauce
+s
+Mana Spiced Applesauce
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+445
+s
+Mana Oil
+s
+Meat Pie
+s
+Mana Meat Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+446
+s
+Mana Oil
+s
+Fish Pie
+s
+Mana Fish Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+447
+s
+Mana Oil
+s
+Chicken Pie
+s
+Mana Chicken Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+448
+s
+Mana Oil
+s
+Rabbit Pie
+s
+Mana Rabbit Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+449
+s
+Mana Oil
+s
+Mushroom Pie
+s
+Mana Mushroom Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+450
+s
+Mana Oil
+s
+Apple Pie
+s
+Mana Apple Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+451
+s
+Mana Oil
+s
+Spiced Apple Pie
+s
+Mana Spiced Apple Pie
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+452
+s
+Mana Oil
+s
+Beef Stew
+s
+Mana Beef Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+453
+s
+Mana Oil
+s
+Fish Stew
+s
+Mana Fish Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+454
+s
+Mana Oil
+s
+Chicken Stew
+s
+Mana Chicken Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+455
+s
+Mana Oil
+s
+Rabbit Stew
+s
+Mana Rabbit Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+456
+s
+Mana Oil
+s
+Mushroom Stew
+s
+Mana Mushroom Stew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+457
+s
+Mana Oil
+s
+Carrot Soup
+s
+Mana Carrot Soup
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+458
+s
+Mana Oil
+s
+Beef Noodle
+s
+Mana Beef Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+459
+s
+Mana Oil
+s
+Fish Noodle
+s
+Mana Fish Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+460
+s
+Mana Oil
+s
+Chicken Noodle
+s
+Mana Chicken Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+461
+s
+Mana Oil
+s
+Rabbit Noodle
+s
+Mana Rabbit Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+462
+s
+Mana Oil
+s
+Mushroom Noodle
+s
+Mana Mushroom Noodle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+463
+s
+Mana Oil
+s
+Ice Cream
+s
+Mana Icecream
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+464
+s
+Mana Oil
+s
+Green Tea Ice Cream
+s
+Mana Green Tea Ice Cream
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+465
+s
+Mana Oil
+s
+Holtburger
+s
+Mana Holtburger
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+466
+s
+Mana Oil
+s
+Hot Kimchi
+s
+Mana Hot Kimchi
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+467
+s
+Bloodhunter Oil
+s
+Bundle of Greater Acid Arrowheads
+s
+Bundle of Deadly Acid Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+468
+s
+Bloodhunter Oil
+s
+Bundle of Greater Arrowheads
+s
+Bundle of Deadly Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+469
+s
+Bloodhunter Oil
+s
+Bundle of Greater Blunt Arrowheads
+s
+Bundle of Deadly Blunt Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+470
+s
+Bloodhunter Oil
+s
+Bundle of Greater Frog Crotch Arrowheads
+s
+Bundle of Deadly Frog Crotch Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+471
+s
+Concentrated Fire Oil
+s
+Wrapped Bundle of Arrowheads
+s
+Wrapped Bundle of Fire Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+472
+s
+Concentrated Frost Oil
+s
+Wrapped Bundle of Arrowheads
+s
+Wrapped Bundle of Frost Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+473
+s
+Concentrated Acid Oil
+s
+Wrapped Bundle of Arrowheads
+s
+Wrapped Bundle of Acid Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+474
+s
+Concentrated Lightning Oil
+s
+Wrapped Bundle of Arrowheads
+s
+Wrapped Bundle of Lightning Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+475
+s
+Lightning Oil
+s
+Bundle of Arrowheads
+s
+Bundle of Lightning Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+476
+s
+Fire Oil
+s
+Bundle of Arrowheads
+s
+Bundle of Fire Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+477
+s
+Frost Oil
+s
+Bundle of Arrowheads
+s
+Bundle of Frost Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+478
+s
+Acid Oil
+s
+Bundle of Arrowheads
+s
+Bundle of Acid Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+479
+s
+Bloodseeker Oil
+s
+Bundle of Blunt Arrowheads
+s
+Bundle of Greater Blunt Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+480
+s
+Bloodseeker Oil
+s
+Bundle of Frog Crotch Arrowheads
+s
+Bundle of Greater Frog Crotch Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+481
+s
+Bloodseeker Oil
+s
+Bundle of Arrowheads
+s
+Bundle of Greater Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+482
+s
+Bloodseeker Oil
+s
+Bundle of Fire Arrowheads
+s
+Bundle of Greater Fire Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+483
+s
+Bloodseeker Oil
+s
+Bundle of Acid Arrowheads
+s
+Bundle of Greater Acid Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+484
+s
+Bloodseeker Oil
+s
+Bundle of Frost Arrowheads
+s
+Bundle of Greater Frost Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+485
+s
+Bloodseeker Oil
+s
+Bundle of Lightning Arrowheads
+s
+Bundle of Greater Lightning Arrowheads
+i
+0
+s
+
+s
+
+i
+37
+i
+0
+i
+486
+s
+Eye Dropper
+s
+Concentrated Health Infusion
+s
+Health Infusion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+487
+s
+Eye Dropper
+s
+Concentrated Mana Infusion
+s
+Mana Infusion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+488
+s
+Eye Dropper
+s
+Concentrated Victual Infusion
+s
+Victual Infusion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+489
+s
+Alembic
+s
+Quicksilver
+s
+Bloodseeker Infusion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+490
+s
+Alembic
+s
+Stibnite
+s
+Bloodhunter Infusion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+491
+s
+Alembic
+s
+Cobalt
+s
+Lightning Infusion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+492
+s
+Alembic
+s
+Turpeth
+s
+Fire Infusion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+493
+s
+Alembic
+s
+Colcothar
+s
+Frost Infusion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+494
+s
+Alembic
+s
+Brimstone
+s
+Acid Infusion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+495
+s
+Alembic
+s
+Vitriol Pea
+s
+Concentrated Health Infusion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+496
+s
+Alembic
+s
+Gypsum Pea
+s
+Concentrated Mana Infusion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+497
+s
+Alembic
+s
+Realgar Pea
+s
+Concentrated Victual Infusion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+498
+s
+Alembic
+s
+Quicksilver Pea
+s
+Concentrated Bloodseeker Infusion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+499
+s
+Alembic
+s
+Stibnite Pea
+s
+Concentrated Bloodhunter Infusion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+500
+s
+Alembic
+s
+Turpeth Pea
+s
+Concentrated Fire Infusion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+501
+s
+Alembic
+s
+Colcothar Pea
+s
+Concentrated Frost Infusion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+502
+s
+Alembic
+s
+Brimstone Pea
+s
+Concentrated Acid Infusion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+503
+s
+Alembic
+s
+Cobalt Pea
+s
+Concentrated Lightning Infusion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+504
+s
+Crucible
+s
+Stibnite
+s
+Crucible with Stibnite Potion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+505
+s
+Crucible with Stibnite Potion
+s
+Frankincense
+s
+Stibnite and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+506
+s
+Aqua Vitae
+s
+Stibnite and Frankincense Crucible
+s
+Treated Stibnite and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+507
+s
+Crucible
+s
+Quicksilver
+s
+Crucible with Quicksilver Potion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+508
+s
+Crucible with Quicksilver Potion
+s
+Frankincense
+s
+Quicksilver and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+509
+s
+Aqua Vitae
+s
+Quicksilver and Frankincense Crucible
+s
+Treated Quicksilver and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+510
+s
+Crucible
+s
+Verdigris
+s
+Crucible with Verdigris Potion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+511
+s
+Crucible with Verdigris Potion
+s
+Frankincense
+s
+Verdigris and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+512
+s
+Aqua Vitae
+s
+Verdigris and Frankincense Crucible
+s
+Treated Verdigris and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+513
+s
+Crucible
+s
+Cadmia
+s
+Crucible with Cadmia Potion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+514
+s
+Crucible with Cadmia Potion
+s
+Frankincense
+s
+Cadmia and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+515
+s
+Aqua Vitae
+s
+Cadmia and Frankincense Crucible
+s
+Treated Cadmia and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+516
+s
+Crucible
+s
+Brimstone
+s
+Crucible with Brimstone Potion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+517
+s
+Crucible with Brimstone Potion
+s
+Frankincense
+s
+Brimstone and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+518
+s
+Aqua Vitae
+s
+Brimstone and Frankincense Crucible
+s
+Treated Brimstone and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+519
+s
+Crucible
+s
+Colcothar
+s
+Crucible with Colcothar Potion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+520
+s
+Crucible with Colcothar Potion
+s
+Frankincense
+s
+Colcothar and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+521
+s
+Aqua Vitae
+s
+Colcothar and Frankincense Crucible
+s
+Treated Colcothar and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+522
+s
+Crucible
+s
+Turpeth
+s
+Crucible with Turpeth Potion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+523
+s
+Crucible with Turpeth Potion
+s
+Frankincense
+s
+Turpeth and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+524
+s
+Aqua Vitae
+s
+Turpeth and Frankincense Crucible
+s
+Treated Turpeth and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+525
+s
+Crucible
+s
+Cobalt
+s
+Crucible with Cobalt Potion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+526
+s
+Crucible with Cobalt Potion
+s
+Frankincense
+s
+Cobalt and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+527
+s
+Aqua Vitae
+s
+Cobalt and Frankincense Crucible
+s
+Treated Cobalt and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+528
+s
+Crucible
+s
+Vitriol
+s
+Crucible with Vitriol Potion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+529
+s
+Crucible with Vitriol Potion
+s
+Frankincense
+s
+Vitriol and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+530
+s
+Aqua Vitae
+s
+Vitriol and Frankincense Crucible
+s
+Treated Vitriol and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+531
+s
+Crucible
+s
+Cinnabar
+s
+Crucible with Cinnabar Potion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+532
+s
+Crucible with Cinnabar Potion
+s
+Frankincense
+s
+Cinnabar and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+533
+s
+Aqua Vitae
+s
+Cinnabar and Frankincense Crucible
+s
+Treated Cinnabar and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+534
+s
+Crucible
+s
+Gypsum
+s
+Crucible with Gypsum Potion
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+535
+s
+Crucible with Gypsum Potion
+s
+Frankincense
+s
+Gypsum and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+536
+s
+Aqua Vitae
+s
+Gypsum and Frankincense Crucible
+s
+Treated Gypsum and Frankincense Crucible
+i
+0
+s
+
+s
+
+i
+38
+i
+0
+i
+537
+s
+Ground Chorizite
+s
+Vitriol
+s
+Chorizite
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+538
+s
+Alembic
+s
+Chorizite
+s
+Chorizite Oil
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+539
+s
+Chorizite Oil
+s
+Chorizite Oil
+s
+Strong Chorizite Oil
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+540
+s
+Chorizite Oil
+s
+Strong Chorizite Oil
+s
+Concentrated Chorizite Oil
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+541
+s
+Chorizite Oil
+s
+Concentrated Chorizite Oil
+s
+Condensed Chorizite Oil
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+542
+s
+Cocoa Mixture
+s
+Milk
+s
+Milky Cocoa Mixture
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+543
+s
+Mortar and Pestle
+s
+Cinnamon Bark
+s
+Cinnamon
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+544
+s
+Heavy Grinder
+s
+Ginger
+s
+Ground Ginger
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+545
+s
+Mortar and Pestle
+s
+Hot Pepper
+s
+Hot Sauce
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+546
+s
+Heavy Grinder
+s
+Nutmeg
+s
+Ground Nutmeg
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+547
+s
+Flour
+s
+Water
+s
+Dough
+i
+0
+s
+
+s
+
+i
+0
+i
+0
+i
+548
+s
+Carving Knife
+s
+Fish
+s
+Fish Filet
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+549
+s
+Carving Knife
+s
+Brimstone-cap Mushroom
+s
+Stemless Mushroom
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+550
+s
+Rennet
+s
+Milk
+s
+Cheese
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+551
+s
+Stemless Mushroom
+s
+Cheese
+s
+Cheese Filled Mushroom
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+552
+s
+Dough
+s
+Egg
+s
+Batter
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+553
+s
+Baking Pan
+s
+Brown Beans
+s
+Roasted Beans
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+554
+s
+Heavy Grinder
+s
+Roasted Beans
+s
+Chocolate Liquor
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+555
+s
+Metal Press
+s
+Chocolate Liquor
+s
+Cocoa Powder
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+556
+s
+Cocoa Powder
+s
+Milk
+s
+Bitter Milk
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+557
+s
+Heavy Grinder
+s
+Magic Iceball
+s
+Crushed Ice
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+558
+s
+Ground Nutmeg
+s
+Milk
+s
+Spiced Milk
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+559
+s
+Cooking Pot
+s
+Milk
+s
+Hot Milk
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+560
+s
+Hot Milk
+s
+Honey
+s
+Sweetened Hot Milk
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+561
+s
+Cocoa Powder
+s
+Coffee
+s
+Mocha Base
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+562
+s
+Whittling Knife
+s
+Strange Stick
+s
+Cinnamon Bark
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+563
+s
+Carving Knife
+s
+Bread
+s
+Slice of Bread
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+564
+s
+Carving Knife
+s
+Side of Beef
+s
+Steak
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+565
+s
+Heavy Grinder
+s
+Steak
+s
+Ground Meat
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+566
+s
+Heavy Grinder
+s
+Rabbit Piece
+s
+Ground Rabbit
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+567
+s
+Batter
+s
+Flour
+s
+Cake Batter
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+568
+s
+Cake Batter
+s
+Carrot
+s
+Carrot Cake Batter
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+569
+s
+Cake Batter
+s
+Cocoa Powder
+s
+Chocolate Cake Batter
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+570
+s
+Dough
+s
+Honey
+s
+Cookie Dough
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+571
+s
+Cocoa Powder
+s
+Cookie Dough
+s
+Chocolate Cookie Dough
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+572
+s
+Chocolate Liquor
+s
+Cocoa Powder
+s
+Cocoa Mixture
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+573
+s
+Cinnamon
+s
+Mocha
+s
+Rich Mocha
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+574
+s
+Cinnamon
+s
+Brown Lump
+s
+Spiced Lump
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+575
+s
+Flour
+s
+Spiced Lump
+s
+Spiced Lumpy Flour
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+576
+s
+Spiced Lumpy Flour
+s
+Egg
+s
+Rich Lumpy Flour
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+577
+s
+Rich Lumpy Flour
+s
+Red Wine
+s
+Fruitcake Batter
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+578
+s
+Ground Ginger
+s
+Dough
+s
+Ginger Dough
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+579
+s
+Frozen Cream
+s
+Green Tea
+s
+Frozen Green Tea
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+580
+s
+Magic Iceball
+s
+Milk
+s
+Frozen Cream
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+581
+s
+Peppermint Stick
+s
+Chocolate Cookie Dough
+s
+Peppermint Chocolate Cookie Dough
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+582
+s
+Peppermint Stick
+s
+Cookie Dough
+s
+Peppermint Cookie Dough
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+583
+s
+Baking Pan
+s
+Pumpkin
+s
+Cooked Pumpkin
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+584
+s
+Cooked Pumpkin
+s
+Milk
+s
+Liquid Pumpkin
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+585
+s
+Liquid Pumpkin
+s
+Honey
+s
+Sweetened Pumpkin
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+586
+s
+Sweetened Pumpkin
+s
+Cinnamon
+s
+Spiced Pumpkin
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+587
+s
+Spiced Pumpkin
+s
+Egg
+s
+Pumpkin Pie Filling
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+588
+s
+Cinnamon
+s
+Apple
+s
+Spiced Apple Filling
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+589
+s
+Carving Knife
+s
+Chicken
+s
+Chicken Pieces
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+590
+s
+Carving Knife
+s
+Rabbit Carcass
+s
+Rabbit Pieces
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+591
+s
+Noodle Cutter
+s
+Dough
+s
+Raw Noodles
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+592
+s
+Dough
+s
+Olthoi Egg
+s
+Olthoi Batter
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+593
+s
+Flour
+s
+Olthoi Batter
+s
+Olthoi Cake Batter
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+594
+s
+Olthoi Cake Batter
+s
+Carrot
+s
+Olthoi Carrot Cake Batter
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+595
+s
+Olthoi Cake Batter
+s
+Chocolate Powder
+s
+Olthoi Chocolate Cake Batter
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+596
+s
+Spiced Pumpkin Filling
+s
+Olthoi Egg
+s
+Olthoi Pumpkin Pie Filling
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+597
+s
+Cooking Pot
+s
+Carrot
+s
+Carrot Stock
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+598
+s
+Carrot Stock
+s
+Milk
+s
+Rich Carrot Stock
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+599
+s
+Mortar and Pestle
+s
+Uncooked Rice
+s
+Rice Flour
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+600
+s
+Rice Flour
+s
+Water
+s
+Rice Dough
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+601
+s
+Carving Knife
+s
+Carrot Cake
+s
+Cubed Carrot Cake
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+602
+s
+Noodle Cutter
+s
+Batter
+s
+Raw Egg Noodles
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+603
+s
+Baking Pan
+s
+Plain Barley
+s
+Roasted Barley
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+604
+s
+Brew Kettle
+s
+Water
+s
+Full Brew Kettle
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+605
+s
+Roasted Barley
+s
+Full Brew Kettle
+s
+Dark Wort
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+606
+s
+Ultra Green Hops
+s
+Dark Wort
+s
+Aromatic Dark Wort
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+607
+s
+Dried Yeast
+s
+Aromatic Dark Wort
+s
+Glorious Dark Brew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+608
+s
+Amber Barley
+s
+Full Brew Kettle
+s
+Amber Wort
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+609
+s
+Ultra Green Hops
+s
+Amber Wort
+s
+Aromatic Amber Wort
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+610
+s
+Dried Yeast
+s
+Aromatic Amber Wort
+s
+Glorious Amber Brew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+611
+s
+Plain Barley
+s
+Full Brew Kettle
+s
+Sweet Wort
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+612
+s
+Ultra Green Hops
+s
+Sweet Wort
+s
+Aromatic Finished Wort
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+613
+s
+Dried Yeast
+s
+Aromatic Finished Wort
+s
+Glorious Fermented Brew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+614
+s
+Moarsmuck
+s
+Glorious Dark Brew
+s
+Apothecary Zongo's Stout Brew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+615
+s
+Moarsmuck
+s
+Glorious Amber Brew
+s
+Hunter's Stock Amber Brew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+616
+s
+Moarsmuck
+s
+Glorious Fermented Brew
+s
+Duke Raoul's Distillation Brew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+617
+s
+Tusker Spit
+s
+Glorious Dark Brew
+s
+Bobo's Stout Brew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+618
+s
+Tusker Spit
+s
+Glorious Amber Brew
+s
+Amber Ape Brew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+619
+s
+Tusker Spit
+s
+Glorious Fermented Brew
+s
+Tusker Spit Brew
+i
+0
+s
+
+s
+
+i
+39
+i
+0
+i
+620
+s
+Wrapped Bundle of Raider Lightning Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Raider Lightning Arrow
+i
+250
+s
+You make a big bundle of Raider Lightning Arrows.
+s
+
+i
+37
+i
+0
+i
+621
+s
+Wrapped Bundle of Raider Lightning Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Raider Lightning Bolt
+i
+250
+s
+You make a big bundle of Raider Lightning Bolts.
+s
+
+i
+37
+i
+0
+i
+622
+s
+Wrapped Bundle of Raider Lightning Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Raider Lightning Atlatl Dart
+i
+250
+s
+You make a big bundle of Raider Lightning Atlatl Darts.
+s
+
+i
+37
+i
+0
+i
+623
+s
+Wrapped Bundle of Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Arrow
+i
+250
+s
+
+s
+
+i
+37
+i
+0
+i
+624
+s
+Wrapped Bundle of Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Atlatl Dart
+i
+250
+s
+
+s
+
+i
+37
+i
+0
+i
+625
+s
+Wrapped Bundle of Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Quarrel
+i
+250
+s
+
+s
+
+i
+37
+i
+0
+i
+626
+s
+Carving Knife
+s
+Cured Mushroom Stalk
+s
+Tiriun Stalk Jerky
+i
+10
+s
+
+s
+
+i
+39
+i
+100
+i
+627
+s
+Hot Sauce
+s
+Tiriun Mushroom Stalk
+s
+Cured Mushroom Stalk
+i
+1
+s
+
+s
+
+i
+39
+i
+100
+i
+628
+s
+Cooking Pot
+s
+Tiriun Mushroom Spores
+s
+Roasted Tiriun Spores
+i
+1
+s
+
+s
+
+i
+39
+i
+100
+i
+629
+s
+Mortar and Pestle
+s
+Roasted Tiriun Spores
+s
+Tiriun Spore Powder
+i
+10
+s
+
+s
+
+i
+39
+i
+100
+i
+630
+s
+Skewer
+s
+Tiriun Mushroom Cap
+s
+Roasted Tiriun Cap
+i
+1
+s
+
+s
+
+i
+39
+i
+100
+i
+631
+s
+Carving Knife
+s
+Roasted Tiriun Cap
+s
+Tiriun Cap Wafer
+i
+10
+s
+
+s
+
+i
+39
+i
+100
+i
+632
+s
+Splitting Tool
+s
+Lead Pea
+s
+Lead Scarab
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+633
+s
+Splitting Tool
+s
+Iron Pea
+s
+Iron Scarab
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+634
+s
+Splitting Tool
+s
+Copper Pea
+s
+Copper Scarab
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+635
+s
+Splitting Tool
+s
+Silver Pea
+s
+Silver Scarab
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+636
+s
+Splitting Tool
+s
+Gold Pea
+s
+Gold Scarab
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+637
+s
+Splitting Tool
+s
+Pyreal Pea
+s
+Pyreal Scarab
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+638
+s
+Splitting Tool
+s
+Amaranth Pea
+s
+Amaranth
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+639
+s
+Splitting Tool
+s
+Bistort Pea
+s
+Bistort
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+640
+s
+Splitting Tool
+s
+Comfrey Pea
+s
+Comfrey
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+641
+s
+Splitting Tool
+s
+Damiana Pea
+s
+Damiana
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+642
+s
+Splitting Tool
+s
+Dragonsblood Pea
+s
+Dragonsblood
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+643
+s
+Splitting Tool
+s
+Eyebright Pea
+s
+Eyebright
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+644
+s
+Splitting Tool
+s
+Frankincense Pea
+s
+Frankincense
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+645
+s
+Splitting Tool
+s
+Ginseng Pea
+s
+Ginseng
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+646
+s
+Splitting Tool
+s
+Hawthorn Pea
+s
+Hawthorn
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+647
+s
+Splitting Tool
+s
+Henbane Pea
+s
+Henbane
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+648
+s
+Splitting Tool
+s
+Hyssop Pea
+s
+Hyssop
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+649
+s
+Splitting Tool
+s
+Mandrake Pea
+s
+Mandrake
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+650
+s
+Splitting Tool
+s
+Mugwort Pea
+s
+Mugwort
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+651
+s
+Splitting Tool
+s
+Myrrh Pea
+s
+Myrrh
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+652
+s
+Splitting Tool
+s
+Saffron Pea
+s
+Saffron
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+653
+s
+Splitting Tool
+s
+Vervain Pea
+s
+Vervain
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+654
+s
+Splitting Tool
+s
+Wormwood Pea
+s
+Wormwood
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+655
+s
+Splitting Tool
+s
+Yarrow Pea
+s
+Yarrow
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+656
+s
+Splitting Tool
+s
+Powdered Agate Pea
+s
+Powdered Agate
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+657
+s
+Splitting Tool
+s
+Powdered Amber Pea
+s
+Powdered Amber
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+658
+s
+Splitting Tool
+s
+Powdered Azurite Pea
+s
+Powdered Azurite
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+659
+s
+Splitting Tool
+s
+Powdered Bloodstone Pea
+s
+Powdered Bloodstone
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+660
+s
+Splitting Tool
+s
+Powdered Carnelian Pea
+s
+Powdered Carnelian
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+661
+s
+Splitting Tool
+s
+Powdered Hematite Pea
+s
+Powdered Hematite
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+662
+s
+Splitting Tool
+s
+Powdered Lapis Lazuli Pea
+s
+Powdered Lapis Lazuli
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+663
+s
+Splitting Tool
+s
+Powdered Malachite Pea
+s
+Powdered Malachite
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+664
+s
+Splitting Tool
+s
+Powdered Moonstone Pea
+s
+Powdered Moonstone
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+665
+s
+Splitting Tool
+s
+Powdered Onyx Pea
+s
+Powdered Onyx
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+666
+s
+Splitting Tool
+s
+Powdered Quartz Pea
+s
+Powdered Quartz
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+667
+s
+Splitting Tool
+s
+Powdered Turquoise Pea
+s
+Powdered Turquoise
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+668
+s
+Splitting Tool
+s
+Brimstone Pea
+s
+Brimstone
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+669
+s
+Splitting Tool
+s
+Cadmia Pea
+s
+Cadmia
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+670
+s
+Splitting Tool
+s
+Cinnabar Pea
+s
+Cinnabar
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+671
+s
+Splitting Tool
+s
+Cobalt Pea
+s
+Cobalt
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+672
+s
+Splitting Tool
+s
+Colcothar Pea
+s
+Colcothar
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+673
+s
+Splitting Tool
+s
+Gypsum Pea
+s
+Gypsum
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+674
+s
+Splitting Tool
+s
+Quicksilver Pea
+s
+Quicksilver
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+675
+s
+Splitting Tool
+s
+Realgar Pea
+s
+Realgar
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+676
+s
+Splitting Tool
+s
+Stibnite Pea
+s
+Stibnite
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+677
+s
+Splitting Tool
+s
+Turpeth Pea
+s
+Turpeth
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+678
+s
+Splitting Tool
+s
+Verdigris Pea
+s
+Verdigris
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+679
+s
+Splitting Tool
+s
+Vitriol Pea
+s
+Vitriol
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+680
+s
+Splitting Tool
+s
+Poplar Pea
+s
+Poplar Talisman
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+681
+s
+Splitting Tool
+s
+Blackthorn Pea
+s
+Blackthorn Talisman
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+682
+s
+Splitting Tool
+s
+Yew Pea
+s
+Yew Talisman
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+683
+s
+Splitting Tool
+s
+Hemlock Pea
+s
+Hemlock Talisman
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+684
+s
+Splitting Tool
+s
+Alder Pea
+s
+Alder Talisman
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+685
+s
+Splitting Tool
+s
+Ebony Pea
+s
+Ebony Talisman
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+686
+s
+Splitting Tool
+s
+Birch Pea
+s
+Birch Talisman
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+687
+s
+Splitting Tool
+s
+Ashwood Pea
+s
+Ashwood Talisman
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+688
+s
+Splitting Tool
+s
+Elder Pea
+s
+Elder Talisman
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+689
+s
+Splitting Tool
+s
+Rowan Pea
+s
+Rowan Talisman
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+690
+s
+Splitting Tool
+s
+Willow Pea
+s
+Willow Talisman
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+691
+s
+Splitting Tool
+s
+Cedar Pea
+s
+Cedar Talisman
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+692
+s
+Splitting Tool
+s
+Oak Pea
+s
+Oak Talisman
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+693
+s
+Splitting Tool
+s
+Hazel Pea
+s
+Hazel Talisman
+i
+20
+s
+
+s
+
+i
+33
+i
+0
+i
+694
+s
+Splitting Tool
+s
+Red Pea
+s
+Red Taper
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+695
+s
+Splitting Tool
+s
+Pink Pea
+s
+Pink Taper
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+696
+s
+Splitting Tool
+s
+Orange Pea
+s
+Orange Taper
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+697
+s
+Splitting Tool
+s
+Yellow Pea
+s
+Yellow Taper
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+698
+s
+Splitting Tool
+s
+Green Pea
+s
+Green Taper
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+699
+s
+Splitting Tool
+s
+Turquoise Pea
+s
+Turquoise Taper
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+700
+s
+Splitting Tool
+s
+Blue Pea
+s
+Blue Taper
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+701
+s
+Splitting Tool
+s
+Indigo Pea
+s
+Indigo Taper
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+702
+s
+Splitting Tool
+s
+Violet Pea
+s
+Violet Taper
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+703
+s
+Splitting Tool
+s
+Brown Pea
+s
+Brown Taper
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+704
+s
+Splitting Tool
+s
+White Pea
+s
+White Taper
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+705
+s
+Splitting Tool
+s
+Grey Pea
+s
+Grey Taper
+i
+50
+s
+
+s
+
+i
+33
+i
+0
+i
+706
+s
+Wrapped Bundle of Greater Deadly Blunt Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Greater Deadly Blunt Arrow
+i
+250
+s
+
+s
+
+i
+37
+i
+0
+i
+707
+s
+Wrapped Bundle of Greater Deadly Blunt Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Greater Deadly Blunt Quarrel
+i
+250
+s
+
+s
+
+i
+37
+i
+0
+i
+708
+s
+Wrapped Bundle of Greater Deadly Blunt Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Greater Deadly Blunt Atlatl Dart
+i
+250
+s
+
+s
+
+i
+37
+i
+0
+i
+709
+s
+Wrapped Bundle of Olthoi Acid Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Olthoi Acid Arrow
+i
+2500
+s
+
+s
+
+i
+37
+i
+0
+i
+710
+s
+Wrapped Bundle of Olthoi Acid Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Olthoi Acid Bolt
+i
+2500
+s
+
+s
+
+i
+37
+i
+0
+i
+711
+s
+Wrapped Bundle of Olthoi Acid Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Olthoi Acid Atlatl Dart
+i
+2500
+s
+
+s
+
+i
+37
+i
+0
+i
+712
+s
+Wrapped Bundle of Gear Blade Slashing Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Gear Blade Slashing Arrow
+i
+250
+s
+
+s
+
+i
+37
+i
+0
+i
+713
+s
+Wrapped Bundle of Gear Blade Slashing Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Gear Blade Slashing Bolt
+i
+250
+s
+
+s
+
+i
+37
+i
+0
+i
+714
+s
+Wrapped Bundle of Gear Blade Slashing Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Gear Blade Slashing Atlatl Dart
+i
+250
+s
+
+s
+
+i
+37
+i
+0
+i
+715
+s
+Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Greater Deadly Armor Piercing Atlatl Dart
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+716
+s
+Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Greater Deadly Armor Piercing Quarrel
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+717
+s
+Wrapped Bundle of Greater Deadly Armor Piercing Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Greater Deadly Armor Piercing Arrow
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+718
+s
+Wrapped Bundle of Burning Sands Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Burning Sands Atlatl Dart
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+719
+s
+Wrapped Bundle of Burning Sands Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Burning Sands Bolt
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+720
+s
+Wrapped Bundle of Burning Sands Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Burning Sands Arrow
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+721
+s
+Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Greater Deadly Frog Crotch Arrow
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+722
+s
+Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Greater Deadly Frog Crotch Quarrel
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+723
+s
+Wrapped Bundle of Greater Deadly Frog Crotch Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Greater Deadly Frog Crotch Atlatl Dart
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+724
+s
+Wrapped Bundle of Deadly Prismatic Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Deadly Prismatic Atlatl Dart
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+725
+s
+Wrapped Bundle of Deadly Prismatic Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Deadly Prismatic Quarrel
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+726
+s
+Wrapped Bundle of Deadly Prismatic Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Deadly Prismatic Arrow
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+727
+s
+Wrapped Bundle of Greater Prismatic Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Greater Prismatic Atlatl Dart
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+728
+s
+Wrapped Bundle of Greater Prismatic Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Greater Prismatic Quarrel
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+729
+s
+Wrapped Bundle of Greater Prismatic Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Greater Prismatic Arrow
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+730
+s
+Wrapped Bundle of Prismatic Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Prismatic Atlatl Dart
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+731
+s
+Wrapped Bundle of Prismatic Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Prismatic Quarrel
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+732
+s
+Wrapped Bundle of Prismatic Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Prismatic Arrow
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+733
+s
+Infinite Deadly Frog Crotch Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Deadly Frog Crotch Arrow
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+734
+s
+Infinite Deadly Broad Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Deadly Broadhead Arrow
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+735
+s
+Infinite Deadly Armor Piercing Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Deadly Armor Piercing Arrow
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+736
+s
+Infinite Deadly Blunt Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Deadly Blunt Arrow
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+737
+s
+Infinite Deadly Acid Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Deadly Acid Arrow
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+738
+s
+Infinite Deadly Fire Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Deadly Fire Arrow
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+739
+s
+Infinite Deadly Frost Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Deadly Frost Arrow
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+740
+s
+Infinite Deadly Electric Arrowheads
+s
+Wrapped Bundle of Arrowshafts
+s
+Deadly Lightning Arrow
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+741
+s
+Infinite Deadly Frog Crotch Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Deadly Frog Crotch Quarrel
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+742
+s
+Infinite Deadly Frog Crotch Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Deadly Frog Crotch Atlatl Dart
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+743
+s
+Infinite Deadly Broad Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Deadly Broadhead Quarrel
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+744
+s
+Infinite Deadly Broad Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Deadly Broadhead Atlatl Dart
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+745
+s
+Infinite Deadly Armor Piercing Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Deadly Armor Piercing Quarrel
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+746
+s
+Infinite Deadly Armor Piercing Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Deadly Armor Piercing Atlatl Dart
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+747
+s
+Infinite Deadly Blunt Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Deadly Blunt Quarrel
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+748
+s
+Infinite Deadly Blunt Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Deadly Blunt Atlatl Dart
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+749
+s
+Infinite Deadly Acid Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Deadly Acid Quarrel
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+750
+s
+Infinite Deadly Acid Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Deadly Acid Atlatl Dart
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+751
+s
+Infinite Deadly Fire Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Deadly Fire Quarrel
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+752
+s
+Infinite Deadly Fire Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Deadly Fire Atlatl Dart
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+753
+s
+Infinite Deadly Frost Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Deadly Frost Quarrel
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+754
+s
+Infinite Deadly Frost Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Deadly Frost Atlatl Dart
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+755
+s
+Infinite Deadly Electric Arrowheads
+s
+Wrapped Bundle of Quarrelshafts
+s
+Deadly Lightning Quarrel
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+756
+s
+Infinite Deadly Electric Arrowheads
+s
+Wrapped Bundle of Atlatl Dartshafts
+s
+Deadly Lightning Atlatl Dart
+i
+500
+s
+
+s
+
+i
+37
+i
+0
+i
+757
+DBLastUpdateTime
+2
+Zero
+Time
+n
+n
+1
+i
+0
+i
+1460742561
+DBVersion
+1
+VersionInt
+n
+1
+i
+9
+DrainSpellOptions
+5
+SpellID
+CastTimeMilliseconds
+EnemyDrainFactor
+EnemyDrainMaximumPoints
+ResultMultiplier
+y
+n
+n
+n
+n
+8
+i
+1237
+i
+500
+d
+0.25
+i
+30
+d
+2
+i
+1238
+i
+1100
+d
+0.25
+i
+50
+d
+1.6
+i
+1239
+i
+1550
+d
+0.25
+i
+75
+d
+1.33
+i
+1240
+i
+2000
+d
+0.25
+i
+100
+d
+1
+i
+1241
+i
+2400
+d
+0.3
+i
+120
+d
+1
+i
+1242
+i
+2300
+d
+0.4
+i
+150
+d
+0.75
+i
+2328
+i
+2400
+d
+0.5
+i
+180
+d
+0.5
+i
+4643
+i
+2400
+d
+0.6
+i
+205
+d
+0.4
+GrenadeOptions
+6
+GrenName
+WieldReqType
+WieldReqAttribute
+WieldReqValue
+Spell
+Spellcraft
+y
+n
+n
+n
+n
+n
+72
+s
+Iron Phial of Imperil
+i
+2
+i
+38
+i
+75
+i
+1323
+i
+100
+s
+Iron Phial of Blade Vulnerability
+i
+2
+i
+38
+i
+75
+i
+1128
+i
+100
+s
+Iron Phial of Acid Vulnerability
+i
+2
+i
+38
+i
+75
+i
+522
+i
+100
+s
+Iron Phial of Cold Vulnerability
+i
+2
+i
+38
+i
+75
+i
+1061
+i
+100
+s
+Iron Phial of Bludgeon Vulnerability
+i
+2
+i
+38
+i
+75
+i
+1049
+i
+100
+s
+Iron Phial of Fire Vulnerability
+i
+2
+i
+38
+i
+75
+i
+1104
+i
+100
+s
+Iron Phial of Piercing Vulnerability
+i
+2
+i
+38
+i
+75
+i
+1152
+i
+100
+s
+Iron Phial of Lightning Vulnerability
+i
+2
+i
+38
+i
+75
+i
+1085
+i
+100
+s
+Copper Phial of Imperil
+i
+2
+i
+38
+i
+125
+i
+1324
+i
+160
+s
+Copper Phial of Blade Vulnerability
+i
+2
+i
+38
+i
+125
+i
+1129
+i
+160
+s
+Copper Phial of Acid Vulnerability
+i
+2
+i
+38
+i
+125
+i
+523
+i
+160
+s
+Copper Phial of Cold Vulnerability
+i
+2
+i
+38
+i
+125
+i
+1062
+i
+160
+s
+Copper Phial of Bludgeon Vulnerability
+i
+2
+i
+38
+i
+125
+i
+1050
+i
+160
+s
+Copper Phial of Fire Vulnerability
+i
+2
+i
+38
+i
+125
+i
+1105
+i
+160
+s
+Copper Phial of Piercing Vulnerability
+i
+2
+i
+38
+i
+125
+i
+1153
+i
+160
+s
+Copper Phial of Lightning Vulnerability
+i
+2
+i
+38
+i
+125
+i
+1086
+i
+160
+s
+Silver Phial of Imperil
+i
+2
+i
+38
+i
+175
+i
+1325
+i
+220
+s
+Silver Phial of Blade Vulnerability
+i
+2
+i
+38
+i
+175
+i
+1130
+i
+220
+s
+Silver Phial of Acid Vulnerability
+i
+2
+i
+38
+i
+175
+i
+524
+i
+220
+s
+Silver Phial of Cold Vulnerability
+i
+2
+i
+38
+i
+175
+i
+1063
+i
+220
+s
+Silver Phial of Bludgeon Vulnerability
+i
+2
+i
+38
+i
+175
+i
+1051
+i
+220
+s
+Silver Phial of Fire Vulnerability
+i
+2
+i
+38
+i
+175
+i
+1106
+i
+220
+s
+Silver Phial of Piercing Vulnerability
+i
+2
+i
+38
+i
+175
+i
+1154
+i
+220
+s
+Silver Phial of Lightning Vulnerability
+i
+2
+i
+38
+i
+175
+i
+1087
+i
+220
+s
+Gold Phial of Imperil
+i
+2
+i
+38
+i
+225
+i
+1326
+i
+270
+s
+Gold Phial of Blade Vulnerability
+i
+2
+i
+38
+i
+225
+i
+1131
+i
+270
+s
+Gold Phial of Acid Vulnerability
+i
+2
+i
+38
+i
+225
+i
+525
+i
+270
+s
+Gold Phial of Cold Vulnerability
+i
+2
+i
+38
+i
+225
+i
+1064
+i
+270
+s
+Gold Phial of Bludgeon Vulnerability
+i
+2
+i
+38
+i
+225
+i
+1052
+i
+270
+s
+Gold Phial of Fire Vulnerability
+i
+2
+i
+38
+i
+225
+i
+1107
+i
+270
+s
+Gold Phial of Piercing Vulnerability
+i
+2
+i
+38
+i
+225
+i
+1155
+i
+270
+s
+Gold Phial of Lightning Vulnerability
+i
+2
+i
+38
+i
+225
+i
+1088
+i
+270
+s
+Pyreal Phial of Imperil
+i
+2
+i
+38
+i
+275
+i
+1327
+i
+340
+s
+Pyreal Phial of Blade Vulnerability
+i
+2
+i
+38
+i
+275
+i
+1132
+i
+340
+s
+Pyreal Phial of Acid Vulnerability
+i
+2
+i
+38
+i
+275
+i
+526
+i
+340
+s
+Pyreal Phial of Cold Vulnerability
+i
+2
+i
+38
+i
+275
+i
+1065
+i
+340
+s
+Pyreal Phial of Bludgeon Vulnerability
+i
+2
+i
+38
+i
+275
+i
+1053
+i
+340
+s
+Pyreal Phial of Fire Vulnerability
+i
+2
+i
+38
+i
+275
+i
+1108
+i
+340
+s
+Pyreal Phial of Piercing Vulnerability
+i
+2
+i
+38
+i
+275
+i
+1156
+i
+340
+s
+Pyreal Phial of Lightning Vulnerability
+i
+2
+i
+38
+i
+275
+i
+1089
+i
+340
+s
+Platinum Phial of Imperil
+i
+2
+i
+38
+i
+325
+i
+1327
+i
+400
+s
+Platinum Phial of Blade Vulnerability
+i
+2
+i
+38
+i
+325
+i
+1132
+i
+400
+s
+Platinum Phial of Acid Vulnerability
+i
+2
+i
+38
+i
+325
+i
+526
+i
+400
+s
+Platinum Phial of Cold Vulnerability
+i
+2
+i
+38
+i
+325
+i
+1065
+i
+400
+s
+Platinum Phial of Bludgeon Vulnerability
+i
+2
+i
+38
+i
+325
+i
+1053
+i
+400
+s
+Platinum Phial of Fire Vulnerability
+i
+2
+i
+38
+i
+325
+i
+1108
+i
+400
+s
+Platinum Phial of Piercing Vulnerability
+i
+2
+i
+38
+i
+325
+i
+1156
+i
+400
+s
+Platinum Phial of Lightning Vulnerability
+i
+2
+i
+38
+i
+325
+i
+1089
+i
+400
+s
+Empowered Platinum Phial of Imperil
+i
+2
+i
+38
+i
+375
+i
+1327
+i
+460
+s
+Empowered Platinum Phial of Blade Vulnerability
+i
+2
+i
+38
+i
+375
+i
+1132
+i
+460
+s
+Empowered Platinum Phial of Acid Vulnerability
+i
+2
+i
+38
+i
+375
+i
+526
+i
+460
+s
+Empowered Platinum Phial of Cold Vulnerability
+i
+2
+i
+38
+i
+375
+i
+1065
+i
+460
+s
+Empowered Platinum Phial of Bludgeon Vulnerability
+i
+2
+i
+38
+i
+375
+i
+1053
+i
+460
+s
+Empowered Platinum Phial of Fire Vulnerability
+i
+2
+i
+38
+i
+375
+i
+1108
+i
+460
+s
+Empowered Platinum Phial of Piercing Vulnerability
+i
+2
+i
+38
+i
+375
+i
+1156
+i
+460
+s
+Empowered Platinum Phial of Lightning Vulnerability
+i
+2
+i
+38
+i
+375
+i
+1089
+i
+460
+s
+Mana Phial of Imperil
+i
+2
+i
+38
+i
+400
+i
+2074
+i
+520
+s
+Mana Phial of Blade Vulnerability
+i
+2
+i
+38
+i
+400
+i
+2164
+i
+520
+s
+Mana Phial of Acid Vulnerability
+i
+2
+i
+38
+i
+400
+i
+2162
+i
+520
+s
+Mana Phial of Cold Vulnerability
+i
+2
+i
+38
+i
+400
+i
+2168
+i
+520
+s
+Mana Phial of Bludgeon Vulnerability
+i
+2
+i
+38
+i
+400
+i
+2166
+i
+520
+s
+Mana Phial of Fire Vulnerability
+i
+2
+i
+38
+i
+400
+i
+2170
+i
+520
+s
+Mana Phial of Piercing Vulnerability
+i
+2
+i
+38
+i
+400
+i
+2174
+i
+520
+s
+Mana Phial of Lightning Vulnerability
+i
+2
+i
+38
+i
+400
+i
+2172
+i
+520
+s
+Iron Phial of Fester
+i
+2
+i
+38
+i
+75
+i
+172
+i
+100
+s
+Copper Phial of Fester
+i
+2
+i
+38
+i
+125
+i
+173
+i
+160
+s
+Silver Phial of Fester
+i
+2
+i
+38
+i
+175
+i
+174
+i
+220
+s
+Gold Phial of Fester
+i
+2
+i
+38
+i
+225
+i
+175
+i
+270
+s
+Pyreal Phial of Fester
+i
+2
+i
+38
+i
+275
+i
+176
+i
+340
+s
+Platinum Phial of Fester
+i
+2
+i
+38
+i
+325
+i
+176
+i
+400
+s
+Empowered Platinum Phial of Fester
+i
+2
+i
+38
+i
+375
+i
+176
+i
+460
+s
+Mana Phial of Fester
+i
+2
+i
+38
+i
+400
+i
+2178
+i
+520
+HealKits
+4
+KitName
+RestoreBonus
+SkillBonus
+WhichVital
+y
+n
+n
+n
+12
+s
+Treated Healing Kit
+d
+2
+i
+25
+i
+1
+s
+Peerless Healing Kit
+d
+1.75
+i
+20
+i
+1
+s
+Handy Healing Kit
+d
+1
+i
+50
+i
+1
+s
+Excellent Healing Kit
+d
+1.5
+i
+10
+i
+1
+s
+Gifted Healing Kit
+d
+1
+i
+100
+i
+1
+s
+Adept Healing Kit
+d
+1
+i
+75
+i
+1
+s
+Greater Mana Kit
+d
+1.1
+i
+200
+i
+1
+s
+Renegade Herbal Kit
+d
+1
+i
+200
+i
+1
+s
+Greater Stamina Kit
+d
+1.1
+i
+200
+i
+1
+s
+Plentiful Healing Kit
+d
+1.6
+i
+100
+i
+1
+s
+Lesser Stamina Kit
+d
+1.6
+i
+100
+i
+1
+s
+Lesser Mana Kit
+d
+1.6
+i
+100
+i
+1
+MartyrSpellOptions
+4
+SpellID
+CastTimeMilliseconds
+SelfDrainFactor
+ResultMultiplier
+y
+n
+n
+n
+8
+i
+2760
+i
+550
+d
+0.25
+d
+0.75
+i
+2761
+i
+1150
+d
+0.25
+d
+0.9
+i
+2762
+i
+1600
+d
+0.25
+d
+1.05
+i
+2763
+i
+2050
+d
+0.25
+d
+1.25
+i
+2764
+i
+2450
+d
+0.25
+d
+1.5
+i
+2765
+i
+2350
+d
+0.25
+d
+1.75
+i
+2766
+i
+2450
+d
+0.25
+d
+2
+i
+3818
+i
+2850
+d
+0.5
+d
+2
+MonsterDamageOverrides
+2
+Monster
+DamageString
+y
+n
+59
+s
+Magma Golem
+s
+5;1;0;2
+s
+Mist Golem
+s
+5;4;3;6;2;0;1
+s
+Nubilous Golem
+s
+4;5;3;2;0;1
+s
+Plasma Golem
+s
+4;5;3;2;0;1
+s
+Vapor Golem
+s
+5;4;15;4;3;6;2;0;1
+s
+Damaged Glacial Golem
+s
+6;1;0;2
+s
+Fractured Glacial Golem
+s
+6;1;0;2
+s
+Tanada Nanjou Shou-jen
+s
+3;4;6;5
+s
+Disgraced Nanjou Shou-jen
+s
+3;4;6;5
+s
+Magma Golem Exarch
+s
+5;1;0;2
+s
+Pillar of Fire
+s
+5;2;0
+s
+Infused Blood Golem
+s
+5;3;4;1;0;6;2
+s
+Infused Empyrean Blood Golem
+s
+5;3;4;2;6;0;1
+s
+Sapphire Golem
+s
+0;3;1;5;6;4;2
+s
+High Priestess Xik Minru
+s
+1;2;0
+s
+Contained Rift
+s
+2;1;0
+s
+Ebon Rift
+s
+2;1;0
+s
+Fallen Rift
+s
+2;1;0
+s
+Narrow Rift
+s
+2;1;0
+s
+Quiddity Rift
+s
+2;1;0
+s
+Shallow Rift
+s
+2;1;0
+s
+Tenebrous Rift
+s
+2;1;0
+s
+Umbral Rift
+s
+2;1;0
+s
+Unstable Rift
+s
+2;1;0
+s
+Aqueous Golem
+s
+4;6;5;3;2;1;0
+s
+Wave Golem
+s
+4;6;5;3;2;1;0
+s
+Unstable Magma Golem
+s
+5;1;0;2
+s
+Behemoth of Tenkarrdun
+s
+5;1;0;2
+s
+Small Magma Golem
+s
+5;1;0;2
+s
+Atlan's Crafting Golem
+s
+5;1;0;2
+s
+Bur Lizk
+s
+5;4;0;2
+s
+Dust Golem
+s
+5;4;6;3;0;1;2
+s
+Ancient Magma Golem
+s
+5;1;0;2
+s
+Frozen Ice Golem
+s
+6;1;0;2
+s
+Frozen Glacial Golem
+s
+6;1;0;2
+s
+Forge Golem
+s
+5;4;3;1;0;2
+s
+Frozen Gearknight
+s
+6
+s
+Diaphanous Nephol Golem
+s
+5;4;3;6;2;0;1
+s
+Tenuous Nephol Golem
+s
+5;4;3;6;2;0;1
+s
+Turbid Nephol Golem
+s
+5;4;3;6;2;0;1
+s
+Wall of Ice
+s
+6;1;0;2;3;4
+s
+Scold
+s
+5;1;0;2
+s
+Scold Chunk
+s
+5;1;0;2
+s
+Scold Lump
+s
+5;1;0;2
+s
+Freezing Mist Golem
+s
+5;4;3;6;2;0;1
+s
+Frost Golem
+s
+6;4;5;3
+s
+Elite Guardian
+s
+5;6
+s
+Enraged Ancient Soul
+s
+6;3;1;4;5;2;0
+s
+Mudmouth
+s
+6;4;3;5;1;0;2
+s
+Fiery Defender
+s
+5;2;4;1;0;3
+s
+Follower of Deewain
+s
+4;3;1;0;5;2;6
+s
+Chilled Defender
+s
+4;3;6;1;2;0;5
+s
+Charged Defender
+s
+5;3;4;2;1;0
+s
+Iron Golem Samurai
+s
+3;4;5;6;2;1;0
+s
+Clay Golem Samurai
+s
+1;5;6;4;3;2;0
+s
+Bronze Golem Samurai
+s
+4;3;5;6;2;1;0
+s
+Spectral Nanjou Shou-jen
+s
+1;6;2;3;4;5;0
+s
+Spectral Samurai
+s
+5;4;3;2;1;6;0
+s
+Spectral Claw Master
+s
+1;6;2;3;4;5;0
+MonsterImmunities
+2
+Monster
+ImmunityMask
+y
+n
+3
+s
+Olthoi Slasher
+i
+3
+s
+Olthoi Slayer
+i
+3
+s
+Olthoi Ripper
+i
+3
+SpeciesDamages
+2
+Species
+DamageString
+y
+n
+103
+i
+0
+s
+2
+i
+1
+s
+1;0;2;5;6;4;3
+i
+2
+s
+4;6;5;2;0;1;3
+i
+3
+s
+6;1;2;3;5;0;4
+i
+4
+s
+6;1;4;3;2;5;0
+i
+5
+s
+4;3;2;0;1;5;6
+i
+6
+s
+2;0;5;3;1;4;6
+i
+7
+s
+0;2;1;6;3;5;4
+i
+8
+s
+6;0;1;5;3;2;4
+i
+9
+s
+1;2;0;3;6;5;4
+i
+10
+s
+1;4;2;0;5;3;6
+i
+11
+s
+2
+i
+12
+s
+2
+i
+13
+s
+1;3;0;5;6;4;2
+i
+14
+s
+6;3;2;1;4;0;5
+i
+15
+s
+2;0;1
+i
+16
+s
+5;2;4;3;0;1;6
+i
+17
+s
+2;0;3;1;5;4;6
+i
+18
+s
+2
+i
+19
+s
+6;0;1;2;3;5;4
+i
+20
+s
+2;0;1;3;4;5
+i
+21
+s
+0;4;6;3
+i
+22
+s
+6;2;1;4;0;3;5
+i
+23
+s
+6;0;1;3;2;5;4
+i
+24
+s
+6;3;2
+i
+25
+s
+2
+i
+26
+s
+5;2;0;6
+i
+27
+s
+0;2;1
+i
+28
+s
+5;3;0
+i
+29
+s
+4;5;2
+i
+30
+s
+1;2;0
+i
+31
+s
+6;0;1;2;3;4;5
+i
+32
+s
+5;1;3
+i
+33
+s
+2;0;1
+i
+34
+s
+2;0;1
+i
+35
+s
+1;0;2
+i
+36
+s
+2;6;0
+i
+37
+s
+2
+i
+38
+s
+5;2;0
+i
+39
+s
+6;2;1
+i
+40
+s
+2
+i
+41
+s
+2
+i
+42
+s
+3;2;0
+i
+43
+s
+2
+i
+44
+s
+2;0;1
+i
+45
+s
+2;5;3
+i
+46
+s
+6;0;2;1;3;4;5
+i
+47
+s
+1;0;2
+i
+48
+s
+5;2;0;3;1;6;4
+i
+49
+s
+6;2;0;1
+i
+50
+s
+2;6;1
+i
+51
+s
+2;1;0
+i
+52
+s
+6;2;1;0
+i
+53
+s
+5;1;2;4;6;3;0
+i
+54
+s
+5;2;0;1
+i
+55
+s
+1;5;4;2;6;3;0
+i
+56
+s
+5;1;3
+i
+57
+s
+2;0;5;3;1;4;6
+i
+58
+s
+2;0;5;3;1;4;6
+i
+59
+s
+5;2;0;3;1;6;4
+i
+60
+s
+4;2;0
+i
+61
+s
+6;2;0
+i
+62
+s
+2;0;1
+i
+63
+s
+3;4;6;5;1;2;0
+i
+64
+s
+2
+i
+65
+s
+2
+i
+66
+s
+2
+i
+67
+s
+2
+i
+68
+s
+2
+i
+69
+s
+2
+i
+70
+s
+4;3;0;2;1
+i
+71
+s
+1;5;4;0;2;6;3
+i
+72
+s
+2
+i
+73
+s
+2
+i
+74
+s
+2
+i
+75
+s
+5;0;2;6;1;4;3
+i
+76
+s
+2
+i
+77
+s
+6;2;0;1;3;4;5
+i
+78
+s
+4;6;5;2;3;0;1
+i
+79
+s
+2;0;6;5;4;3;1
+i
+80
+s
+6;2;1;0
+i
+81
+s
+1;0;6;2;3;4;5
+i
+82
+s
+2;1;0
+i
+83
+s
+4;2;0;1
+i
+84
+s
+1;2;0
+i
+85
+s
+2
+i
+86
+s
+2;0;1
+i
+87
+s
+2
+i
+88
+s
+1;0;2
+i
+89
+s
+0;1;2
+i
+90
+s
+2
+i
+91
+s
+2
+i
+92
+s
+1;0;2
+i
+93
+s
+2
+i
+94
+s
+2
+i
+95
+s
+6;2;1;0
+i
+96
+s
+2
+i
+-1
+s
+1;0;2;3;4;5;6
+i
+97
+s
+6
+i
+98
+s
+2;0;1
+i
+99
+s
+3;4;1;0;6;5;2
+i
+100
+s
+6;3;2;0;1;5;4
+i
+101
+s
+3;1;6;0;2;4;5
+SpeciesMembers
+3
+Monster
+Species
+MaximumHealth
+y
+n
+n
+1626
+s
+Black Rabbit
+i
+25
+i
+5
+s
+Intense Shivering Crystalline Wisp
+i
+20
+i
+1020
+s
+Olthoi Slasher
+i
+1
+i
+3190
+s
+Cow
+i
+12
+i
+20
+s
+Burun Ruuk Fiend
+i
+75
+i
+385
+s
+Burun Ruuk Soothsayer
+i
+75
+i
+410
+s
+Pyreal Target Drudge
+i
+76
+i
+10000
+s
+Oak Target Drudge
+i
+76
+i
+1000
+s
+Straw Target Drudge
+i
+76
+i
+1000
+s
+Baby Thrungus
+i
+82
+i
+3
+s
+False Morel Thrungus
+i
+82
+i
+448
+s
+Guruk Colossus
+i
+75
+i
+650
+s
+Guruk Beast
+i
+75
+i
+550
+s
+Guruk Brute
+i
+75
+i
+575
+s
+Guruk Behemoth
+i
+75
+i
+700
+s
+Guruk Smasher
+i
+75
+i
+525
+s
+Armored Tusker
+i
+8
+i
+650
+s
+Tusker Liberator
+i
+8
+i
+250
+s
+Tuskie Thrower
+i
+8
+i
+80
+s
+Tusker Slave
+i
+8
+i
+325
+s
+Tusker Minion
+i
+31
+i
+90
+s
+Tusker Guard
+i
+8
+i
+375
+s
+Silver Tusker
+i
+8
+i
+425
+s
+Reedshark Ravager
+i
+16
+i
+300
+s
+Tusker Worshipper
+i
+31
+i
+170
+s
+Jungle Phyntos Wasp
+i
+9
+i
+160
+s
+Tuskie Launcher
+i
+8
+i
+150
+s
+Stinging Chittick
+i
+33
+i
+300
+s
+Jungle Reaver
+i
+16
+i
+120
+s
+White Phyntos Wasp
+i
+9
+i
+200
+s
+Tusker Redeemer
+i
+8
+i
+200
+s
+Reaper
+i
+16
+i
+500
+s
+Tuskie Gunner
+i
+8
+i
+200
+s
+Iron Spined Chittick
+i
+33
+i
+350
+s
+Infected Assailer
+i
+8
+i
+700
+s
+Rampager
+i
+8
+i
+425
+s
+Assailer
+i
+8
+i
+700
+s
+Plated Tusker
+i
+8
+i
+800
+s
+Tusker Sycophant
+i
+31
+i
+225
+s
+Dark Magus
+i
+14
+i
+285
+s
+Dark Leech
+i
+14
+i
+198
+s
+Blood Fiend
+i
+30
+i
+600
+s
+Chomu Sclavus
+i
+26
+i
+265
+s
+Slithayr Tentacle
+i
+36
+i
+140
+s
+Slithayr Tendril
+i
+36
+i
+180
+s
+Putrid Moarsman
+i
+34
+i
+195
+s
+Slithayr Eye Stalk
+i
+36
+i
+210
+s
+Sulthis Eye Stalk
+i
+36
+i
+310
+s
+Sulthis Tentacle
+i
+36
+i
+200
+s
+Sulthis Tendril
+i
+36
+i
+195
+s
+Faisi Sclavus
+i
+26
+i
+205
+s
+Ulu Sclavus
+i
+26
+i
+198
+s
+Affliction Wisp
+i
+20
+i
+360
+s
+Blessed Moarsman
+i
+34
+i
+2000
+s
+Verdant Moar
+i
+86
+i
+2220
+s
+Ardent Moar
+i
+86
+i
+2425
+s
+Blighted Ardent Moarsman
+i
+34
+i
+2000
+s
+Blighted Verdant Moarsman
+i
+34
+i
+2000
+s
+Siessa Sclavus Soldier
+i
+26
+i
+1690
+s
+Ashris Niffis
+i
+45
+i
+3800
+s
+Killer Phyntos Swarm
+i
+9
+i
+850
+s
+Killer Phyntos Drone
+i
+9
+i
+1500
+s
+Killer Phyntos Hive
+i
+-1
+i
+-1
+s
+Giant Jungle Phyntos Wasp
+i
+9
+i
+2000
+s
+Killer Phyntos Soldier
+i
+9
+i
+2000
+s
+Verdant Moarsman
+i
+34
+i
+2000
+s
+Ardent Moarsman
+i
+34
+i
+2000
+s
+Sclavus Acolyte of T'thuun
+i
+26
+i
+2190
+s
+Bandit Mana Hunter
+i
+31
+i
+1500
+s
+Tentacle of T'thuun
+i
+36
+i
+1020
+s
+Tendril of T'thuun
+i
+36
+i
+810
+s
+Eyestalk of T'thuun
+i
+36
+i
+1230
+s
+Afessa Sclavus Soldier
+i
+26
+i
+2200
+s
+Black Phyntos Hive
+i
+-1
+i
+-1
+s
+Black Phyntos Swarm
+i
+9
+i
+350
+s
+Nubilous Golem
+i
+13
+i
+300
+s
+Mist Golem
+i
+13
+i
+300
+s
+Banderling Mangler
+i
+2
+i
+560
+s
+Banderling Mauler
+i
+2
+i
+560
+s
+Altered Drudge
+i
+3
+i
+215
+s
+Coral Golem
+i
+13
+i
+600
+s
+Ember
+i
+38
+i
+190
+s
+Black Phyntos Wasp
+i
+9
+i
+225
+s
+Magma Golem
+i
+13
+i
+400
+s
+Cursed Bones
+i
+30
+i
+305
+s
+Fire Wisp
+i
+20
+i
+180
+s
+Relic Bones
+i
+30
+i
+305
+s
+Flamma
+i
+38
+i
+135
+s
+Gout
+i
+38
+i
+125
+s
+Blighted Pyreal Golem
+i
+13
+i
+460
+s
+Murk Drudge
+i
+3
+i
+325
+s
+Phantom
+i
+77
+i
+315
+s
+Great Skeleton
+i
+30
+i
+300
+s
+Drudge Sage
+i
+3
+i
+355
+s
+Diamond Golem
+i
+13
+i
+575
+s
+Cursed Wisp
+i
+20
+i
+225
+s
+Firestorm
+i
+38
+i
+330
+s
+Specter
+i
+77
+i
+295
+s
+Flare
+i
+38
+i
+55
+s
+Banderling Scalper
+i
+2
+i
+500
+s
+Destroyer Grievver
+i
+44
+i
+520
+s
+Banderling Savage
+i
+2
+i
+600
+s
+Crystal Moiety
+i
+47
+i
+350
+s
+Lacerator
+i
+1
+i
+500
+s
+Olthoi Warrior
+i
+1
+i
+300
+s
+Olthoi Mutilator
+i
+1
+i
+350
+s
+Raider Juggernaut
+i
+70
+i
+513
+s
+Banderling Predator
+i
+2
+i
+500
+s
+Drudge Cabalist
+i
+3
+i
+510
+s
+Ascendant Drudge
+i
+3
+i
+245
+s
+Augmented Drudge
+i
+3
+i
+225
+s
+Unconquered Drudge
+i
+3
+i
+300
+s
+Banderling Aggressor
+i
+2
+i
+610
+s
+Drudge Bloodletter
+i
+3
+i
+400
+s
+Peerless Drudge
+i
+3
+i
+505
+s
+Tsuric
+i
+62
+i
+570
+s
+Nightmare Wisp
+i
+20
+i
+360
+s
+Pyreal Golem
+i
+13
+i
+460
+s
+Gotrok Tiatus
+i
+70
+i
+450
+s
+Virindi Profane
+i
+19
+i
+500
+s
+Tumerok Trooper
+i
+6
+i
+400
+s
+Gotrok Titan
+i
+70
+i
+565
+s
+Tumerok War Monger
+i
+6
+i
+450
+s
+Gotrok Juggernaut
+i
+70
+i
+513
+s
+Direland Rat
+i
+10
+i
+420
+s
+Paradox-touched Olthoi Warrior
+i
+1
+i
+2250
+s
+Paradox-touched Olthoi Noble
+i
+92
+i
+2000
+s
+Paradox-touched Olthoi Eviscerator
+i
+92
+i
+2000
+s
+Paradox-touched Olthoi Warrior Nymph
+i
+92
+i
+450
+s
+Paradox-touched Olthoi Eviscerator Nymph
+i
+92
+i
+698
+s
+Paradox-touched Olthoi Sentinel
+i
+92
+i
+20250
+s
+Paradox-touched Olthoi Lancer
+i
+92
+i
+1000
+s
+Paradox-touched Olthoi Noble Grub
+i
+92
+i
+300
+s
+Paradox-touched Olthoi Eviscerator Grub
+i
+92
+i
+323
+s
+Incalescent Crystalline Wisp
+i
+20
+i
+720
+s
+Crystalline Wisp
+i
+20
+i
+520
+s
+Shivering Crystalline Wisp
+i
+20
+i
+720
+s
+Aggregate Crystalline Wisp
+i
+20
+i
+1520
+s
+Voltaic Crystalline Wisp
+i
+20
+i
+720
+s
+Corroding Crystalline Wisp
+i
+20
+i
+720
+s
+Banderling Guard
+i
+2
+i
+100
+s
+Tusker Crimsonback
+i
+8
+i
+110
+s
+Brutish Monouga
+i
+28
+i
+190
+s
+Shadow
+i
+22
+i
+138
+s
+Shadow Lieutenant
+i
+22
+i
+190
+s
+Goldenback Tusker
+i
+8
+i
+135
+s
+Elaniwood Golem
+i
+13
+i
+120
+s
+Wild Monouga
+i
+28
+i
+130
+s
+Scrawed Grievver
+i
+44
+i
+150
+s
+Drudge Stalker
+i
+3
+i
+160
+s
+Skeleton Lord
+i
+30
+i
+143
+s
+Skeleton Captain
+i
+30
+i
+100
+s
+High Tumerok
+i
+6
+i
+160
+s
+Tumerok Officer
+i
+6
+i
+110
+s
+Gold Phyntos Wasp
+i
+9
+i
+155
+s
+Copper Golem
+i
+13
+i
+125
+s
+Sandstone Golem
+i
+13
+i
+115
+s
+Mite Scamp
+i
+7
+i
+45
+s
+Field Ursuin
+i
+46
+i
+80
+s
+Banderling Raver
+i
+2
+i
+105
+s
+Reedshark Elder
+i
+16
+i
+60
+s
+Tumerok Scout
+i
+6
+i
+45
+s
+Tumerok Fighter
+i
+6
+i
+78
+s
+Banderling Raider
+i
+2
+i
+83
+s
+Wood Golem
+i
+13
+i
+80
+s
+Limestone Golem
+i
+13
+i
+80
+s
+Ivory Gromnie
+i
+15
+i
+60
+s
+Broken Fragment
+i
+47
+i
+30
+s
+Shallows Shark
+i
+27
+i
+50
+s
+Azure Gromnie
+i
+15
+i
+48
+s
+Glissnal Niffis
+i
+45
+i
+115
+s
+Adult Reedshark
+i
+16
+i
+60
+s
+Reedshark Pup
+i
+16
+i
+40
+s
+Listris Niffis
+i
+45
+i
+85
+s
+Vorous Shreth
+i
+32
+i
+65
+s
+Female Tusker
+i
+8
+i
+100
+s
+Snowman
+i
+39
+i
+50
+s
+Hunter Shreth
+i
+32
+i
+50
+s
+Mite Squib
+i
+7
+i
+75
+s
+Drudge Slinker
+i
+3
+i
+25
+s
+Mudlurk Mosswart
+i
+4
+i
+75
+s
+Barker Mosswart
+i
+4
+i
+80
+s
+Mite Squire
+i
+7
+i
+85
+s
+Male Tusker
+i
+8
+i
+100
+s
+Mite Sentry
+i
+7
+i
+80
+s
+Outcast Monouga
+i
+28
+i
+40
+s
+Shadow Wisp
+i
+20
+i
+120
+s
+Granite Golem
+i
+13
+i
+240
+s
+Risen Knight
+i
+14
+i
+230
+s
+Crude Monouga
+i
+28
+i
+125
+s
+Shadow Child
+i
+22
+i
+100
+s
+Charge
+i
+42
+i
+125
+s
+Copper Golem Kingpin
+i
+13
+i
+1500
+s
+Ursuin Slasher
+i
+46
+i
+190
+s
+Veteran Reedshark
+i
+16
+i
+60
+s
+Obeloth Raider
+i
+70
+i
+150
+s
+Gotrok Amploth
+i
+70
+i
+125
+s
+Gotrok Laigus
+i
+70
+i
+105
+s
+Tumerok Priest
+i
+6
+i
+185
+s
+Harvest Reaper
+i
+30
+i
+10000
+s
+Sufut Zefir
+i
+29
+i
+90
+s
+Pumpkin Kin
+i
+93
+i
+190
+s
+Pumpkin Lord
+i
+93
+i
+1450
+s
+Virindi Servant
+i
+19
+i
+125
+s
+Lich Lord
+i
+14
+i
+178
+s
+Silver Rat
+i
+10
+i
+90
+s
+Virindi Master
+i
+19
+i
+145
+s
+Scourge
+i
+60
+i
+140
+s
+Laigus Lugian
+i
+5
+i
+105
+s
+Skeleton Wraith
+i
+30
+i
+143
+s
+Pristine Doll
+i
+53
+i
+150
+s
+Auroch Fire Yearling
+i
+11
+i
+70
+s
+Auroch Fire Cow
+i
+11
+i
+95
+s
+Innocuous Doll
+i
+53
+i
+115
+s
+Sotiris Hollow Minion
+i
+48
+i
+130
+s
+Lithos Raider
+i
+70
+i
+160
+s
+Innocent Doll
+i
+53
+i
+150
+s
+Tumerok Warrior
+i
+6
+i
+103
+s
+Greater Mu-miyah
+i
+14
+i
+80
+s
+Horrible Mu-miyah
+i
+14
+i
+165
+s
+Frost Golem
+i
+13
+i
+2350
+s
+Zombie Mage
+i
+14
+i
+1175
+s
+Spirit Wisp
+i
+20
+i
+2125
+s
+Virindi Monitor
+i
+19
+i
+1000
+s
+Shoguth Moarsman
+i
+98
+i
+2000
+s
+Maguth Moarsman
+i
+98
+i
+2000
+s
+Mogshuth Moarsman
+i
+98
+i
+2000
+s
+Moguth Moarsman
+i
+98
+i
+2000
+s
+Corrupted Coral Golem
+i
+13
+i
+1600
+s
+Shogshuth Moarsman
+i
+98
+i
+2000
+s
+Magshuth Moarsman
+i
+98
+i
+2000
+s
+Illu Sclavus Soldier
+i
+26
+i
+2200
+s
+Sand Lurker
+i
+27
+i
+2670
+s
+Great Devourer
+i
+27
+i
+2670
+s
+Master Archer
+i
+31
+i
+1500
+s
+Master Mage
+i
+31
+i
+890
+s
+Master Soldier
+i
+31
+i
+1500
+s
+Deep-sea Lava Golem
+i
+13
+i
+1600
+s
+Brood Mother
+i
+98
+i
+2000
+s
+Spawn Watcher
+i
+98
+i
+2000
+s
+Egg
+i
+63
+i
+200
+s
+Spawnling
+i
+98
+i
+400
+s
+Moarsman Adherent of T'thuun
+i
+98
+i
+2000
+s
+Moarsman Prior
+i
+98
+i
+2000
+s
+Moarsman Priest of T'thuun
+i
+98
+i
+2000
+s
+Spawn
+i
+98
+i
+500
+s
+Auroch Cow
+i
+11
+i
+80
+s
+Auroch Yearling
+i
+11
+i
+55
+s
+Coral Tower
+i
+64
+i
+40000
+s
+Auroch Bull
+i
+11
+i
+85
+s
+Olthoi Soldier Grub
+i
+35
+i
+100
+s
+Olthoi Eviscerator Grub
+i
+35
+i
+215
+s
+Olthoi Grub
+i
+35
+i
+115
+s
+Olthoi Nymph Grub
+i
+35
+i
+57
+s
+Banderling Smasher
+i
+2
+i
+1710
+s
+Grievver Violator
+i
+44
+i
+2150
+s
+Banderling Crusher
+i
+2
+i
+1710
+s
+Burrowing Grievver
+i
+44
+i
+2150
+s
+Black Coral Golem
+i
+13
+i
+500
+s
+Aggressive Swarm
+i
+85
+i
+1880
+s
+Chicken
+i
+69
+i
+3
+s
+Mosswart Fanatic
+i
+4
+i
+120
+s
+Olthoi Drone
+i
+1
+i
+140
+s
+Olthoi Nymph
+i
+1
+i
+115
+s
+Olthoi Worker
+i
+1
+i
+215
+s
+Virulent Grievver
+i
+44
+i
+180
+s
+Rough Monouga
+i
+28
+i
+115
+s
+Drudge Sneaker
+i
+3
+i
+33
+s
+Mite Scion
+i
+7
+i
+25
+s
+Drudge Servant
+i
+3
+i
+53
+s
+Blue Phyntos Wasp
+i
+9
+i
+30
+s
+Banderling Scout
+i
+2
+i
+50
+s
+Drudge Prowler
+i
+3
+i
+45
+s
+Drudge Skulker
+i
+3
+i
+20
+s
+Blood Shreth
+i
+32
+i
+38
+s
+Mite Digger
+i
+7
+i
+60
+s
+Red Phyntos Wasp
+i
+9
+i
+20
+s
+Scavenger Ursuin
+i
+46
+i
+45
+s
+Young Banderling
+i
+2
+i
+30
+s
+Creeper Mosswart
+i
+4
+i
+40
+s
+Mite Snippet
+i
+7
+i
+20
+s
+Gnawer Shreth
+i
+32
+i
+15
+s
+Augmented Tumerok
+i
+6
+i
+350
+s
+Ravenous Eater
+i
+79
+i
+740
+s
+Intense Shivering Pillar
+i
+47
+i
+445
+s
+Intense Aggregate Crystalline Wisp
+i
+20
+i
+2120
+s
+Intense Incalescent Crystalline Wisp
+i
+20
+i
+1220
+s
+Intense Incalescent Pillar
+i
+47
+i
+445
+s
+Malus Shreth
+i
+32
+i
+245
+s
+Sinister Shadow
+i
+22
+i
+625
+s
+Nomad Mu-miyah
+i
+14
+i
+320
+s
+Dark Master
+i
+14
+i
+450
+s
+Risen Lord
+i
+14
+i
+345
+s
+Tenebrous Shadow
+i
+22
+i
+450
+s
+Drudge Mystic
+i
+3
+i
+400
+s
+Shadow Phantom
+i
+22
+i
+450
+s
+Shadow Wraith
+i
+22
+i
+500
+s
+Abyssal Shadow
+i
+22
+i
+450
+s
+Tumerok High Priest
+i
+6
+i
+325
+s
+Blighted Bane Grievver
+i
+44
+i
+538
+s
+Telumiat Hollow Minion
+i
+48
+i
+450
+s
+Paroxysm Shadow
+i
+22
+i
+525
+s
+Maelstrom Shadow
+i
+22
+i
+625
+s
+Gloom Drudge
+i
+3
+i
+400
+s
+Shadow Spectre
+i
+22
+i
+450
+s
+Virindi Consul
+i
+19
+i
+350
+s
+Plasma Golem
+i
+13
+i
+260
+s
+Platinum Golem
+i
+13
+i
+500
+s
+Virindi Adjudicator
+i
+19
+i
+350
+s
+Virindi Executor
+i
+19
+i
+275
+s
+Virindi Desecrator
+i
+19
+i
+505
+s
+Chaos Wisp
+i
+20
+i
+400
+s
+Virindi Profatrix
+i
+19
+i
+500
+s
+Vapor Golem
+i
+13
+i
+590
+s
+Pandemonium Shadow
+i
+22
+i
+510
+s
+Virindi Puppet
+i
+19
+i
+115
+s
+Virindi Inquisitor
+i
+19
+i
+500
+s
+Virindi Artificer
+i
+19
+i
+7000
+s
+Mutated Mite
+i
+7
+i
+950
+s
+Infested Rat
+i
+10
+i
+800
+s
+Raven Augur
+i
+31
+i
+600
+s
+Glissnal Nefane
+i
+45
+i
+800
+s
+Mangy Carenzi
+i
+55
+i
+900
+s
+Helcan Margul
+i
+71
+i
+4000
+s
+Mottled Carenzi
+i
+55
+i
+1200
+s
+Desecrated Doll
+i
+53
+i
+1000
+s
+Stalking Margul
+i
+71
+i
+800
+s
+Listris Nefane
+i
+45
+i
+1000
+s
+Pestilence Rat
+i
+10
+i
+1000
+s
+Sephal Nefane
+i
+45
+i
+2000
+s
+Raven Conscript
+i
+31
+i
+680
+s
+Malignant Marionette
+i
+54
+i
+4000
+s
+Befouled Doll
+i
+53
+i
+1050
+s
+Hellion
+i
+71
+i
+6000
+s
+Damned Marionette
+i
+54
+i
+8000
+s
+Infernal Zefir
+i
+29
+i
+8000
+s
+Ravager
+i
+55
+i
+8000
+s
+Monstrous Mite
+i
+7
+i
+5000
+s
+Schism
+i
+19
+i
+1100
+s
+Biaka
+i
+71
+i
+7500
+s
+Wretched
+i
+22
+i
+5000
+s
+Hastar the Misbegotten
+i
+22
+i
+8000
+s
+Penumbral Horror
+i
+44
+i
+2000
+s
+Umbral Rift
+i
+19
+i
+1000
+s
+Cursed Marionette
+i
+54
+i
+6000
+s
+Malevolent Zefir
+i
+29
+i
+6000
+s
+Tenebrous Rift
+i
+19
+i
+900
+s
+Creeping Margul
+i
+71
+i
+1200
+s
+Graal Margul
+i
+71
+i
+5000
+s
+Raven Hunter
+i
+31
+i
+450
+s
+Void Lord
+i
+22
+i
+2000
+s
+Defiled Doll
+i
+53
+i
+1100
+s
+Tainted Carenzi
+i
+55
+i
+4000
+s
+Contagion Rat
+i
+10
+i
+6000
+s
+Parfal Nefane
+i
+45
+i
+5000
+s
+Dark Zefir
+i
+29
+i
+1200
+s
+Misshapen Mite
+i
+7
+i
+800
+s
+Cosseted Doll
+i
+53
+i
+950
+s
+Olthoi Servant
+i
+1
+i
+175
+s
+Olthoi Needler
+i
+1
+i
+200
+s
+Drudge Lurker
+i
+3
+i
+150
+s
+Mighty Oak Golem
+i
+13
+i
+425
+s
+Blighted Oak Golem
+i
+13
+i
+260
+s
+Sparkling Dual Fragment
+i
+47
+i
+380
+s
+Nalif Zefir
+i
+29
+i
+105
+s
+Ferocious Monouga
+i
+28
+i
+225
+s
+Drudge Ravener
+i
+3
+i
+160
+s
+Wily Monouga
+i
+28
+i
+190
+s
+Gold Golem
+i
+13
+i
+425
+s
+Unruly Monouga
+i
+28
+i
+355
+s
+Crystal Golem
+i
+13
+i
+1000
+s
+Terrible Monouga
+i
+28
+i
+355
+s
+Cruel Monouga
+i
+28
+i
+290
+s
+Azael Zefir
+i
+29
+i
+250
+s
+Cunning Monouga
+i
+28
+i
+290
+s
+Banderling Striker
+i
+2
+i
+220
+s
+Banderling Berserker
+i
+2
+i
+295
+s
+Umbris Shadow
+i
+22
+i
+420
+s
+Venomous Grievver
+i
+44
+i
+245
+s
+Obsidian Golem
+i
+13
+i
+200
+s
+Oak Golem
+i
+13
+i
+260
+s
+Revenant
+i
+14
+i
+200
+s
+Fire Shreth
+i
+32
+i
+550
+s
+Ashen Bones
+i
+30
+i
+340
+s
+Skeleton Bone Knight
+i
+30
+i
+223
+s
+Skeleton Bone Lord
+i
+30
+i
+230
+s
+Glacial Golem Margrave
+i
+13
+i
+5000
+s
+Frost
+i
+61
+i
+220
+s
+Tumerok Major
+i
+6
+i
+300
+s
+Panumbris Shadow
+i
+22
+i
+410
+s
+Dual Fragment
+i
+47
+i
+110
+s
+Scintilla
+i
+42
+i
+135
+s
+Static
+i
+42
+i
+20
+s
+Tumerok Taskmaster
+i
+6
+i
+330
+s
+Tumerok Gladiator
+i
+6
+i
+223
+s
+Auroch Fire Bull
+i
+11
+i
+100
+s
+Dark Revenant
+i
+14
+i
+285
+s
+Banished Grievver
+i
+44
+i
+1295
+s
+Mosswart Mire-Witch
+i
+4
+i
+190
+s
+Strife Wisp
+i
+20
+i
+225
+s
+Armored Skeleton
+i
+30
+i
+350
+s
+Acidic Coral Golem
+i
+13
+i
+600
+s
+Drudge Slave
+i
+3
+i
+60
+s
+Skeletal Hero
+i
+30
+i
+380
+s
+Phantasm
+i
+14
+i
+415
+s
+Ascendant Tumerok
+i
+6
+i
+365
+s
+Gotrok Extas
+i
+70
+i
+390
+s
+Stasis Wisp
+i
+20
+i
+225
+s
+Crystal Shard
+i
+47
+i
+215
+s
+Banderling Enforcer
+i
+2
+i
+400
+s
+Banderling Thrasher
+i
+2
+i
+600
+s
+Invading Silver Scope Phalanx
+i
+99
+i
+680
+s
+Invading Copper Cog Phalanx
+i
+99
+i
+680
+s
+Brumal
+i
+61
+i
+200
+s
+Horripal
+i
+61
+i
+125
+s
+Rufous Grievver
+i
+44
+i
+290
+s
+Extas Raider
+i
+70
+i
+390
+s
+Crystal Minion
+i
+13
+i
+350
+s
+Crystal Lord
+i
+13
+i
+15000
+s
+Plate Armoredillo
+i
+17
+i
+350
+s
+Gelid
+i
+61
+i
+400
+s
+Banderling Slayer
+i
+2
+i
+440
+s
+Reedshark Slasher
+i
+16
+i
+650
+s
+Acidic Diamond Golem
+i
+13
+i
+575
+s
+Olthoi Lancer
+i
+1
+i
+425
+s
+Corrosion Wisp
+i
+20
+i
+325
+s
+Caustic
+i
+60
+i
+250
+s
+Banderling Antagonist
+i
+2
+i
+438
+s
+Diamond Lord
+i
+13
+i
+645
+s
+Hyem
+i
+61
+i
+250
+s
+Great Revenant
+i
+14
+i
+350
+s
+Gauloth Shreth
+i
+32
+i
+550
+s
+Pyre Skeleton
+i
+30
+i
+6850
+s
+Pyre Minion
+i
+30
+i
+3000
+s
+Corrupted Dread
+i
+77
+i
+15210
+s
+Wight
+i
+14
+i
+6210
+s
+Wight Captain
+i
+14
+i
+18255
+s
+Exhumed Bones Piles
+i
+-1
+i
+-1
+s
+Shambling Archivist
+i
+14
+i
+8000
+s
+Pyre Champion
+i
+30
+i
+12250
+s
+Hatred Wisp
+i
+20
+i
+20250
+s
+Wight Blade Sorcerer
+i
+14
+i
+6175
+s
+Lady Tairla Mhoire
+i
+77
+i
+200250
+s
+Spectral Dread
+i
+77
+i
+20250
+s
+Sorrow Wisp
+i
+20
+i
+20125
+s
+Despair Wisp
+i
+20
+i
+20125
+s
+Insidious Monouga
+i
+28
+i
+475
+s
+Blight Rat
+i
+10
+i
+1000
+s
+Large Blight Rat
+i
+10
+i
+1000
+s
+Burun Ruuk Lout
+i
+75
+i
+325
+s
+Burun Ruuk Seer
+i
+75
+i
+340
+s
+Dread Mattekar
+i
+23
+i
+171
+s
+Olthoi Slayer
+i
+1
+i
+3690
+s
+Olthoi Ripper
+i
+1
+i
+3840
+s
+The Chicken
+i
+69
+i
+3
+s
+Gotrok Gigas
+i
+70
+i
+200
+s
+Gotrok Lithos
+i
+70
+i
+140
+s
+Olthoi Swarm Eviscerator
+i
+1
+i
+465
+s
+Olthoi Swarm Mutilator
+i
+1
+i
+500
+s
+Olthoi Brood Matron
+i
+1
+i
+1210
+s
+Drudge Robber
+i
+3
+i
+45
+s
+Drudge Robber Baron
+i
+3
+i
+60
+s
+Linvak Ursuin
+i
+46
+i
+190
+s
+Brown Rabbit
+i
+25
+i
+5
+s
+Olthoi Swarm Nymph
+i
+1
+i
+215
+s
+Olthoi Swarm Drone
+i
+1
+i
+300
+s
+Ruschk Laktar
+i
+81
+i
+2703
+s
+Ancient Coral Golem
+i
+13
+i
+650
+s
+Frenzied Fiun
+i
+78
+i
+400
+s
+Insatiable Eater
+i
+79
+i
+770
+s
+Abhorrent Eater
+i
+79
+i
+693
+s
+Ruschk Draktehn
+i
+81
+i
+3225
+s
+Ruschk Kartak
+i
+81
+i
+1483
+s
+Ruschk Sadist
+i
+81
+i
+485
+s
+Skeletal Mate
+i
+30
+i
+425
+s
+Repugnant Eater
+i
+79
+i
+630
+s
+Maniacal Fiun
+i
+78
+i
+595
+s
+Rendeath Shreth
+i
+32
+i
+608
+s
+Spectral Wisp
+i
+20
+i
+390
+s
+Floeshark
+i
+16
+i
+760
+s
+Shallows Devourer
+i
+27
+i
+95
+s
+Dark Sorcerer
+i
+14
+i
+395
+s
+Foul Moarsman
+i
+34
+i
+160
+s
+Slithis Tendril
+i
+36
+i
+100
+s
+Slithis Eye Stalk
+i
+36
+i
+150
+s
+Slithis Tentacle
+i
+36
+i
+100
+s
+Island Armoredillo
+i
+17
+i
+135
+s
+Rank Moarsman
+i
+34
+i
+125
+s
+Mosswart Soul Trapper
+i
+4
+i
+160
+s
+Dread Idol
+i
+50
+i
+500
+s
+Mosswart Zealot
+i
+4
+i
+160
+s
+Mosswart Idolator
+i
+4
+i
+120
+s
+Shallows Destroyer
+i
+27
+i
+135
+s
+Mire Phyntos Wasp
+i
+9
+i
+30
+s
+Mosswart Townsfolk
+i
+4
+i
+180
+s
+Idol
+i
+50
+i
+200
+s
+Ghost Wisp
+i
+20
+i
+50
+s
+Swamp Rat
+i
+10
+i
+80
+s
+Water Wisp
+i
+20
+i
+30
+s
+Mosswart Shaman
+i
+4
+i
+80
+s
+Kilif Zefir
+i
+29
+i
+50
+s
+Shallows Slayer
+i
+27
+i
+70
+s
+Shallows Lurker
+i
+27
+i
+68
+s
+Sparring Golem
+i
+13
+i
+35
+s
+Carenzi Sentry
+i
+55
+i
+55
+s
+Carenzi Pouchling
+i
+55
+i
+30
+s
+Hea Warrior
+i
+58
+i
+123
+s
+Cutthroat
+i
+31
+i
+150
+s
+Olthoi Harvester
+i
+1
+i
+100
+s
+Strand Siraluun
+i
+56
+i
+300
+s
+Olthoi Gardener
+i
+1
+i
+110
+s
+Harrower Grievver
+i
+44
+i
+410
+s
+Fragment
+i
+47
+i
+65
+s
+Hea Itealuan
+i
+58
+i
+190
+s
+Kithless Siraluun
+i
+56
+i
+400
+s
+Rabid Carenzi
+i
+55
+i
+300
+s
+Olthoi Piercer
+i
+1
+i
+350
+s
+Mercenary
+i
+31
+i
+180
+s
+Eater
+i
+79
+i
+400
+s
+Olthoi Soldier
+i
+1
+i
+200
+s
+Feral Carenzi
+i
+55
+i
+375
+s
+Hea Elder Shaman
+i
+58
+i
+440
+s
+Olthoi Eviscerator
+i
+1
+i
+350
+s
+Copper Gromnie
+i
+15
+i
+410
+s
+Virindi Observer
+i
+19
+i
+300
+s
+Badlands Siraluun
+i
+56
+i
+500
+s
+Carnivorous Carenzi
+i
+55
+i
+440
+s
+Great Elariwood Golem
+i
+13
+i
+700
+s
+Zharalim
+i
+31
+i
+220
+s
+Savage Carenzi
+i
+55
+i
+500
+s
+Brass Gromnie
+i
+15
+i
+390
+s
+Viamontian Mage
+i
+83
+i
+430
+s
+Hea Shaman
+i
+58
+i
+325
+s
+Viamontian Man-at-Arms
+i
+83
+i
+460
+s
+Hea Nualuan
+i
+58
+i
+210
+s
+Ebon Gromnie
+i
+15
+i
+300
+s
+Voltarc
+i
+42
+i
+200
+s
+Woodland Ursuin
+i
+46
+i
+360
+s
+Timber Siraluun
+i
+56
+i
+345
+s
+Assassin
+i
+31
+i
+180
+s
+Sable Gromnie
+i
+15
+i
+250
+s
+Highwayman
+i
+31
+i
+130
+s
+Marae Ursuin
+i
+46
+i
+300
+s
+Hea Windreave
+i
+58
+i
+163
+s
+Carenzi Burrower
+i
+55
+i
+100
+s
+Carenzi Stalker
+i
+55
+i
+200
+s
+Littoral Siraluun
+i
+56
+i
+190
+s
+Ursuin Slicer
+i
+46
+i
+410
+s
+Viamontian Knight
+i
+83
+i
+468
+s
+Enku Zefir
+i
+29
+i
+350
+s
+Hea Champion
+i
+58
+i
+365
+s
+Rabid Eater
+i
+79
+i
+470
+s
+Viamontian Warcaster
+i
+83
+i
+473
+s
+Manuaka
+i
+16
+i
+360
+s
+Sahkurea
+i
+16
+i
+360
+s
+Hea Tuperea
+i
+58
+i
+330
+s
+Utelari
+i
+16
+i
+360
+s
+Reshalra
+i
+16
+i
+360
+s
+Poacher
+i
+31
+i
+190
+s
+Hea Drumspeaker
+i
+58
+i
+85
+s
+Mud Golem
+i
+13
+i
+40
+s
+Canescent Mattekar
+i
+23
+i
+400
+s
+Shadow Nightmare
+i
+22
+i
+525
+s
+Nightmarish Doll
+i
+53
+i
+1100
+s
+Nightmarish Marionette
+i
+54
+i
+8000
+s
+Ebon Rift
+i
+19
+i
+800
+s
+Soiled Doll
+i
+53
+i
+900
+s
+Dusk Zefir
+i
+29
+i
+1000
+s
+Giant Mite
+i
+7
+i
+3000
+s
+Shadow Proctor
+i
+22
+i
+1800
+s
+Artifex of the Living Darkness
+i
+19
+i
+5000
+s
+Virindi Quidiox
+i
+19
+i
+5000
+s
+Artifex of the Singularity
+i
+19
+i
+5000
+s
+Avarice
+i
+19
+i
+500
+s
+Disobedience
+i
+19
+i
+500
+s
+Change
+i
+19
+i
+500
+s
+Chaos
+i
+19
+i
+500
+s
+Individuality
+i
+19
+i
+500
+s
+Ulgrim
+i
+19
+i
+500
+s
+Bandit
+i
+31
+i
+35
+s
+Brigand
+i
+31
+i
+70
+s
+Hea Runner
+i
+58
+i
+70
+s
+Water Golem
+i
+13
+i
+70
+s
+Sand Golem
+i
+13
+i
+110
+s
+Aun Elder Shaman
+i
+57
+i
+425
+s
+Aun Nualuan
+i
+57
+i
+160
+s
+Aun Itealuan
+i
+57
+i
+160
+s
+Scathisa
+i
+42
+i
+450
+s
+Hea Kanokeh
+i
+58
+i
+330
+s
+Hea Karenua
+i
+58
+i
+330
+s
+Hea Temenua
+i
+58
+i
+330
+s
+Cultist
+i
+31
+i
+154
+s
+Olthoi Legionary
+i
+1
+i
+300
+s
+Synnast
+i
+42
+i
+450
+s
+Virindi Collector
+i
+19
+i
+275
+s
+Aun Hunter
+i
+57
+i
+80
+s
+Aun Ralirea
+i
+57
+i
+330
+s
+Engorged Eater
+i
+79
+i
+400
+s
+Sapphire Golem
+i
+13
+i
+1000
+s
+Voracious Eater
+i
+79
+i
+495
+s
+Royal Thaumaturge
+i
+83
+i
+510
+s
+Primeval Skeleton
+i
+30
+i
+385
+s
+Fractured Glacial Golem
+i
+13
+i
+1000
+s
+Viamontian Lord
+i
+83
+i
+720
+s
+Bokrok Lugian
+i
+5
+i
+450
+s
+Kroktok Lugian
+i
+5
+i
+450
+s
+Viamontian Hand
+i
+83
+i
+808
+s
+Undead Captain
+i
+14
+i
+443
+s
+Viamontian Commander
+i
+83
+i
+495
+s
+Viamontian Counselor
+i
+83
+i
+490
+s
+Viamontian War Wizard
+i
+83
+i
+480
+s
+Viamontian Tribune
+i
+83
+i
+680
+s
+Royal Prison Warden
+i
+83
+i
+495
+s
+Merciless Monouga
+i
+28
+i
+475
+s
+Desert Rabbit
+i
+25
+i
+5
+s
+Opor Niffis
+i
+45
+i
+160
+s
+Jade Gromnie
+i
+15
+i
+68
+s
+Abominable Snowman
+i
+39
+i
+5180
+s
+Snow Tusker Warrior
+i
+8
+i
+5250
+s
+Snow Tusker Leader
+i
+8
+i
+5500
+s
+Gurog Henchman
+i
+100
+i
+2000
+s
+Gurog Soldier
+i
+100
+i
+2000
+s
+Frozen Wight Sorcerer
+i
+14
+i
+6175
+s
+Frozen Wight
+i
+14
+i
+6210
+s
+Gurog Minion
+i
+100
+i
+2000
+s
+Snow Tusker
+i
+8
+i
+5000
+s
+Hoary Mattekar
+i
+23
+i
+475
+s
+Pugnacious Monouga
+i
+28
+i
+400
+s
+Dire Ursuin
+i
+46
+i
+215
+s
+Frozen Wight Captain
+i
+14
+i
+18255
+s
+Twisted Shadow
+i
+22
+i
+500
+s
+Black Rat
+i
+10
+i
+20
+s
+Mountain Rat
+i
+10
+i
+80
+s
+Shivver
+i
+61
+i
+200
+s
+Bound Crystal Golem
+i
+13
+i
+1000
+s
+Bound Coral Golem
+i
+13
+i
+600
+s
+Invading Bronze Gauntlet Phalanx
+i
+99
+i
+680
+s
+Invading Iron Blade Phalanx
+i
+99
+i
+680
+s
+Enoki Thrungus
+i
+82
+i
+355
+s
+Tidal Siraluun
+i
+56
+i
+65
+s
+Hea Hunter
+i
+58
+i
+120
+s
+Marsh Siraluun
+i
+56
+i
+45
+s
+Ferocious Ursuin
+i
+46
+i
+320
+s
+Skeletal Champion
+i
+30
+i
+350
+s
+Shroud Cabal Raider
+i
+31
+i
+230
+s
+Shroud Cabal Raider Captain
+i
+31
+i
+400
+s
+Banderling Bandit
+i
+2
+i
+160
+s
+Unstable Magma Golem
+i
+13
+i
+150
+s
+Imperial Mu-miyah
+i
+14
+i
+355
+s
+Inferno
+i
+38
+i
+330
+s
+Tumerok Champion
+i
+6
+i
+365
+s
+Unstable Rift
+i
+19
+i
+320
+s
+Guardian Mu-miyah
+i
+14
+i
+165
+s
+Shivering Pillar
+i
+47
+i
+445
+s
+Incalescent Pillar
+i
+47
+i
+445
+s
+Corroding Pillar
+i
+47
+i
+445
+s
+Voltaic Pillar
+i
+47
+i
+445
+s
+Dire Mattekar
+i
+23
+i
+171
+s
+Lesser Void Knight
+i
+22
+i
+625
+s
+Bloodthirsty Monouga
+i
+28
+i
+420
+s
+Blighted Dire Ursuin
+i
+46
+i
+215
+s
+Untamed Siraluun
+i
+56
+i
+450
+s
+Aun Herbalist
+i
+57
+i
+425
+s
+Hea Tnakarea
+i
+58
+i
+3225
+s
+Chief Grogbash
+i
+2
+i
+3225
+s
+Korgluuk of Bur
+i
+75
+i
+3225
+s
+Champion Bullgara
+i
+4
+i
+3225
+s
+Warrior Corthos
+i
+5
+i
+3225
+s
+Glormigoth
+i
+98
+i
+3225
+s
+Darcusch the Barbarian
+i
+81
+i
+3225
+s
+Kerthump the Ear Taker
+i
+3
+i
+3225
+s
+Grave Rat
+i
+10
+i
+1350
+s
+DeathTail
+i
+10
+i
+200250
+s
+Blood Curse Rat
+i
+10
+i
+1350
+s
+Lord Cynreft Mhoire
+i
+30
+i
+200250
+s
+Pillar of Fire
+i
+62
+i
+2000
+s
+Glacial Golem
+i
+13
+i
+150
+s
+Obeloth Lugian
+i
+5
+i
+150
+s
+Southern Black Claw Raider
+i
+3
+i
+160
+s
+Crystal Spur
+i
+47
+i
+120
+s
+Blight Spirit
+i
+77
+i
+475
+s
+Burun Ruuk Adept
+i
+75
+i
+250
+s
+Aste Sclavus
+i
+26
+i
+88
+s
+Essa Sclavus
+i
+26
+i
+100
+s
+Burun Ruuk Scamp
+i
+75
+i
+200
+s
+Ashen Moarsman
+i
+34
+i
+100
+s
+Esper Ursuin
+i
+46
+i
+190
+s
+Chomu Sclavus Lord
+i
+26
+i
+255
+s
+Storage Crate
+i
+-1
+i
+-1
+s
+Siessa Sclavus
+i
+26
+i
+360
+s
+Afesse Sclavus
+i
+26
+i
+420
+s
+Patrician Phaerix
+i
+14
+i
+50000
+s
+Patrician Kilkitris
+i
+14
+i
+50000
+s
+Illu Sclavus
+i
+26
+i
+480
+s
+Lunnum
+i
+78
+i
+200000
+s
+Mosswart Swamp Lord
+i
+4
+i
+195
+s
+Mosswart Scavenger
+i
+4
+i
+300
+s
+Mosswart Scrounger
+i
+4
+i
+245
+s
+War Mattekar
+i
+23
+i
+700
+s
+Adept of Lightning
+i
+83
+i
+513
+s
+Adept of Frost
+i
+83
+i
+513
+s
+Adept of Fire
+i
+83
+i
+513
+s
+Adept of Acid
+i
+83
+i
+513
+s
+Titanium Armoredillo
+i
+17
+i
+5000
+s
+Kirit Zefir
+i
+29
+i
+2000
+s
+Crystal Shard Sentinel
+i
+47
+i
+200
+s
+Sentient Crystal Shard
+i
+47
+i
+15000
+s
+Olthoi Larvae
+i
+35
+i
+1690
+s
+Degenerate Shadow
+i
+22
+i
+600
+s
+Depraved Shadow
+i
+22
+i
+605
+s
+Parfal Sleech
+i
+45
+i
+615
+s
+Listris Sleech
+i
+45
+i
+620
+s
+Disgraced Nanjou Shou-jen
+i
+31
+i
+1400
+s
+Virindi Paradox
+i
+19
+i
+5000
+s
+Stomper
+i
+8
+i
+500
+s
+Tortured Spirit
+i
+77
+i
+645
+s
+Mukkir Draktehn
+i
+89
+i
+3725
+s
+Mukkir Kartak
+i
+89
+i
+3725
+s
+Mukkir Laktar
+i
+89
+i
+3725
+s
+Umbral Mukkir
+i
+89
+i
+3725
+s
+Tukora Lieutenant
+i
+5
+i
+4670
+s
+Tukora Commander
+i
+5
+i
+4670
+s
+Inflamed Ursuin
+i
+46
+i
+5000
+s
+Olthoi Progenitor
+i
+1
+i
+2030
+s
+Mosswart Agitator
+i
+4
+i
+4190
+s
+Mosswart Elder
+i
+4
+i
+4110
+s
+Mosswart Gladiator
+i
+4
+i
+5000
+s
+Enraged Ancient Soul
+i
+14
+i
+3000
+s
+Swarm Demon
+i
+1
+i
+5000
+s
+Demon Swarm Matron
+i
+1
+i
+300000
+s
+Demon Swarm Clawbearer
+i
+1
+i
+700
+s
+Banished Tumerok
+i
+6
+i
+530
+s
+Young Mosswart
+i
+4
+i
+25
+s
+Sir Bellas
+i
+83
+i
+12000
+s
+Wood Target Drudge
+i
+76
+i
+10000
+s
+Townsperson
+i
+31
+i
+1500
+s
+Tan Rat
+i
+10
+i
+15
+s
+Sandy Armoredillo
+i
+17
+i
+115
+s
+Stringent
+i
+60
+i
+25
+s
+Guruk Basher
+i
+75
+i
+400
+s
+Guruk Boor
+i
+75
+i
+425
+s
+Fortress Barrier
+i
+-1
+i
+-1
+s
+Shadow Sprite
+i
+22
+i
+15
+s
+Sewer Rat
+i
+10
+i
+150
+s
+Se Sclavus
+i
+26
+i
+85
+s
+Swamp Gromnie
+i
+15
+i
+80
+s
+Umbris Elite
+i
+22
+i
+605
+s
+Umbris Elite Commander
+i
+22
+i
+12205
+s
+Aerbax
+i
+19
+i
+100200
+s
+Claude the Dark Archmage
+i
+19
+i
+70000
+s
+Burun Ruuk Adherent
+i
+75
+i
+315
+s
+Green Phyntos Wasp
+i
+9
+i
+25
+s
+Zombie
+i
+14
+i
+75
+s
+Mosswart Feeder
+i
+4
+i
+55
+s
+Lich
+i
+14
+i
+113
+s
+Hoary Armoredillo
+i
+17
+i
+200
+s
+Olthoi Noble
+i
+1
+i
+300
+s
+Acolyte of Storms
+i
+31
+i
+230
+s
+Acolyte of Wind
+i
+31
+i
+230
+s
+Acolyte of Breath
+i
+31
+i
+230
+s
+Banderling Rogue
+i
+2
+i
+225
+s
+Fleshless Warrior
+i
+30
+i
+230
+s
+Basalt Golem
+i
+13
+i
+260
+s
+Banished Tusker
+i
+8
+i
+575
+s
+Sentient Fragment
+i
+47
+i
+180
+s
+Dread Ursuin
+i
+46
+i
+275
+s
+Banished Olthoi
+i
+1
+i
+550
+s
+Banished Mu-miyah
+i
+14
+i
+365
+s
+Banished Phyntos Wasp
+i
+9
+i
+425
+s
+Banished Drudge
+i
+3
+i
+425
+s
+Banished Banderling
+i
+2
+i
+760
+s
+Banished Shadow
+i
+22
+i
+620
+s
+Banished Monouga
+i
+28
+i
+555
+s
+Dire Champion Golem
+i
+13
+i
+1800
+s
+Tanada Nanjou Shou-jen
+i
+31
+i
+1400
+s
+Virindi Director
+i
+19
+i
+145
+s
+Terebrous Hollow Minion
+i
+48
+i
+300
+s
+Tempest Wisp
+i
+20
+i
+375
+s
+Guardian of the Singularity
+i
+19
+i
+1500
+s
+Listris Niffling
+i
+45
+i
+48
+s
+Glissnal Niffling
+i
+45
+i
+60
+s
+The Gatekeeper
+i
+48
+i
+600
+s
+The Sage
+i
+19
+i
+700
+s
+The Auditor
+i
+19
+i
+700
+s
+Withered Raider Justicar
+i
+70
+i
+10000
+s
+Withered Raider Prefect
+i
+70
+i
+10000
+s
+Withered Revered Tumerok Shaman
+i
+6
+i
+5000
+s
+Withered Transcendent Tumerok
+i
+6
+i
+5000
+s
+Withered Banderling Paragon
+i
+2
+i
+10000
+s
+Withered Banderling Hierophant
+i
+2
+i
+6000
+s
+Withered Drudge Seraph
+i
+3
+i
+5860
+s
+Withered Drudge Seraph Mystic
+i
+3
+i
+6000
+s
+Fallen Shadow
+i
+22
+i
+5500
+s
+Fallen Marionette
+i
+54
+i
+8500
+s
+Fallen Margul
+i
+71
+i
+8000
+s
+Doomshark
+i
+16
+i
+6000
+s
+Fallen Mite
+i
+7
+i
+5500
+s
+Brown Bunny
+i
+41
+i
+3
+s
+Gotrok Obeloth
+i
+70
+i
+150
+s
+Wasteland Rat
+i
+10
+i
+180
+s
+Spirit
+i
+77
+i
+220
+s
+Doomed Spirit
+i
+77
+i
+635
+s
+Entropy Wisp
+i
+20
+i
+500
+s
+Bone Scourge
+i
+30
+i
+500
+s
+Mu-miyah Sentinel
+i
+14
+i
+6130
+s
+Radiant Crystal
+i
+47
+i
+5001
+s
+Diseased Phyntos Wasp
+i
+9
+i
+635
+s
+Virulence
+i
+60
+i
+565
+s
+Dazzling Crystal
+i
+47
+i
+5001
+s
+Brilliant Crystal
+i
+47
+i
+5001
+s
+Undead Miner
+i
+14
+i
+63
+s
+Undead Minion
+i
+14
+i
+450
+s
+Fire Golem
+i
+13
+i
+600
+s
+Remoran Sand Stalker
+i
+84
+i
+2500
+s
+Shallows Shredder
+i
+27
+i
+2670
+s
+Black Bunny
+i
+41
+i
+3
+s
+Great Mattekar
+i
+23
+i
+73
+s
+Wave Golem
+i
+13
+i
+2350
+s
+Shallows Gorger
+i
+27
+i
+2670
+s
+Scummy Moarsman
+i
+34
+i
+1900
+s
+Barbaric Mukkir
+i
+89
+i
+2703
+s
+Coruscating Mukkir
+i
+89
+i
+2703
+s
+Decaying Ruschk Laktar
+i
+14
+i
+2703
+s
+Mukkir
+i
+89
+i
+1683
+s
+Fanatical Mukkir
+i
+89
+i
+2703
+s
+Vile Mukkir
+i
+89
+i
+2703
+s
+Fanatical Mukkir Ward Guardian
+i
+89
+i
+5406
+s
+Dark Crystal Spire
+i
+-1
+i
+-1
+s
+Black Coral Golem Viceroy
+i
+13
+i
+3250
+s
+Shambling Undead Ruschk
+i
+14
+i
+625
+s
+Degenerate Shadow Commander
+i
+22
+i
+9200
+s
+Remoran Corsair
+i
+84
+i
+610
+s
+Fouled Remoran
+i
+84
+i
+9160
+s
+Degenerate Mukkir
+i
+89
+i
+618
+s
+Depraved Mukkir
+i
+89
+i
+620
+s
+Horrid Remoran
+i
+84
+i
+615
+s
+Dark Remoran
+i
+84
+i
+12165
+s
+Sodden Undead Ruschk
+i
+14
+i
+630
+s
+Blighted Coral Golem
+i
+13
+i
+550
+s
+Blighted Coral Golem Viceroy
+i
+13
+i
+3350
+s
+Depraved Shadow Commander
+i
+22
+i
+12205
+s
+Lithos Lugian
+i
+5
+i
+140
+s
+Amploth Raider
+i
+70
+i
+125
+s
+Dark Myrmidon
+i
+30
+i
+450
+s
+Desert Bunny
+i
+41
+i
+3
+s
+Olthoi Nettler
+i
+1
+i
+100
+s
+Grey Rat
+i
+10
+i
+15
+s
+Minion Leader
+i
+48
+i
+205
+s
+Gigas Raider
+i
+70
+i
+200
+s
+Banderling Chief
+i
+2
+i
+130
+s
+Desert Rat
+i
+10
+i
+80
+s
+Banderling Captain
+i
+2
+i
+90
+s
+Banderling Breeder
+i
+2
+i
+105
+s
+Ice Golem
+i
+13
+i
+90
+s
+Revenant Antiquary
+i
+14
+i
+200
+s
+Trusted Tusker
+i
+8
+i
+100
+s
+Relic Watchman
+i
+30
+i
+550
+s
+Hellfire
+i
+38
+i
+540
+s
+Aerfalle's Weakened Apprentice
+i
+14
+i
+500
+s
+Old Bones
+i
+30
+i
+25
+s
+Olthoi Swarm Guardian
+i
+1
+i
+510
+s
+Olthoi Egg
+i
+-1
+i
+-1
+s
+Olthoi Brood Queen Elder
+i
+1
+i
+6000
+s
+Olthoi Elder Brood Matron
+i
+1
+i
+1710
+s
+Ash Gromnie
+i
+15
+i
+90
+s
+Magma Golem Exarch
+i
+13
+i
+5000
+s
+Guardian of the Lost Light
+i
+14
+i
+200
+s
+Falatacot Consort
+i
+14
+i
+3005
+s
+Ancient Magma Golem
+i
+13
+i
+2350
+s
+Altered Olthoi
+i
+1
+i
+280
+s
+Augmented Olthoi
+i
+1
+i
+380
+s
+Masonry Golem
+i
+13
+i
+2350
+s
+Intense Corroding Crystalline Wisp
+i
+20
+i
+1020
+s
+Shroud Cabal Forager
+i
+31
+i
+175
+s
+Shroud Cabal Forager Captain
+i
+31
+i
+200
+s
+Tower Guardian
+i
+13
+i
+900000
+s
+Filthy Mattekar
+i
+23
+i
+700
+s
+Swarthy Mattekar
+i
+23
+i
+8000
+s
+Battle Lord Gregor
+i
+14
+i
+20000
+s
+Beaten Doll
+i
+53
+i
+110
+s
+Battered Doll
+i
+53
+i
+115
+s
+Gotrok Montok
+i
+70
+i
+300
+s
+Northern Black Claw Raider
+i
+3
+i
+160
+s
+Reinforced Door
+i
+-1
+i
+-1
+s
+Olthoi Swarm Worker
+i
+1
+i
+400
+s
+Royal Olthoi Guardian
+i
+1
+i
+510
+s
+Olthoi Swarm Legionary
+i
+1
+i
+400
+s
+Olthoi Swarm Soldier
+i
+1
+i
+380
+s
+Olthoi Swarm Noble
+i
+1
+i
+400
+s
+Olthoi Keeper
+i
+1
+i
+350
+s
+Young Olthoi Queen
+i
+1
+i
+5000
+s
+Olthoi Noble Grub
+i
+35
+i
+200
+s
+K'nath S'tath
+i
+21
+i
+60
+s
+K'nath N'gell
+i
+21
+i
+55
+s
+Mox
+i
+60
+i
+175
+s
+Faisi Disciple
+i
+26
+i
+205
+s
+Chomu Disciple
+i
+26
+i
+265
+s
+Aste Soul Harrier
+i
+26
+i
+238
+s
+Essa Soul Harrier
+i
+26
+i
+200
+s
+Soul Hunter
+i
+14
+i
+450
+s
+Carrion Shreth
+i
+32
+i
+25
+s
+White Mattekar
+i
+23
+i
+65
+s
+Extas Lugian
+i
+5
+i
+390
+s
+Essa Sclavus Lord
+i
+26
+i
+200
+s
+Ulu Sclavus Lord
+i
+26
+i
+228
+s
+Faisi Sclavus Lord
+i
+26
+i
+255
+s
+Sata Sclavus Lord
+i
+26
+i
+215
+s
+Red Rat
+i
+10
+i
+55
+s
+Broken Doll
+i
+53
+i
+100
+s
+Bronze Armoredillo
+i
+17
+i
+100
+s
+Skeleton Warrior
+i
+30
+i
+73
+s
+Skeleton
+i
+30
+i
+45
+s
+Bak'tshay Guard
+i
+101
+i
+3500
+s
+Mu-miyah Guardian
+i
+14
+i
+8000
+s
+Bak'tshay Slave
+i
+101
+i
+5850
+s
+Bak'tshay
+i
+101
+i
+3000
+s
+Reedshark Hunter
+i
+16
+i
+4500
+s
+Mu-miyah Lord
+i
+14
+i
+10000
+s
+Mu-miyah Vizier
+i
+14
+i
+7000
+s
+Guardian Armoredillo
+i
+17
+i
+6000
+s
+Mu-miyah Soldier
+i
+14
+i
+9000
+s
+Lesser Mu-miyah
+i
+14
+i
+65
+s
+Rust Gromnie
+i
+15
+i
+45
+s
+Stony Armoredillo
+i
+17
+i
+100
+s
+Reedshark Seeker
+i
+16
+i
+4500
+s
+Tamed Reaper
+i
+16
+i
+4500
+s
+Mu-miyah Champion
+i
+14
+i
+7000
+s
+War Reaper
+i
+16
+i
+4500
+s
+Suspicious Scarecrow
+i
+49
+i
+68
+s
+Small Shadow Child
+i
+22
+i
+30
+s
+Bak'tshay Soldier
+i
+101
+i
+6850
+s
+Virtuous Doll
+i
+53
+i
+50
+s
+Silt Lurker
+i
+16
+i
+90
+s
+Dust Golem
+i
+13
+i
+15000
+s
+Cracked Stone Tablet
+i
+-1
+i
+-1
+s
+Shallow Rift
+i
+19
+i
+100
+s
+Bak'tshay Servant
+i
+101
+i
+4850
+s
+Brown Armoredillo
+i
+17
+i
+60
+s
+Charred Skeleton
+i
+30
+i
+73
+s
+Red Phyntos Drone
+i
+9
+i
+50
+s
+Tumerok Worker
+i
+6
+i
+48
+s
+Shady Scarecrow
+i
+49
+i
+108
+s
+Flicker
+i
+38
+i
+20
+s
+Tamed Armoredillo
+i
+17
+i
+7000
+s
+Seared Skeleton
+i
+30
+i
+100
+s
+Undead
+i
+14
+i
+43
+s
+Gigas Lugian
+i
+5
+i
+200
+s
+War Armoredillo
+i
+17
+i
+7000
+s
+Rickety Scarecrow
+i
+49
+i
+33
+s
+Burning Sands Golem
+i
+13
+i
+15000
+s
+Mad Cow
+i
+12
+i
+120
+s
+Minik Ra T'thuunixis
+i
+14
+i
+150000
+s
+Nivinizk T'thuunixis
+i
+14
+i
+150000
+s
+Kazyk Ri T'thuunixis
+i
+14
+i
+150000
+s
+Tthuun Pillar
+i
+-1
+i
+-1
+s
+Shifty Scarecrow
+i
+49
+i
+93
+s
+Drudge Vagabond
+i
+3
+i
+58
+s
+Small Sand Golem
+i
+13
+i
+600
+s
+Small Sandstone Golem
+i
+13
+i
+575
+s
+Mosswart Chief
+i
+4
+i
+110
+s
+Mud Golem Sludge Lord
+i
+13
+i
+400
+s
+Three Eyed Snowman
+i
+39
+i
+20000
+s
+Rock
+i
+13
+i
+2175
+s
+Follower of Deewain
+i
+13
+i
+3525
+s
+Chilled Defender
+i
+13
+i
+25325
+s
+Fiery Defender
+i
+13
+i
+25325
+s
+Charged Defender
+i
+13
+i
+25325
+s
+Fallen Rock
+i
+-1
+i
+-1
+s
+Missile Defender
+i
+13
+i
+615
+s
+Iron Golem
+i
+13
+i
+200250
+s
+Aste Sclavus Lord
+i
+26
+i
+238
+s
+Guruk Miscreant
+i
+75
+i
+450
+s
+Void Knight
+i
+22
+i
+5000
+s
+Commander Jared Kurth
+i
+83
+i
+15000
+s
+Guruk Crusher
+i
+75
+i
+500
+s
+Guruk Heavy
+i
+75
+i
+475
+s
+Shadow-touched Virindi Paradox
+i
+19
+i
+5000
+s
+Olthoi Sentinel
+i
+1
+i
+3000
+s
+Olthoi Primordial
+i
+1
+i
+3000
+s
+Banderling Hierophant
+i
+2
+i
+6000
+s
+Banderling Paragon
+i
+2
+i
+10000
+s
+Drudge Seraph
+i
+3
+i
+5000
+s
+Bile Grievver
+i
+44
+i
+5000
+s
+Dark Guardian
+i
+14
+i
+4500
+s
+Revered Tumerok Shaman
+i
+6
+i
+5000
+s
+K'nath I'km
+i
+21
+i
+3000
+s
+K'nath X'ela
+i
+21
+i
+3000
+s
+K'nath S'hirc
+i
+21
+i
+3000
+s
+K'nath An'dras
+i
+21
+i
+3000
+s
+K'nath N'aes
+i
+21
+i
+3000
+s
+K'nath T'amt
+i
+21
+i
+3000
+s
+K'nath Thea'reh
+i
+21
+i
+3000
+s
+K'nath La'nal
+i
+21
+i
+3000
+s
+Drudge Seraph Mystic
+i
+3
+i
+6000
+s
+Tremendous Monouga
+i
+28
+i
+100000
+s
+Adolescent Ivory Gromnie
+i
+15
+i
+5000
+s
+Adolescent Azure Gromnie
+i
+15
+i
+5000
+s
+Adolescent Ash Gromnie
+i
+15
+i
+5000
+s
+Adolescent Rust Gromnie
+i
+15
+i
+5000
+s
+Raider Prefect
+i
+70
+i
+10000
+s
+Raider Justicar
+i
+70
+i
+10000
+s
+Lich Oppressor
+i
+14
+i
+3700
+s
+Chimera
+i
+14
+i
+4000
+s
+Tormenter
+i
+30
+i
+5000
+s
+Archfiend
+i
+30
+i
+5000
+s
+Transcendent Tumerok
+i
+6
+i
+5000
+s
+Ruschk Haktar
+i
+81
+i
+1100
+s
+Mukkir Aspect of Grael
+i
+89
+i
+30000
+s
+Banderling Champion
+i
+2
+i
+12000
+s
+Iron Blade Heavy Scout
+i
+99
+i
+9975
+s
+Silver Scope Heavy Scout
+i
+99
+i
+9975
+s
+Copper Cog Heavy Scout
+i
+99
+i
+9975
+s
+Shadow-touched Virindi Quidiox
+i
+19
+i
+5000
+s
+Spiny Chittick
+i
+33
+i
+45
+s
+Reedshark Stripling
+i
+16
+i
+40
+s
+Tusker Kin
+i
+31
+i
+50
+s
+Incendiary Knight
+i
+62
+i
+6130
+s
+Bound Light Falatacot
+i
+77
+i
+15210
+s
+Bound Pyre Champion
+i
+30
+i
+12250
+s
+Corrupted Maiden
+i
+77
+i
+500
+s
+Revenant Lord
+i
+14
+i
+6210
+s
+Lady Aerfalle
+i
+14
+i
+200250
+s
+Bound Spectral Handmaiden
+i
+77
+i
+490
+s
+Injured Olthoi
+i
+1
+i
+60
+s
+Gold Shallows Shredder
+i
+27
+i
+5340
+s
+Aqueous Golem
+i
+13
+i
+2350
+s
+Glissnal Sleech
+i
+45
+i
+9180
+s
+Bloodstone
+i
+47
+i
+20125
+s
+Agitated Desert Phyntos Swarm
+i
+9
+i
+850
+s
+Remoran Raker
+i
+84
+i
+4505
+s
+Grimy Moarsman
+i
+34
+i
+1900
+s
+Mucky Moarsman
+i
+34
+i
+1900
+s
+Astis Niffis
+i
+45
+i
+3180
+s
+Remoran Sea Raptor
+i
+84
+i
+5510
+s
+Benek Niffis
+i
+45
+i
+3180
+s
+Gold Moarsman
+i
+34
+i
+3800
+s
+Gold Niffis
+i
+45
+i
+6360
+s
+Gold Remoran
+i
+84
+i
+11020
+s
+Outcast Lord
+i
+28
+i
+85
+s
+Paradox-touched Olthoi Swarm Eviscerator
+i
+92
+i
+3090
+s
+Paradox-touched Olthoi Ripper
+i
+92
+i
+3090
+s
+Paradox-touched Olthoi Slasher
+i
+92
+i
+2690
+s
+Paradox-touched Olthoi Flyer Nymph
+i
+92
+i
+638
+s
+Paradox-touched Olthoi Lacerator
+i
+92
+i
+2190
+s
+Paradox-touched Olthoi Queen
+i
+92
+i
+200000
+s
+Shambling Ruschk Chieftain
+i
+14
+i
+9195
+s
+Mukkir Progenitor
+i
+89
+i
+12000
+s
+Hellion Mukkir
+i
+89
+i
+9203
+s
+Abyssal Totem
+i
+-1
+i
+-1
+s
+Tuskie Tosser
+i
+8
+i
+40
+s
+Devastator
+i
+8
+i
+1000
+s
+Annihilator
+i
+8
+i
+5000
+s
+Obsidian Chittick
+i
+33
+i
+400
+s
+Horned Chittick
+i
+33
+i
+120
+s
+Mowen Udaun
+i
+8
+i
+8000
+s
+Gotrok Fortress Guard
+i
+70
+i
+425
+s
+Sephal Niffis
+i
+45
+i
+180
+s
+Lady Saliane
+i
+77
+i
+20250
+s
+Corrupted Grave Frost
+i
+61
+i
+150
+s
+Lord Hendrel
+i
+14
+i
+12175
+s
+Lord Trimere
+i
+30
+i
+16250
+s
+Noble Remains
+i
+-1
+i
+-1
+s
+Guardian Statue
+i
+-1
+i
+-1
+s
+Door
+i
+-1
+i
+-1
+s
+Flame Guardian
+i
+38
+i
+250
+s
+Chick
+i
+69
+i
+1
+s
+Field Ursuin Cub
+i
+46
+i
+55
+s
+Carrion Shrethlet
+i
+32
+i
+15
+s
+Blood Shrethlet
+i
+32
+i
+20
+s
+Hunter Shrethlet
+i
+32
+i
+35
+s
+Dire Mattie
+i
+23
+i
+96
+s
+Ghastly Priestess
+i
+14
+i
+3000
+s
+Shambling Adherent
+i
+14
+i
+2500
+s
+Worm Feast
+i
+14
+i
+6130
+s
+Sodden Cadaver
+i
+14
+i
+6130
+s
+Narrow Rift
+i
+19
+i
+100
+s
+Tumideon Hollow Minion
+i
+48
+i
+250
+s
+Singular Virindi Director
+i
+19
+i
+145
+s
+Gnawer Shrethlet
+i
+32
+i
+8
+s
+Void
+i
+-1
+i
+-1
+s
+Shadow Engineer
+i
+22
+i
+1675
+s
+Shadow Flyer
+i
+22
+i
+1100
+s
+Grievver Shredder
+i
+44
+i
+2650
+s
+Devourer Margul
+i
+71
+i
+3470
+s
+Shadow Vortex
+i
+22
+i
+40400
+s
+Shadow's Breath
+i
+22
+i
+1828
+s
+Ebon Mattekar
+i
+23
+i
+475
+s
+Mosswart Cringer
+i
+4
+i
+185
+s
+Mosswart Muck Stalker
+i
+4
+i
+180
+s
+Gragghk
+i
+4
+i
+190
+s
+Raging Ursuin
+i
+46
+i
+375
+s
+Martinate Virindi Inquisitor
+i
+19
+i
+500
+s
+Russet Rat
+i
+10
+i
+15
+s
+Spark
+i
+42
+i
+55
+s
+Mosswart Clinger
+i
+4
+i
+190
+s
+High Mu-miyah
+i
+14
+i
+165
+s
+Risen Soldier
+i
+14
+i
+165
+s
+Dark Marionette
+i
+54
+i
+160
+s
+Ursuin Slasher Cub
+i
+46
+i
+100
+s
+Sandy Armoredillo Pup
+i
+17
+i
+65
+s
+Portal Pillar
+i
+-1
+i
+-1
+s
+Portal Keeper
+i
+83
+i
+720
+s
+Unchained Knight
+i
+83
+i
+10200
+s
+Shore Armoredillo
+i
+17
+i
+120
+s
+Royal Vivimancer
+i
+83
+i
+2505
+s
+Mana Barrier
+i
+-1
+i
+-1
+s
+Tiatus Lugian
+i
+5
+i
+450
+s
+Lugian Juggernaut
+i
+5
+i
+513
+s
+Enthralled Idolator
+i
+4
+i
+250
+s
+True Believer
+i
+4
+i
+225
+s
+Captain Waliknua
+i
+6
+i
+520
+s
+Desolation Moarsman
+i
+34
+i
+325
+s
+Giant Imprisoned Monouga
+i
+28
+i
+600450
+s
+Chilly the Snowman
+i
+39
+i
+45
+s
+Gotrok Aetherium Miner
+i
+70
+i
+1000
+s
+Gotrok Mining Foreman
+i
+70
+i
+4000
+s
+Hea Apostate Shock Trooper
+i
+6
+i
+1000
+s
+Hea Apostate Warlord
+i
+6
+i
+3500
+s
+Apostate Servant
+i
+19
+i
+1000
+s
+Apostate Master
+i
+19
+i
+6000
+s
+Apostate Sapper
+i
+19
+i
+1000
+s
+Apostate Excavation Foreman
+i
+19
+i
+3000
+s
+Apostate Excavation Master
+i
+19
+i
+6000
+s
+Maelstrom
+i
+62
+i
+570
+s
+Bane Grievver
+i
+44
+i
+538
+s
+Diamond Golem Suzerain
+i
+13
+i
+18000
+s
+Miasma
+i
+60
+i
+400
+s
+Apostate Nexus Hollow Minion
+i
+48
+i
+1000
+s
+Apostate Nexus Master
+i
+19
+i
+8000
+s
+Puffball Thrungus
+i
+82
+i
+929
+s
+Fire Morel Thrungus
+i
+82
+i
+2922
+s
+Black Morel Thrungus
+i
+82
+i
+2922
+s
+Jelly Thrungus
+i
+82
+i
+929
+s
+Frozen Wight High Acolyte
+i
+14
+i
+18255
+s
+Blight Revenant
+i
+14
+i
+443
+s
+Blight Lictor
+i
+14
+i
+1000
+s
+K'nath T'aed
+i
+21
+i
+90
+s
+K'nath N'osaj
+i
+21
+i
+60
+s
+Tumerok Standard Bearer
+i
+6
+i
+103
+s
+Tumerok Commander
+i
+6
+i
+160
+s
+Tumerok Lieutenant
+i
+6
+i
+110
+s
+Tumerok Controller
+i
+6
+i
+160
+s
+White Rat
+i
+10
+i
+10
+s
+Tiofor Ursuin
+i
+46
+i
+115
+s
+K'nath D'Nob
+i
+21
+i
+65
+s
+K'nath Z'bog
+i
+21
+i
+50
+s
+Apozim
+i
+60
+i
+200
+s
+Lugian Warlord
+i
+70
+i
+260
+s
+Swamp King
+i
+4
+i
+300
+s
+Sata Sclavus
+i
+26
+i
+145
+s
+Buillic
+i
+60
+i
+230
+s
+Tundra Mattekar
+i
+23
+i
+186
+s
+Uber Penguin
+i
+80
+i
+4500
+s
+Elite Guardian
+i
+13
+i
+20000
+s
+Stone Fists
+i
+13
+i
+5000
+s
+Ethereal Wisp
+i
+20
+i
+20
+s
+Snowy Mattekar
+i
+23
+i
+68
+s
+Azaxis
+i
+19
+i
+25000
+s
+Enthralled Zealot
+i
+4
+i
+275
+s
+Killagurg
+i
+4
+i
+100000
+s
+Dreadful Ursuin
+i
+46
+i
+5000
+s
+Obliterator
+i
+8
+i
+50000
+s
+Bronze Gauntlet Heavy Scout
+i
+99
+i
+9975
+s
+Gold Gear Heavy Scout
+i
+99
+i
+9975
+s
+Platinum Golem Mountain King
+i
+13
+i
+25000
+s
+Fallen Tumerok
+i
+6
+i
+5500
+s
+Fallen Drudge
+i
+3
+i
+5500
+s
+Small Coral Golem
+i
+13
+i
+560
+s
+Ruschk Warlord
+i
+81
+i
+280
+s
+Muck Glutton
+i
+34
+i
+300
+s
+Miry Moarsman
+i
+34
+i
+400
+s
+Cold One
+i
+26
+i
+330
+s
+Sishalti Eye Stalk
+i
+36
+i
+480
+s
+Sishalti Tentacle
+i
+36
+i
+450
+s
+Sishalti Tendril
+i
+36
+i
+440
+s
+Bur Lizk
+i
+14
+i
+8000
+s
+Astyrrian
+i
+42
+i
+450
+s
+Laigus Raider
+i
+70
+i
+105
+s
+Parfal Niffis
+i
+45
+i
+29
+s
+Fallen Crystal Shard
+i
+47
+i
+15500
+s
+Viamontian Mercenary
+i
+83
+i
+360
+s
+Famished Eater
+i
+79
+i
+325
+s
+Blockade Guard
+i
+83
+i
+460
+s
+Freshwater Armoredillo
+i
+17
+i
+105
+s
+Stony Armoredillo Pup
+i
+17
+i
+50
+s
+Brown Armoredillo Pup
+i
+17
+i
+30
+s
+K'nath B'orret
+i
+21
+i
+5000
+s
+West Armory Captain
+i
+77
+i
+20250
+s
+Rock Wall
+i
+-1
+i
+-1
+s
+North Armory Captain
+i
+77
+i
+20250
+s
+Forge Golem
+i
+13
+i
+3500
+s
+Spiny Armoredillo
+i
+17
+i
+45
+s
+Great Mattie
+i
+23
+i
+43
+s
+Warlock of the Blood
+i
+14
+i
+950
+s
+Thrungus
+i
+82
+i
+28
+s
+Pallid Moar
+i
+86
+i
+70
+s
+Pallid Moarsman
+i
+34
+i
+110
+s
+Guruk Destroyer
+i
+75
+i
+600
+s
+Thralled Guruk Spore Seeker
+i
+75
+i
+1030
+s
+Tormented Imperial Consort
+i
+14
+i
+3000
+s
+Infused Blood Golem
+i
+13
+i
+1200
+s
+Falatacot Blood Elder
+i
+14
+i
+3000
+s
+Falatacot Prison Warden
+i
+14
+i
+3000
+s
+Dream Marauder
+i
+19
+i
+600
+s
+Panumbral Soldier
+i
+22
+i
+6130
+s
+Thief of Dreams
+i
+19
+i
+5135
+s
+The Black Breath
+i
+22
+i
+858
+s
+Shade of Bael'Zharon
+i
+52
+i
+70000
+s
+Mu-miyah Channeller
+i
+14
+i
+7000
+s
+Mu-miyah Soothsayer
+i
+14
+i
+7000
+s
+Bak'tshay Lady
+i
+101
+i
+15130
+s
+Mu-miyah Grand Vizier
+i
+14
+i
+15200
+s
+Mu-miyah Slave Master
+i
+14
+i
+15200
+s
+Greater Penumbral Horror
+i
+44
+i
+4000
+s
+Obsidian Sentient Fragment
+i
+47
+i
+15000
+s
+Luminary Knight
+i
+62
+i
+6130
+s
+Inner Chamber Guardian
+i
+13
+i
+1616
+s
+Atlan's Crafting Golem
+i
+13
+i
+2000
+s
+Bronze Armoredillo Pup
+i
+17
+i
+50
+s
+Behemoth of Tenkarrdun
+i
+13
+i
+800
+s
+Tenkarrdun Hellfire
+i
+38
+i
+550
+s
+Radiant Blood Crystal Array
+i
+-1
+i
+-1
+s
+Charged Pillar
+i
+47
+i
+5000
+s
+Burning Pillar
+i
+47
+i
+5000
+s
+Iorik Tendril
+i
+36
+i
+440
+s
+Iorik Eye Stalk
+i
+36
+i
+480
+s
+Iorik Tentacle
+i
+36
+i
+450
+s
+Guardian of the Monolith
+i
+38
+i
+75000
+s
+Chained Tusker
+i
+8
+i
+500
+s
+Dark Bobo
+i
+8
+i
+200000
+s
+Mudmouth
+i
+59
+i
+300000
+s
+Imp
+i
+22
+i
+500
+s
+Paradox-touched Olthoi Ward Guardian
+i
+92
+i
+30250
+s
+Paradox-touched Olthoi Noble Nymph
+i
+92
+i
+450
+s
+Armored Skeleton Lord
+i
+30
+i
+475
+s
+Royal Inquisitor
+i
+83
+i
+890
+s
+Bloated Eater
+i
+79
+i
+785
+s
+Harraag
+i
+2
+i
+30000
+s
+Scoriscant
+i
+62
+i
+400
+s
+Polar Ursuin
+i
+46
+i
+370
+s
+Hoarfrost
+i
+61
+i
+1625
+s
+Frozen Ice Golem
+i
+13
+i
+1850
+s
+Wall of Ice
+i
+-1
+i
+-1
+s
+Freezing Mist Golem
+i
+13
+i
+3850
+s
+Frozen Glacial Golem
+i
+13
+i
+100350
+s
+Frozen Gearknight
+i
+99
+i
+601
+s
+Iron Blade Knight
+i
+99
+i
+808
+s
+Bronze Gauntlet Knight
+i
+99
+i
+808
+s
+Iron Blade Lord
+i
+99
+i
+808
+s
+Gold Gear Knight
+i
+99
+i
+808
+s
+Copper Cog Knight
+i
+99
+i
+808
+s
+Silver Scope Knight
+i
+99
+i
+808
+s
+Martinate Simulacrum
+i
+59
+i
+200
+s
+Martinate Simulacrum Magician
+i
+59
+i
+154
+s
+White Mattie
+i
+23
+i
+35
+s
+Tiofor Ursuin Cub
+i
+46
+i
+65
+s
+Zofrit Zefir
+i
+29
+i
+70
+s
+Dark Wisp
+i
+20
+i
+70
+s
+Theral
+i
+62
+i
+500
+s
+Sirrocco
+i
+62
+i
+550
+s
+Avalanche
+i
+62
+i
+500
+s
+Blizzard
+i
+62
+i
+500
+s
+Conflagration
+i
+62
+i
+530
+s
+Crystal Golem Imperator
+i
+13
+i
+20000
+s
+Tiatus Raider
+i
+70
+i
+450
+s
+Corrupt Conflagration
+i
+62
+i
+2130
+s
+Virindi Dreamslayer
+i
+19
+i
+12250
+s
+Virindi Archmage of Dream
+i
+19
+i
+7675
+s
+Bloodstone Shard
+i
+47
+i
+5000
+s
+Bloodstone Fragment
+i
+47
+i
+3000
+s
+Lord Kastellar
+i
+14
+i
+150000
+s
+Gurog Guardian
+i
+100
+i
+2000
+s
+Bloodstone Crystal Stockpile
+i
+-1
+i
+-1
+s
+Master Bloodstone
+i
+47
+i
+150000
+s
+Unstable Master Bloodstone Satellite
+i
+47
+i
+500
+s
+Master Bloodstone Satellite
+i
+47
+i
+1000
+s
+Invading Silver Scope Squire
+i
+99
+i
+720
+s
+Invading Iron Blade Squire
+i
+99
+i
+720
+s
+Invading Iron Blade Knight
+i
+99
+i
+808
+s
+Invading Bronze Gauntlet Knight
+i
+99
+i
+808
+s
+Master's Acolyte
+i
+31
+i
+600
+s
+The Master
+i
+31
+i
+500000
+s
+Brown Mouse
+i
+10
+i
+6
+s
+White Mouse
+i
+10
+i
+6
+s
+Thug
+i
+31
+i
+1975
+s
+Thug Boss
+i
+31
+i
+2075
+s
+The Unknown Warrior
+i
+31
+i
+50225
+s
+Soldier
+i
+31
+i
+1500
+s
+Gladiator Diemos
+i
+13
+i
+600000
+s
+Guardian of Diemos
+i
+13
+i
+1000
+s
+Pumpkin Buffer
+i
+40
+i
+25
+s
+Small Magma Golem
+i
+13
+i
+540
+s
+Vira al-Quain'ah's Spectre
+i
+77
+i
+870
+s
+Vira al-Quain'ah's Skeleton
+i
+30
+i
+920
+s
+Invading Copper Cog Knight
+i
+99
+i
+808
+s
+Bronze Statue of Thorsten Cragstone
+i
+63
+i
+245
+s
+Bronze Statue of a Zharalim
+i
+63
+i
+255
+s
+Bronze Statue of Ben Ten
+i
+63
+i
+235
+s
+Bronze Statue of a Sclavus
+i
+63
+i
+190
+s
+Shade of Lord Rytheran's Golem
+i
+13
+i
+430
+s
+Fiun Assistant
+i
+78
+i
+460
+s
+Blighted Hoary Armoredillo
+i
+17
+i
+265
+s
+Truffle Thrungus
+i
+82
+i
+218
+s
+Dire Champion Banderling
+i
+2
+i
+1110
+s
+Subtle Simulacrum
+i
+59
+i
+154
+s
+Simulacrum Doppelganger
+i
+59
+i
+3210
+s
+Ancient Luminary Knight
+i
+62
+i
+3500
+s
+Ancient Water Golem
+i
+13
+i
+8600
+s
+Ancient Aqueous Knight
+i
+62
+i
+3500
+s
+Ancient Sandstone Golem
+i
+13
+i
+9000
+s
+Obsidian Golem Noble
+i
+13
+i
+88000
+s
+Rage Wisp
+i
+20
+i
+18125
+s
+Ancient Mud Golem
+i
+13
+i
+8820
+s
+Ancient Tenebrous Knight
+i
+62
+i
+3500
+s
+Vira al-Quain'ah's Zombie
+i
+14
+i
+920
+s
+Gaerlan
+i
+51
+i
+76000
+s
+Virindi Guard
+i
+19
+i
+1650
+s
+Virindi Jailor
+i
+19
+i
+1480
+s
+Hollow Ward
+i
+48
+i
+1300
+s
+Virindi Keeper
+i
+19
+i
+8755
+s
+Dravann
+i
+48
+i
+20000
+s
+Corrupted Gravestone
+i
+-1
+i
+-1
+s
+Skeleton Ranger
+i
+30
+i
+3125
+s
+Burning Bones
+i
+30
+i
+3300
+s
+Wight Frost Mage
+i
+14
+i
+3370
+s
+Raging Wight
+i
+14
+i
+3820
+s
+Roused Spirit
+i
+77
+i
+3301
+s
+Spirit of Protection
+i
+77
+i
+9301
+s
+Count Phainor
+i
+30
+i
+11878
+s
+Guardian Wisp
+i
+20
+i
+4450
+s
+Shadowy Pillar
+i
+-1
+i
+-1
+s
+Reaver Simulacrum
+i
+59
+i
+890
+s
+Apostate Reaving Master
+i
+19
+i
+8000
+s
+Iron Blade Arrival Guard
+i
+99
+i
+1000
+s
+Iron Blade Lieutenant
+i
+99
+i
+25000
+s
+Spectral Archer
+i
+77
+i
+2200
+s
+Spectral Samurai
+i
+77
+i
+3750
+s
+Spectral Bushi
+i
+77
+i
+2850
+s
+Spectral Claw Master
+i
+77
+i
+2975
+s
+Spectral Blade Master
+i
+77
+i
+2975
+s
+Spectral Bloodmage
+i
+77
+i
+5200
+s
+Spectral Minion
+i
+77
+i
+2500
+s
+Bronze Golem Samurai
+i
+13
+i
+5250
+s
+Spectral Claw Adept
+i
+77
+i
+2675
+s
+Clay Golem Samurai
+i
+13
+i
+5250
+s
+Spectral Nanjou Shou-jen
+i
+77
+i
+3175
+s
+Iron Golem Samurai
+i
+13
+i
+5250
+s
+Spectral Blade Adept
+i
+77
+i
+2675
+s
+Spectral Voidmage
+i
+77
+i
+5200
+s
+Samurai Gatekeeper
+i
+77
+i
+3750
+s
+Sarcophagus
+i
+-1
+i
+-1
+s
+Giant Maggot
+i
+35
+i
+1250
+s
+Carrion Rat
+i
+10
+i
+2688
+s
+Rotting Mu-miyah
+i
+14
+i
+4000
+s
+Departed Spirit
+i
+77
+i
+7450
+s
+Decayed Wight
+i
+14
+i
+3400
+s
+Carcass Swarm
+i
+85
+i
+4630
+s
+Ronin Shimakawa
+i
+77
+i
+28250
+s
+Large Carrion Rat
+i
+10
+i
+2938
+s
+Ronin Ginmura
+i
+77
+i
+27000
+s
+Sickly Maggot
+i
+35
+i
+1650
+s
+Putrid Swarm
+i
+85
+i
+4730
+s
+Ronin Hirachi
+i
+77
+i
+25000
+s
+Samurai Titan
+i
+77
+i
+252300
+s
+Vicar Minion
+i
+77
+i
+3700
+s
+Exarch Nanjou Shou-jen
+i
+77
+i
+25175
+s
+Vicar Archer
+i
+77
+i
+3700
+s
+Vicar Blade Master
+i
+77
+i
+3675
+s
+First Lieutenant
+i
+77
+i
+75200
+s
+Zefir Thorn Ranger
+i
+29
+i
+8200
+s
+Emerald Thorn Gromnie
+i
+15
+i
+8200
+s
+Vermilion Thorn Gromnie
+i
+15
+i
+8200
+s
+A'nekshen Thorn Reaver
+i
+101
+i
+8200
+s
+Zefir Thorn Reaver
+i
+29
+i
+8200
+s
+Vermilion War Gromnie
+i
+15
+i
+15200
+s
+Emerald Hunting Gromnie
+i
+15
+i
+15200
+s
+A'nekshen Storm Caller
+i
+101
+i
+8200
+s
+Zefir Thorn Stalker
+i
+29
+i
+6200
+s
+Oaken Guardian
+i
+62
+i
+20200
+s
+Brier Wasp Swarm
+i
+9
+i
+10200
+s
+A'nekshen Thorn Dancer
+i
+101
+i
+8200
+s
+Poisonous Brier Wasp
+i
+9
+i
+8200
+s
+A'nekshen Storm Reaver
+i
+101
+i
+8200
+s
+Zefir Thorn Poisoner
+i
+29
+i
+6200
+s
+Brier Wasp
+i
+9
+i
+8200
+s
+Sath'tik Eyestalk
+i
+36
+i
+1230
+s
+Sath'tik Tentacle
+i
+36
+i
+1020
+s
+Sath'tik Tendril
+i
+36
+i
+810
+s
+A'nekshay Temple Guardian
+i
+101
+i
+2610
+s
+A'nekshay
+i
+101
+i
+2610
+s
+A'nekshay Temple Servant
+i
+101
+i
+3000
+s
+Discorporate Rynthid of Rage
+i
+19
+i
+500
+s
+Rynthid Slayer
+i
+19
+i
+12000
+s
+Rynthid Sorcerer
+i
+19
+i
+7675
+s
+Rift of Torment
+i
+19
+i
+10100
+s
+Rynthid Crystal
+i
+-1
+i
+-1
+s
+Discorporate Rynthid of Torment
+i
+19
+i
+100
+s
+Rynthid Rager
+i
+19
+i
+12000
+s
+Enraged Shadow
+i
+22
+i
+2380
+s
+Rift of Blind Rage
+i
+19
+i
+10100
+s
+Discorporate Rynthid of Blind Rage
+i
+19
+i
+100
+s
+Raging Rynthid Sorcerer
+i
+19
+i
+7675
+s
+Tormented Shadow
+i
+22
+i
+2380
+s
+Rynthid Minion
+i
+19
+i
+6175
+s
+Rift of Rage
+i
+19
+i
+10100
+s
+Rynthid Minion of Rage
+i
+19
+i
+6175
+s
+Dire Champion Virindi
+i
+19
+i
+1800
+s
+Dire Champion Shadow
+i
+22
+i
+1955
+s
+Ensorcelled Weapon
+i
+77
+i
+4865
+s
+Ensnared Soul
+i
+77
+i
+1395
+s
+Conveying Crystal
+i
+47
+i
+10001
+s
+Tainted Dust Golem
+i
+13
+i
+5985
+s
+Abducting Crystal
+i
+47
+i
+10001
+s
+Izexi
+i
+14
+i
+19878
+s
+Falatacot Zealot
+i
+14
+i
+7675
+s
+Coral Golem Viceroy
+i
+13
+i
+5000
+s
+Vaeshok
+i
+14
+i
+7630
+s
+Desert Cactus
+i
+-1
+i
+-1
+s
+Desert Phyntos Swarm
+i
+9
+i
+1850
+s
+Undead Commander
+i
+14
+i
+60250
+s
+Sodden Ruschk Chieftain
+i
+14
+i
+12200
+s
+Tortured Servant
+i
+14
+i
+3540
+s
+Forge Guardian
+i
+14
+i
+9540
+s
+Tiatus Smithy
+i
+5
+i
+3760
+s
+Tiatus Overseer
+i
+5
+i
+11760
+s
+Zrikux
+i
+14
+i
+14878
+s
+Amploth Lugian
+i
+5
+i
+125
+s
+Rift of Consuming Torment
+i
+19
+i
+10100
+s
+Discorporate Rynthid of Consuming Torment
+i
+19
+i
+100
+s
+Lothus Guardian of Torment
+i
+19
+i
+20000
+s
+Sanctum Warding Crystal
+i
+-1
+i
+-1
+s
+Claw Master Gatekeeper
+i
+77
+i
+5175
+s
+Clay Golem Sekkou
+i
+13
+i
+4750
+s
+Bronze Golem Sekkou
+i
+13
+i
+4950
+s
+Iron Golem Sekkou
+i
+13
+i
+5250
+s
+Clay Golem Kachi
+i
+13
+i
+6250
+s
+Bronze Golem Kachi
+i
+13
+i
+7750
+s
+Iron Golem Kachi
+i
+13
+i
+12350
+s
+Venomous Brier Wasp
+i
+9
+i
+8200
+s
+Daimyo Nobanuga
+i
+77
+i
+24750
+s
+Biaka Mukkir
+i
+89
+i
+12205
+s
+Blessed Moar
+i
+86
+i
+1420
+s
+Phyntos Larva
+i
+9
+i
+90
+s
+Killer Phyntos Queen
+i
+9
+i
+1060
+s
+Frozen Crystal
+i
+-1
+i
+-1
+s
+Renselm
+i
+14
+i
+7000
+s
+Geraine
+i
+31
+i
+200000
+s
+Brier Wasp Hive
+i
+-1
+i
+-1
+s
+Norshuntyr
+i
+62
+i
+200200
+s
+Emergent Ash Gromnus
+i
+15
+i
+6100
+s
+Emergent Azure Gromnus
+i
+15
+i
+6100
+s
+Emergent Rust Gromnus
+i
+15
+i
+6100
+s
+Emergent Ivory Gromnus
+i
+15
+i
+6100
+s
+Ritual Statue of Entrapment
+i
+-1
+i
+-1
+s
+Dune Seeker
+i
+16
+i
+2450
+s
+Dune Hunter
+i
+16
+i
+2200
+s
+Guardian Dune Reaper
+i
+16
+i
+2650
+s
+Dune Reaper
+i
+16
+i
+2650
+s
+Bushi Gatekeeper
+i
+77
+i
+2850
+s
+Spectral Samurai Daimyo
+i
+77
+i
+24750
+s
+Ward of Decay
+i
+-1
+i
+-1
+s
+Ward of Darkness
+i
+-1
+i
+-1
+s
+Ward of Blight
+i
+-1
+i
+-1
+s
+Spirit of Dana'lith
+i
+77
+i
+10000
+s
+Spirit of Rhia'ni
+i
+77
+i
+10000
+s
+Spirit of Khira'thi
+i
+77
+i
+10000
+s
+Materialized Hoshino Kei
+i
+77
+i
+500250
+s
+Dire Champion Drudge
+i
+3
+i
+1500
+s
+NightBrier
+i
+101
+i
+120200
+s
+Falatacot Blood Prophetess
+i
+14
+i
+2870
+s
+Sclavus Guard
+i
+26
+i
+1110
+s
+Moarsman Guard
+i
+34
+i
+1115
+s
+Empowered Hatred Wisp
+i
+20
+i
+20250
+s
+Empowered Despair Wisp
+i
+20
+i
+20125
+s
+Falatacot Guard
+i
+14
+i
+2870
+s
+Empowered Sorrow Wisp
+i
+20
+i
+20150
+s
+Pile O' Bones
+i
+30
+i
+33
+s
+Decaying Warrior
+i
+14
+i
+235
+s
+Filinuvekta Emissary
+i
+14
+i
+150000
+s
+Master of the Herd
+i
+11
+i
+145
+s
+Blighted Grimy Moarsman
+i
+98
+i
+695
+s
+Blighted Mucky Moarsman
+i
+34
+i
+1115
+s
+Blighted Scummy Moarsman
+i
+98
+i
+1115
+s
+Prior Kothmox
+i
+98
+i
+40000
+s
+Laisu Sclavus
+i
+26
+i
+1110
+s
+Disgusting Moarsman
+i
+34
+i
+275
+s
+Blind Keeper
+i
+98
+i
+60000
+s
+Gate Watcher
+i
+98
+i
+1115
+s
+Gear Hunter
+i
+59
+i
+1200
+s
+Gear Hunter Mage
+i
+59
+i
+890
+s
+Tikchti
+i
+26
+i
+6000
+s
+Tchk'Tain the Tender
+i
+26
+i
+6000
+s
+Wind Fury
+i
+101
+i
+120200
+s
+Mosswart Worshipper
+i
+4
+i
+820
+s
+Ancient Mu-miyah
+i
+14
+i
+130
+s
+Dire Champion Monouga
+i
+28
+i
+1800
+s
+Commander
+i
+31
+i
+7225
+s
+Corrupt Minion of Rage
+i
+19
+i
+6175
+s
+Corrupt Slayer
+i
+19
+i
+12250
+s
+Corrupt Lugian
+i
+5
+i
+6770
+s
+Corrupt Minion
+i
+19
+i
+6175
+s
+Corrupt Rager
+i
+19
+i
+12250
+s
+Corrupt Sorcerer
+i
+19
+i
+7675
+s
+Fiun Abayar
+i
+78
+i
+2080
+s
+Master of the Pack
+i
+16
+i
+125
+s
+Two Headed Snowman
+i
+39
+i
+70
+s
+Abyssal Child
+i
+22
+i
+580
+s
+Wretched Child
+i
+22
+i
+2000
+s
+Pandemic Child
+i
+22
+i
+580
+s
+Frozen Wight Archer
+i
+14
+i
+2200
+s
+Snow Tuskie
+i
+8
+i
+2325
+s
+Zirconium Golem
+i
+13
+i
+61
+s
+The Guardian Spirit
+i
+40
+i
+115
+s
+Cave Penguin
+i
+80
+i
+900
+s
+Jibrit Zefir
+i
+29
+i
+25
+s
+Banderling Raider Guardian
+i
+2
+i
+83
+s
+Baron of Colier
+i
+14
+i
+113
+s
+Accursed Miner
+i
+30
+i
+33
+s
+Cursed Foreman
+i
+14
+i
+89
+s
+Lich Overseer
+i
+14
+i
+89
+s
+Banderling Ogre
+i
+2
+i
+105
+s
+Marionette
+i
+54
+i
+125
+s
+Spectral Handmaiden
+i
+77
+i
+490
+s
+Ehlyis Sleech
+i
+45
+i
+12185
+s
+Great Cave Penguin
+i
+80
+i
+2700
+s
+Undead Lieutenant
+i
+14
+i
+655
+s
+Frigid Ice Golem
+i
+13
+i
+1810
+s
+Frigid Mist Golem
+i
+13
+i
+2160
+s
+Baby Penguin
+i
+80
+i
+30
+s
+Penguin Guardian
+i
+80
+i
+4000
+s
+Cowardly Snowman
+i
+39
+i
+460
+s
+Tiny
+i
+80
+i
+38000
+s
+Pillar of Frost
+i
+62
+i
+2000
+s
+Simulacrum Emulat
+i
+59
+i
+3330
+s
+Hollow Reaver
+i
+48
+i
+1800
+s
+Virindi Fulguris
+i
+19
+i
+6375
+s
+Virindi Signat
+i
+19
+i
+7175
+s
+Simulacrum Shifter
+i
+59
+i
+26335
+s
+Elemental Protector
+i
+62
+i
+1700
+s
+Duplicitous Simulacrum
+i
+59
+i
+494
+s
+The Crafter
+i
+59
+i
+845
+s
+Frozen Dread
+i
+77
+i
+20000
+s
+Banderling Leader
+i
+2
+i
+135
+s
+Banished Lugian
+i
+5
+i
+590
+s
+Lesser Acolyte
+i
+14
+i
+175
+s
+High Acolyte
+i
+14
+i
+175
+s
+Heavy Drudge Prowler
+i
+3
+i
+50
+s
+Undead Curator
+i
+14
+i
+53
+s
+Daimyo Idah
+i
+77
+i
+24750
+s
+Blighted Sotiris Hollow Minion
+i
+48
+i
+130
+s
+Simulacrum Mimic
+i
+59
+i
+4530
+s
+Aspect of Rage
+i
+19
+i
+150000
+s
+Rynthid Berserker
+i
+19
+i
+100000
+s
+Rynthid Ravager
+i
+19
+i
+100000
+s
+Raging Corrupt Sorcerer
+i
+19
+i
+7675
+s
+Corrupt Bulwark
+i
+19
+i
+100200
+s
+Aspect of Avarice
+i
+19
+i
+320200
+s
+Aspect of Torment
+i
+19
+i
+150000
+s
+Sawato Bandit
+i
+31
+i
+600
+s
+Spiked Grievver
+i
+44
+i
+185
+s
+Tumerok Champion Renegade
+i
+6
+i
+450
+s
+Guardian of the Ritual
+i
+6
+i
+1650
+s
+Gotrok Ligias
+i
+70
+i
+1670
+s
+Renegade Virindi
+i
+19
+i
+1625
+s
+Renegade Adept Shaman
+i
+6
+i
+1650
+s
+Gotrok Ornost
+i
+70
+i
+1750
+s
+Gotrok Extias
+i
+70
+i
+1675
+s
+Renegade Elite Trooper
+i
+6
+i
+4800
+s
+Thief
+i
+31
+i
+220
+s
+Bandit Mage
+i
+31
+i
+200
+s
+Bandit Lord
+i
+31
+i
+210
+s
+Insolent Penguin
+i
+80
+i
+750
+s
+Mudwort Thrungus
+i
+82
+i
+517
+s
+Nefarious Scarecrow
+i
+49
+i
+183
+s
+Emerald Gromnie
+i
+15
+i
+600
+s
+Amethyst Gromnie
+i
+15
+i
+600
+s
+Sapphire Gromnie
+i
+15
+i
+600
+s
+Ruby Gromnie
+i
+15
+i
+600
+s
+Shade of Lord Rytheran
+i
+14
+i
+200250
+s
+Forest Lord
+i
+13
+i
+95
+s
+Lord Rytheran
+i
+14
+i
+100250
+s
+Menilesh Guard
+i
+14
+i
+1105
+s
+Rooster
+i
+69
+i
+3
+s
+Thunder Chicken
+i
+69
+i
+200000
+s
+Lothus Guardian of Rage
+i
+19
+i
+20000
+s
+Spirit Rager
+i
+19
+i
+7450
+s
+Spirit Minion
+i
+19
+i
+6425
+s
+Spirit Sorcerer
+i
+19
+i
+5275
+s
+Dire Champion Skeleton
+i
+30
+i
+1551
+s
+Martinate Hollow Minion
+i
+48
+i
+400
+s
+Blight Hollow Minion
+i
+48
+i
+663
+s
+Lab Guardian
+i
+19
+i
+5000
+s
+Paradox Simulacrum
+i
+59
+i
+1200
+s
+Paradox Simulacrum War Mage
+i
+59
+i
+890
+s
+Demerax the Sculptor
+i
+19
+i
+5000
+s
+T'thuun Sclavus Huntsmaster
+i
+26
+i
+6000
+s
+Trained Great Devourer
+i
+27
+i
+1700
+s
+Master of Breath
+i
+31
+i
+400
+s
+Royal Mite Squire
+i
+7
+i
+200
+s
+Royal Mite Sentry
+i
+7
+i
+200
+s
+Royal Mite Matron
+i
+7
+i
+215
+s
+Alfrega the Reedshark
+i
+16
+i
+60
+s
+Dire Champion Lugian
+i
+70
+i
+2500
+s
+Seared Guard
+i
+30
+i
+283
+s
+Charred Miner
+i
+30
+i
+753
+s
+Lord Cambarth
+i
+30
+i
+953
+s
+Foreman Brelax
+i
+30
+i
+953
+s
+Virindi Overseer
+i
+19
+i
+275
+s
+Invading Silver Scope Knight
+i
+99
+i
+808
+s
+Invading Copper Cog Squire
+i
+99
+i
+720
+s
+Invading Bronze Gauntlet Squire
+i
+99
+i
+720
+s
+Invading Iron Blade Commander
+i
+99
+i
+5208
+s
+Iron Blade Overseer
+i
+99
+i
+200250
+s
+A'nekshen Corrupt Thorn Reaver
+i
+101
+i
+8200
+s
+Corrupted War Gromnie
+i
+15
+i
+15200
+s
+A'nekshen Thorn Corruptor
+i
+101
+i
+8200
+s
+Corrupting Thorn Gromnie
+i
+15
+i
+8200
+s
+Corrupted Guardian Wisp
+i
+20
+i
+20200
+s
+A'nekshen Storm Corruptor
+i
+101
+i
+8200
+s
+Archon Greis
+i
+31
+i
+600
+s
+Greater Void Lord
+i
+22
+i
+2500
+s
+Tormented Nightmare
+i
+22
+i
+2380
+s
+Rynthid Dragoon
+i
+19
+i
+21200
+s
+Corrupt Gear Sentry
+i
+99
+i
+7375
+s
+Corrupt Gear Warrior
+i
+99
+i
+7325
+s
+Rynthid Taskmaster
+i
+19
+i
+12675
+SpellQualityOverrides
+4
+SpellID
+Valid
+NewQuality
+NewFamily
+y
+n
+n
+n
+15
+i
+5182
+b
+False
+i
+400
+i
+695
+i
+5183
+b
+False
+i
+400
+i
+154
+i
+4400
+b
+False
+i
+400
+i
+156
+i
+2928
+b
+True
+i
+251
+i
+115
+i
+2929
+b
+True
+i
+277
+i
+1
+i
+2930
+b
+True
+i
+254
+i
+160
+i
+2932
+b
+True
+i
+-1
+i
+0
+i
+2933
+b
+True
+i
+-1
+i
+0
+i
+4428
+b
+True
+i
+400
+i
+100080
+i
+1172
+b
+True
+i
+50
+i
+80
+i
+1173
+b
+True
+i
+100
+i
+80
+i
+1174
+b
+True
+i
+150
+i
+80
+i
+1175
+b
+True
+i
+200
+i
+80
+i
+1176
+b
+True
+i
+250
+i
+80
+i
+2070
+b
+True
+i
+300
+i
+80

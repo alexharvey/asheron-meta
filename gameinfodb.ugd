@@ -17533,7 +17533,7 @@ MaximumHealth
 y
 n
 n
-1626
+1636
 s
 Black Rabbit
 i
@@ -27290,6 +27290,66 @@ i
 19
 i
 12675
+s
+Lugian Lackey
+i
+5
+i
+6350
+s
+Lugian Minion
+i
+5
+i
+6140
+s
+Lugian Guardian
+i
+5
+i
+7210
+s
+Captain Keeson
+i
+5
+i
+18770
+s
+Tormented Minion
+i
+19
+i
+6175
+s
+Corrupted Warrior
+i
+57
+i
+5570
+s
+Tormented Sorcerer
+i
+19
+i
+7675
+s
+Corrupted Shaman
+i
+57
+i
+4355
+s
+Tormented Slayer
+i
+19
+i
+7219
+s
+Tormented Watcher
+i
+48
+i
+20000
 SpellQualityOverrides
 4
 SpellID

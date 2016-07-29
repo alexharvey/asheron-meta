@@ -17533,7 +17533,7 @@ MaximumHealth
 y
 n
 n
-1649
+1651
 s
 Black Rabbit
 i
@@ -27428,6 +27428,18 @@ i
 14
 i
 200000
+s
+Cultist High Priest
+i
+31
+i
+890
+s
+Cultist Cohort
+i
+31
+i
+1075
 SpellQualityOverrides
 4
 SpellID

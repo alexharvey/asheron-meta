@@ -50,7 +50,7 @@ K
 V
 n
 n
-3
+2
 i
 6
 i
@@ -115,10 +115,6 @@ s
 c
 i
 1
-i
-4
-s
-\[Fellowship\] ().* (say|says), \"!start\"$
 s
 TaskInitiate
 s

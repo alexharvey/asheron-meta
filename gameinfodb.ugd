@@ -17533,7 +17533,7 @@ MaximumHealth
 y
 n
 n
-1636
+1649
 s
 Black Rabbit
 i
@@ -27350,6 +27350,84 @@ i
 48
 i
 20000
+s
+Algid Warrior
+i
+62
+i
+19730
+s
+Hard-Headed Skeleton
+i
+30
+i
+198
+s
+Gelidite Initiate
+i
+14
+i
+345
+s
+Gelidite Acolyte
+i
+14
+i
+345
+s
+Gelidite Lord
+i
+14
+i
+380
+s
+Gelidite Golem
+i
+13
+i
+555
+s
+Watcher's Wall
+i
+-1
+i
+-1
+s
+Watcher's Guard
+i
+5
+i
+800
+s
+Armored Guardian
+i
+30
+i
+6831
+s
+Wicked Skeleton
+i
+30
+i
+3300
+s
+Naughty Skeleton
+i
+30
+i
+3300
+s
+Filinuvekta Hieromancer
+i
+14
+i
+30000
+s
+Lord Winstead
+i
+14
+i
+200000
 SpellQualityOverrides
 4
 SpellID

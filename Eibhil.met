@@ -24,7 +24,7 @@ K
 V
 n
 n
-7
+6
 i
 2
 s
@@ -45,10 +45,6 @@ i
 2
 s
 /vt opt set idlepeacemode true
-i
-2
-s
-/vt settings load --Alderoth the Grey_Harvestgain_meta
 i
 2
 s
@@ -1874,7 +1870,7 @@ uTank2 NAV 1.2
 i
 2
 s
-/vt meta load DailyLumQuests(Void)
+/vt meta load IBControlMeta
 s
 Finished
 i

@@ -16672,7 +16672,7 @@ y
 n
 n
 n
-12
+13
 s
 Treated Healing Kit
 d
@@ -16767,6 +16767,14 @@ d
 1.6
 i
 100
+i
+1
+s
+Olthoi Fibrous Healing Tissue
+d
+2.5
+i
+70
 i
 1
 MartyrSpellOptions
@@ -17533,7 +17541,7 @@ MaximumHealth
 y
 n
 n
-1651
+1668
 s
 Black Rabbit
 i
@@ -27440,6 +27448,108 @@ i
 31
 i
 1075
+s
+Ethereal Rift
+i
+19
+i
+110
+s
+Northern Overseer
+i
+19
+i
+4100
+s
+Mosswart Mucker
+i
+4
+i
+75
+s
+Drudge Slave Keyholder
+i
+3
+i
+60
+s
+Braggart Mosswart
+i
+4
+i
+80
+s
+Ravenous Mosswart
+i
+4
+i
+75
+s
+Mosswart Overchief
+i
+4
+i
+110
+s
+Rebellious Penguin
+i
+80
+i
+60
+s
+Ruschk Fledgling
+i
+81
+i
+130
+s
+Ruschk Fledgemaster
+i
+81
+i
+130
+s
+Ursuin Rug Alive
+i
+46
+i
+80
+s
+Olthoi Swarm Harvester
+i
+1
+i
+126
+s
+Olthoi Swarm Gardener
+i
+1
+i
+158
+s
+Hollow Minion
+i
+48
+i
+110
+s
+Sotiris Virindi Director
+i
+19
+i
+145
+s
+Quiddity Rift
+i
+19
+i
+370
+s
+Strange Sclavus
+i
+26
+i
+255
 SpellQualityOverrides
 4
 SpellID

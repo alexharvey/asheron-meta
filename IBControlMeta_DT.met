@@ -11,7 +11,7 @@ n
 n
 n
 n
-752
+753
 i
 1
 i
@@ -1911,7 +1911,7 @@ i
 i
 0
 s
-/vt looting load LootSnobV4.utl
+/vt looting load LootSnobV4_DT.utl
 s
 Default
 i
@@ -6770,6 +6770,16 @@ s
 ^.*(You|Virindi Stalker).* (say|says|tells you|think), \"!AdvancedColo\"$
 s
 /vt meta load AutoColoTicket
+s
+Default2
+i
+8
+i
+2
+i
+0
+s
+/mt logout
 s
 Default2
 i

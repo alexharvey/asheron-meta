@@ -51,3 +51,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Virindi Tank's own binaries: never redistributed (its licence, clause 5); kept in ~/games/virindi
+*.dll
